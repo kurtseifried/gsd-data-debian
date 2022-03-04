@@ -1,0 +1,211 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2022 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2022-03-04 11:28:55">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2022</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2022</h1>
+<tt>[03 Mar 2022]</tt> <strong><a href="./dsa-5088">DSA-5088 varnish</a></strong> - security update <br>
+<tt>[25 Feb 2022]</tt> <strong><a href="./dsa-5087">DSA-5087 cyrus-sasl2</a></strong> - security update <br>
+<tt>[23 Feb 2022]</tt> <strong><a href="./dsa-5086">DSA-5086 thunderbird</a></strong> - security update <br>
+<tt>[22 Feb 2022]</tt> <strong><a href="./dsa-5085">DSA-5085 expat</a></strong> - security update <br>
+<tt>[19 Feb 2022]</tt> <strong><a href="./dsa-5084">DSA-5084 wpewebkit</a></strong> - security update <br>
+<tt>[19 Feb 2022]</tt> <strong><a href="./dsa-5083">DSA-5083 webkit2gtk</a></strong> - security update <br>
+<tt>[18 Feb 2022]</tt> <strong><a href="./dsa-5082">DSA-5082 php7.4</a></strong> - security update <br>
+<tt>[18 Feb 2022]</tt> <strong><a href="./dsa-5081">DSA-5081 redis</a></strong> - security update <br>
+<tt>[18 Feb 2022]</tt> <strong><a href="./dsa-5080">DSA-5080 snapd</a></strong> - security update <br>
+<tt>[17 Feb 2022]</tt> <strong><a href="./dsa-5079">DSA-5079 chromium</a></strong> - security update <br>
+<tt>[16 Feb 2022]</tt> <strong><a href="./dsa-5078">DSA-5078 zsh</a></strong> - security update <br>
+<tt>[15 Feb 2022]</tt> <strong><a href="./dsa-5077">DSA-5077 librecad</a></strong> - security update <br>
+<tt>[15 Feb 2022]</tt> <strong><a href="./dsa-5076">DSA-5076 h2database</a></strong> - security update <br>
+<tt>[14 Feb 2022]</tt> <strong><a href="./dsa-5075">DSA-5075 minetest</a></strong> - security update <br>
+<tt>[13 Feb 2022]</tt> <strong><a href="./dsa-5074">DSA-5074 thunderbird</a></strong> - security update <br>
+<tt>[12 Feb 2022]</tt> <strong><a href="./dsa-5073">DSA-5073 expat</a></strong> - security update <br>
+<tt>[11 Feb 2022]</tt> <strong><a href="./dsa-5072">DSA-5072 debian-edu-config</a></strong> - security update <br>
+<tt>[11 Feb 2022]</tt> <strong><a href="./dsa-5071">DSA-5071 samba</a></strong> - security update <br>
+<tt>[10 Feb 2022]</tt> <strong><a href="./dsa-5070">DSA-5070 cryptsetup</a></strong> - security update <br>
+<tt>[09 Feb 2022]</tt> <strong><a href="./dsa-5069">DSA-5069 firefox-esr</a></strong> - security update <br>
+<tt>[07 Feb 2022]</tt> <strong><a href="./dsa-5068">DSA-5068 chromium</a></strong> - security update <br>
+<tt>[03 Feb 2022]</tt> <strong><a href="./dsa-5067">DSA-5067 ruby2.7</a></strong> - security update <br>
+<tt>[03 Feb 2022]</tt> <strong><a href="./dsa-5066">DSA-5066 ruby2.5</a></strong> - security update <br>
+<tt>[31 Jan 2022]</tt> <strong><a href="./dsa-5065">DSA-5065 ipython</a></strong> - security update <br>
+<tt>[29 Jan 2022]</tt> <strong><a href="./dsa-5064">DSA-5064 python-nbxmpp</a></strong> - security update <br>
+<tt>[26 Jan 2022]</tt> <strong><a href="./dsa-5063">DSA-5063 uriparser</a></strong> - security update <br>
+<tt>[25 Jan 2022]</tt> <strong><a href="./dsa-5062">DSA-5062 nss</a></strong> - security update <br>
+<tt>[25 Jan 2022]</tt> <strong><a href="./dsa-5061">DSA-5061 wpewebkit</a></strong> - security update <br>
+<tt>[25 Jan 2022]</tt> <strong><a href="./dsa-5060">DSA-5060 webkit2gtk</a></strong> - security update <br>
+<tt>[25 Jan 2022]</tt> <strong><a href="./dsa-5059">DSA-5059 policykit-1</a></strong> - security update <br>
+<tt>[24 Jan 2022]</tt> <strong><a href="./dsa-5058">DSA-5058 openjdk-17</a></strong> - security update <br>
+<tt>[24 Jan 2022]</tt> <strong><a href="./dsa-5057">DSA-5057 openjdk-11</a></strong> - security update <br>
+<tt>[24 Jan 2022]</tt> <strong><a href="./dsa-5056">DSA-5056 strongswan</a></strong> - security update <br>
+<tt>[24 Jan 2022]</tt> <strong><a href="./dsa-5055">DSA-5055 util-linux</a></strong> - security update <br>
+<tt>[23 Jan 2022]</tt> <strong><a href="./dsa-5054">DSA-5054 chromium</a></strong> - security update <br>
+<tt>[21 Jan 2022]</tt> <strong><a href="./dsa-5053">DSA-5053 pillow</a></strong> - security update <br>
+<tt>[21 Jan 2022]</tt> <strong><a href="./dsa-5052">DSA-5052 usbview</a></strong> - security update <br>
+<tt>[20 Jan 2022]</tt> <strong><a href="./dsa-5051">DSA-5051 aide</a></strong> - security update <br>
+<tt>[20 Jan 2022]</tt> <strong><a href="./dsa-5050">DSA-5050 linux</a></strong> - security update <br>
+<tt>[20 Jan 2022]</tt> <strong><a href="./dsa-5049">DSA-5049 flatpak</a></strong> - security update <br>
+<tt>[15 Jan 2022]</tt> <strong><a href="./dsa-5048">DSA-5048 libreswan</a></strong> - security update <br>
+<tt>[15 Jan 2022]</tt> <strong><a href="./dsa-5047">DSA-5047 prosody</a></strong> - security update <br>
+<tt>[14 Jan 2022]</tt> <strong><a href="./dsa-5046">DSA-5046 chromium</a></strong> - security update <br>
+<tt>[14 Jan 2022]</tt> <strong><a href="./dsa-5045">DSA-5045 thunderbird</a></strong> - security update <br>
+<tt>[13 Jan 2022]</tt> <strong><a href="./dsa-5044">DSA-5044 firefox-esr</a></strong> - security update <br>
+<tt>[12 Jan 2022]</tt> <strong><a href="./dsa-5043">DSA-5043 lxml</a></strong> - security update <br>
+<tt>[12 Jan 2022]</tt> <strong><a href="./dsa-5042">DSA-5042 epiphany-browser</a></strong> - security update <br>
+<tt>[11 Jan 2022]</tt> <strong><a href="./dsa-5041">DSA-5041 cfrpki</a></strong> - security update <br>
+<tt>[11 Jan 2022]</tt> <strong><a href="./dsa-5040">DSA-5040 lighttpd</a></strong> - security update <br>
+<tt>[11 Jan 2022]</tt> <strong><a href="./dsa-5039">DSA-5039 wordpress</a></strong> - security update <br>
+<tt>[08 Jan 2022]</tt> <strong><a href="./dsa-5038">DSA-5038 ghostscript</a></strong> - security update <br>
+<tt>[08 Jan 2022]</tt> <strong><a href="./dsa-5037">DSA-5037 roundcube</a></strong> - security update <br>
+<tt>[06 Jan 2022]</tt> <strong><a href="./dsa-5036">DSA-5036 sphinxsearch</a></strong> - security update <br>
+<tt>[04 Jan 2022]</tt> <strong><a href="./dsa-5035">DSA-5035 apache2</a></strong> - security update <br>
+<tt>[02 Jan 2022]</tt> <strong><a href="./dsa-5034">DSA-5034 thunderbird</a></strong> - security update <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2022/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.ko.html" title="Korean" hreflang="ko" lang="ko" rel="alternate">&#54620;&#44397;&#50612;&nbsp;(Korean)</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Thu, Feb 17 13:10:19 UTC 2022
+&emsp;
+Last Built: Fri, Mar 4 11:28:56 UTC 2022
+  <br>
+  Copyright &copy; 2022
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>
