@@ -10,6 +10,7 @@ import json
 import datetime
 import sys
 import os
+import time
 
 uvi_script_version = "0.0.3"
 uvi_script_name = sys.argv[0]
@@ -21,8 +22,6 @@ global_url_list = sys.argv[1]
 
 uvi_url_downloads_repo = "/mnt/c/GitHub/gsd-data-debian"
 global_uvi_url_downloads = uvi_url_downloads_repo + "/data/"
-
-#global_uvi_url_downloads = "/mnt/c/GitHub/uvi-url-downloads/data"
 
 with open(global_url_list) as file:
     for line in file:
@@ -56,6 +55,8 @@ with open(global_url_list) as file:
         # Logic to check timestamp and get again if over X timestamp
 
         if already_seen == False:
+            # Add a ten second sleep to avoid triggering dos
+            time.sleep(10)
             timestamp = datetime.datetime.utcnow() # <-- get time in UTC
             request_timestamp = timestamp.isoformat("T") + "Z"
 
