@@ -1,0 +1,490 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2017 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:37:04">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2017</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2017</h1>
+<tt>[30 Dec 2017]</tt> <strong><a href="./dsa-4077">DSA-4077 gimp</a></strong> - security update <br>
+<tt>[30 Dec 2017]</tt> <strong><a href="./dsa-4076">DSA-4076 asterisk</a></strong> - security update <br>
+<tt>[29 Dec 2017]</tt> <strong><a href="./dsa-4075">DSA-4075 thunderbird</a></strong> - security update <br>
+<tt>[28 Dec 2017]</tt> <strong><a href="./dsa-4074">DSA-4074 imagemagick</a></strong> - security update <br>
+<tt>[23 Dec 2017]</tt> <strong><a href="./dsa-4073">DSA-4073 linux</a></strong> - security update <br>
+<tt>[21 Dec 2017]</tt> <strong><a href="./dsa-4072">DSA-4072 bouncycastle</a></strong> - security update <br>
+<tt>[21 Dec 2017]</tt> <strong><a href="./dsa-4071">DSA-4071 sensible-utils</a></strong> - security update <br>
+<tt>[21 Dec 2017]</tt> <strong><a href="./dsa-4070">DSA-4070 enigmail</a></strong> - security update <br>
+<tt>[20 Dec 2017]</tt> <strong><a href="./dsa-4069">DSA-4069 otrs2</a></strong> - security update <br>
+<tt>[17 Dec 2017]</tt> <strong><a href="./dsa-4068">DSA-4068 rsync</a></strong> - security update <br>
+<tt>[17 Dec 2017]</tt> <strong><a href="./dsa-4067">DSA-4067 openafs</a></strong> - security update <br>
+<tt>[17 Dec 2017]</tt> <strong><a href="./dsa-4066">DSA-4066 otrs2</a></strong> - security update <br>
+<tt>[17 Dec 2017]</tt> <strong><a href="./dsa-4065">DSA-4065 openssl1.0</a></strong> - security update <br>
+<tt>[12 Dec 2017]</tt> <strong><a href="./dsa-4064">DSA-4064 chromium-browser</a></strong> - security update <br>
+<tt>[11 Dec 2017]</tt> <strong><a href="./dsa-4063">DSA-4063 pdns-recursor</a></strong> - security update <br>
+<tt>[10 Dec 2017]</tt> <strong><a href="./dsa-4062">DSA-4062 firefox-esr</a></strong> - security update <br>
+<tt>[10 Dec 2017]</tt> <strong><a href="./dsa-4061">DSA-4061 thunderbird</a></strong> - security update <br>
+<tt>[09 Dec 2017]</tt> <strong><a href="./dsa-4060">DSA-4060 wireshark</a></strong> - security update <br>
+<tt>[08 Dec 2017]</tt> <strong><a href="./dsa-4059">DSA-4059 libxcursor</a></strong> - security update <br>
+<tt>[08 Dec 2017]</tt> <strong><a href="./dsa-4058">DSA-4058 optipng</a></strong> - security update <br>
+<tt>[08 Dec 2017]</tt> <strong><a href="./dsa-4057">DSA-4057 erlang</a></strong> - security update <br>
+<tt>[07 Dec 2017]</tt> <strong><a href="./dsa-4056">DSA-4056 nova</a></strong> - security update <br>
+<tt>[07 Dec 2017]</tt> <strong><a href="./dsa-4055">DSA-4055 heimdal</a></strong> - security update <br>
+<tt>[03 Dec 2017]</tt> <strong><a href="./dsa-4054">DSA-4054 tor</a></strong> - security update <br>
+<tt>[30 Nov 2017]</tt> <strong><a href="./dsa-4053">DSA-4053 exim4</a></strong> - security update <br>
+<tt>[29 Nov 2017]</tt> <strong><a href="./dsa-4052">DSA-4052 bzr</a></strong> - security update <br>
+<tt>[29 Nov 2017]</tt> <strong><a href="./dsa-4051">DSA-4051 curl</a></strong> - security update <br>
+<tt>[28 Nov 2017]</tt> <strong><a href="./dsa-4050">DSA-4050 xen</a></strong> - security update <br>
+<tt>[27 Nov 2017]</tt> <strong><a href="./dsa-4049">DSA-4049 ffmpeg</a></strong> - security update <br>
+<tt>[23 Nov 2017]</tt> <strong><a href="./dsa-4048">DSA-4048 openjdk-7</a></strong> - security update <br>
+<tt>[23 Nov 2017]</tt> <strong><a href="./dsa-4047">DSA-4047 otrs2</a></strong> - security update <br>
+<tt>[22 Nov 2017]</tt> <strong><a href="./dsa-4046">DSA-4046 libspring-ldap-java</a></strong> - security update <br>
+<tt>[21 Nov 2017]</tt> <strong><a href="./dsa-4045">DSA-4045 vlc</a></strong> - security update <br>
+<tt>[21 Nov 2017]</tt> <strong><a href="./dsa-4044">DSA-4044 swauth</a></strong> - security update <br>
+<tt>[21 Nov 2017]</tt> <strong><a href="./dsa-4043">DSA-4043 samba</a></strong> - security update <br>
+<tt>[19 Nov 2017]</tt> <strong><a href="./dsa-4042">DSA-4042 libxml-libxml-perl</a></strong> - security update <br>
+<tt>[19 Nov 2017]</tt> <strong><a href="./dsa-4041">DSA-4041 procmail</a></strong> - security update <br>
+<tt>[17 Nov 2017]</tt> <strong><a href="./dsa-4040">DSA-4040 imagemagick</a></strong> - security update <br>
+<tt>[16 Nov 2017]</tt> <strong><a href="./dsa-4039">DSA-4039 opensaml2</a></strong> - security update <br>
+<tt>[16 Nov 2017]</tt> <strong><a href="./dsa-4038">DSA-4038 shibboleth-sp2</a></strong> - security update <br>
+<tt>[16 Nov 2017]</tt> <strong><a href="./dsa-4037">DSA-4037 jackson-databind</a></strong> - security update <br>
+<tt>[15 Nov 2017]</tt> <strong><a href="./dsa-4036">DSA-4036 mediawiki</a></strong> - security update <br>
+<tt>[15 Nov 2017]</tt> <strong><a href="./dsa-4035">DSA-4035 firefox-esr</a></strong> - security update <br>
+<tt>[15 Nov 2017]</tt> <strong><a href="./dsa-4034">DSA-4034 varnish</a></strong> - security update <br>
+<tt>[13 Nov 2017]</tt> <strong><a href="./dsa-4033">DSA-4033 konversation</a></strong> - security update <br>
+<tt>[12 Nov 2017]</tt> <strong><a href="./dsa-4032">DSA-4032 imagemagick</a></strong> - security update <br>
+<tt>[11 Nov 2017]</tt> <strong><a href="./dsa-4031">DSA-4031 ruby2.3</a></strong> - security update <br>
+<tt>[09 Nov 2017]</tt> <strong><a href="./dsa-4030">DSA-4030 roundcube</a></strong> - security update <br>
+<tt>[09 Nov 2017]</tt> <strong><a href="./dsa-4029">DSA-4029 postgresql-common</a></strong> - security update <br>
+<tt>[09 Nov 2017]</tt> <strong><a href="./dsa-4028">DSA-4028 postgresql-9.6</a></strong> - security update <br>
+<tt>[09 Nov 2017]</tt> <strong><a href="./dsa-4027">DSA-4027 postgresql-9.4</a></strong> - security update <br>
+<tt>[09 Nov 2017]</tt> <strong><a href="./dsa-4026">DSA-4026 bchunk</a></strong> - security update <br>
+<tt>[08 Nov 2017]</tt> <strong><a href="./dsa-4025">DSA-4025 libpam4j</a></strong> - security update <br>
+<tt>[08 Nov 2017]</tt> <strong><a href="./dsa-4024">DSA-4024 chromium-browser</a></strong> - security update <br>
+<tt>[07 Nov 2017]</tt> <strong><a href="./dsa-4023">DSA-4023 slurm-llnl</a></strong> - security update <br>
+<tt>[07 Nov 2017]</tt> <strong><a href="./dsa-4022">DSA-4022 libreoffice</a></strong> - security update <br>
+<tt>[07 Nov 2017]</tt> <strong><a href="./dsa-4021">DSA-4021 otrs2</a></strong> - security update <br>
+<tt>[05 Nov 2017]</tt> <strong><a href="./dsa-4020">DSA-4020 chromium-browser</a></strong> - security update <br>
+<tt>[05 Nov 2017]</tt> <strong><a href="./dsa-4019">DSA-4019 imagemagick</a></strong> - security update <br>
+<tt>[04 Nov 2017]</tt> <strong><a href="./dsa-4018">DSA-4018 openssl</a></strong> - security update <br>
+<tt>[03 Nov 2017]</tt> <strong><a href="./dsa-4017">DSA-4017 openssl1.0</a></strong> - security update <br>
+<tt>[03 Nov 2017]</tt> <strong><a href="./dsa-4016">DSA-4016 irssi</a></strong> - security update <br>
+<tt>[02 Nov 2017]</tt> <strong><a href="./dsa-4015">DSA-4015 openjdk-8</a></strong> - security update <br>
+<tt>[01 Nov 2017]</tt> <strong><a href="./dsa-4014">DSA-4014 thunderbird</a></strong> - security update <br>
+<tt>[31 Oct 2017]</tt> <strong><a href="./dsa-4013">DSA-4013 openjpeg2</a></strong> - security update <br>
+<tt>[31 Oct 2017]</tt> <strong><a href="./dsa-4012">DSA-4012 libav</a></strong> - security update <br>
+<tt>[30 Oct 2017]</tt> <strong><a href="./dsa-4011">DSA-4011 quagga</a></strong> - security update <br>
+<tt>[30 Oct 2017]</tt> <strong><a href="./dsa-4010">DSA-4010 git-annex</a></strong> - security update <br>
+<tt>[29 Oct 2017]</tt> <strong><a href="./dsa-4009">DSA-4009 shadowsocks-libev</a></strong> - security update <br>
+<tt>[28 Oct 2017]</tt> <strong><a href="./dsa-4008">DSA-4008 wget</a></strong> - security update <br>
+<tt>[27 Oct 2017]</tt> <strong><a href="./dsa-4007">DSA-4007 curl</a></strong> - security update <br>
+<tt>[24 Oct 2017]</tt> <strong><a href="./dsa-4006">DSA-4006 mupdf</a></strong> - security update <br>
+<tt>[20 Oct 2017]</tt> <strong><a href="./dsa-4005">DSA-4005 openjfx</a></strong> - security update <br>
+<tt>[20 Oct 2017]</tt> <strong><a href="./dsa-4004">DSA-4004 jackson-databind</a></strong> - security update <br>
+<tt>[19 Oct 2017]</tt> <strong><a href="./dsa-4003">DSA-4003 libvirt</a></strong> - security update <br>
+<tt>[19 Oct 2017]</tt> <strong><a href="./dsa-4002">DSA-4002 mysql-5.5</a></strong> - security update <br>
+<tt>[19 Oct 2017]</tt> <strong><a href="./dsa-4001">DSA-4001 yadifa</a></strong> - security update <br>
+<tt>[17 Oct 2017]</tt> <strong><a href="./dsa-4000">DSA-4000 xorg-server</a></strong> - security update <br>
+<tt>[16 Oct 2017]</tt> <strong><a href="./dsa-3999">DSA-3999 wpa</a></strong> - security update <br>
+<tt>[11 Oct 2017]</tt> <strong><a href="./dsa-3998">DSA-3998 nss</a></strong> - security update <br>
+<tt>[10 Oct 2017]</tt> <strong><a href="./dsa-3997">DSA-3997 wordpress</a></strong> - security update <br>
+<tt>[10 Oct 2017]</tt> <strong><a href="./dsa-3996">DSA-3996 ffmpeg</a></strong> - security update <br>
+<tt>[10 Oct 2017]</tt> <strong><a href="./dsa-3995">DSA-3995 libxfont</a></strong> - security update <br>
+<tt>[07 Oct 2017]</tt> <strong><a href="./dsa-3994">DSA-3994 nautilus</a></strong> - security update <br>
+<tt>[06 Oct 2017]</tt> <strong><a href="./dsa-3993">DSA-3993 tor</a></strong> - security update <br>
+<tt>[06 Oct 2017]</tt> <strong><a href="./dsa-3992">DSA-3992 curl</a></strong> - security update <br>
+<tt>[03 Oct 2017]</tt> <strong><a href="./dsa-3991">DSA-3991 qemu</a></strong> - security update <br>
+<tt>[03 Oct 2017]</tt> <strong><a href="./dsa-3990">DSA-3990 asterisk</a></strong> - security update <br>
+<tt>[02 Oct 2017]</tt> <strong><a href="./dsa-3989">DSA-3989 dnsmasq</a></strong> - security update <br>
+<tt>[30 Sep 2017]</tt> <strong><a href="./dsa-3988">DSA-3988 libidn2-0</a></strong> - security update <br>
+<tt>[29 Sep 2017]</tt> <strong><a href="./dsa-3987">DSA-3987 firefox-esr</a></strong> - security update <br>
+<tt>[29 Sep 2017]</tt> <strong><a href="./dsa-3986">DSA-3986 ghostscript</a></strong> - security update <br>
+<tt>[28 Sep 2017]</tt> <strong><a href="./dsa-3985">DSA-3985 chromium-browser</a></strong> - security update <br>
+<tt>[26 Sep 2017]</tt> <strong><a href="./dsa-3984">DSA-3984 git</a></strong> - security update <br>
+<tt>[22 Sep 2017]</tt> <strong><a href="./dsa-3983">DSA-3983 samba</a></strong> - security update <br>
+<tt>[21 Sep 2017]</tt> <strong><a href="./dsa-3982">DSA-3982 perl</a></strong> - security update <br>
+<tt>[20 Sep 2017]</tt> <strong><a href="./dsa-3981">DSA-3981 linux</a></strong> - security update <br>
+<tt>[20 Sep 2017]</tt> <strong><a href="./dsa-3980">DSA-3980 apache2</a></strong> - security update <br>
+<tt>[19 Sep 2017]</tt> <strong><a href="./dsa-3979">DSA-3979 pyjwt</a></strong> - security update <br>
+<tt>[18 Sep 2017]</tt> <strong><a href="./dsa-3978">DSA-3978 gdk-pixbuf</a></strong> - security update <br>
+<tt>[18 Sep 2017]</tt> <strong><a href="./dsa-3977">DSA-3977 newsbeuter</a></strong> - security update <br>
+<tt>[17 Sep 2017]</tt> <strong><a href="./dsa-3976">DSA-3976 freexl</a></strong> - security update <br>
+<tt>[15 Sep 2017]</tt> <strong><a href="./dsa-3975">DSA-3975 emacs25</a></strong> - security update <br>
+<tt>[15 Sep 2017]</tt> <strong><a href="./dsa-3974">DSA-3974 tomcat8</a></strong> - security update <br>
+<tt>[14 Sep 2017]</tt> <strong><a href="./dsa-3973">DSA-3973 wordpress-shibboleth</a></strong> - security update <br>
+<tt>[13 Sep 2017]</tt> <strong><a href="./dsa-3972">DSA-3972 bluez</a></strong> - security update <br>
+<tt>[13 Sep 2017]</tt> <strong><a href="./dsa-3971">DSA-3971 tcpdump</a></strong> - security update <br>
+<tt>[12 Sep 2017]</tt> <strong><a href="./dsa-3970">DSA-3970 emacs24</a></strong> - security update <br>
+<tt>[12 Sep 2017]</tt> <strong><a href="./dsa-3969">DSA-3969 xen</a></strong> - security update <br>
+<tt>[11 Sep 2017]</tt> <strong><a href="./dsa-3968">DSA-3968 icedove</a></strong> - security update <br>
+<tt>[08 Sep 2017]</tt> <strong><a href="./dsa-3967">DSA-3967 mbedtls</a></strong> - security update <br>
+<tt>[05 Sep 2017]</tt> <strong><a href="./dsa-3966">DSA-3966 ruby2.3</a></strong> - security update <br>
+<tt>[05 Sep 2017]</tt> <strong><a href="./dsa-3965">DSA-3965 file</a></strong> - security update <br>
+<tt>[04 Sep 2017]</tt> <strong><a href="./dsa-3964">DSA-3964 asterisk</a></strong> - security update <br>
+<tt>[04 Sep 2017]</tt> <strong><a href="./dsa-3963">DSA-3963 mercurial</a></strong> - security update <br>
+<tt>[03 Sep 2017]</tt> <strong><a href="./dsa-3962">DSA-3962 strongswan</a></strong> - security update <br>
+<tt>[03 Sep 2017]</tt> <strong><a href="./dsa-3961">DSA-3961 libgd2</a></strong> - security update <br>
+<tt>[01 Sep 2017]</tt> <strong><a href="./dsa-3960">DSA-3960 gnupg</a></strong> - security update <br>
+<tt>[29 Aug 2017]</tt> <strong><a href="./dsa-3959">DSA-3959 libgcrypt20</a></strong> - security update <br>
+<tt>[29 Aug 2017]</tt> <strong><a href="./dsa-3958">DSA-3958 fontforge</a></strong> - security update <br>
+<tt>[28 Aug 2017]</tt> <strong><a href="./dsa-3957">DSA-3957 ffmpeg</a></strong> - security update <br>
+<tt>[27 Aug 2017]</tt> <strong><a href="./dsa-3956">DSA-3956 connman</a></strong> - security update <br>
+<tt>[26 Aug 2017]</tt> <strong><a href="./dsa-3955">DSA-3955 mariadb-10.1</a></strong> - security update <br>
+<tt>[25 Aug 2017]</tt> <strong><a href="./dsa-3954">DSA-3954 openjdk-7</a></strong> - security update <br>
+<tt>[23 Aug 2017]</tt> <strong><a href="./dsa-3953">DSA-3953 aodh</a></strong> - security update <br>
+<tt>[23 Aug 2017]</tt> <strong><a href="./dsa-3952">DSA-3952 libxml2</a></strong> - security update <br>
+<tt>[22 Aug 2017]</tt> <strong><a href="./dsa-3951">DSA-3951 smb4k</a></strong> - security update <br>
+<tt>[21 Aug 2017]</tt> <strong><a href="./dsa-3950">DSA-3950 libraw</a></strong> - security update <br>
+<tt>[21 Aug 2017]</tt> <strong><a href="./dsa-3949">DSA-3949 augeas</a></strong> - security update <br>
+<tt>[19 Aug 2017]</tt> <strong><a href="./dsa-3948">DSA-3948 ioquake3</a></strong> - security update <br>
+<tt>[18 Aug 2017]</tt> <strong><a href="./dsa-3947">DSA-3947 newsbeuter</a></strong> - security update <br>
+<tt>[18 Aug 2017]</tt> <strong><a href="./dsa-3946">DSA-3946 libmspack</a></strong> - security update <br>
+<tt>[17 Aug 2017]</tt> <strong><a href="./dsa-3945">DSA-3945 linux</a></strong> - security update <br>
+<tt>[17 Aug 2017]</tt> <strong><a href="./dsa-3944">DSA-3944 mariadb-10.0</a></strong> - security update <br>
+<tt>[14 Aug 2017]</tt> <strong><a href="./dsa-3943">DSA-3943 gajim</a></strong> - security update <br>
+<tt>[13 Aug 2017]</tt> <strong><a href="./dsa-3942">DSA-3942 supervisor</a></strong> - security update <br>
+<tt>[13 Aug 2017]</tt> <strong><a href="./dsa-3941">DSA-3941 iortcw</a></strong> - security update <br>
+<tt>[13 Aug 2017]</tt> <strong><a href="./dsa-3940">DSA-3940 cvs</a></strong> - security update <br>
+<tt>[12 Aug 2017]</tt> <strong><a href="./dsa-3939">DSA-3939 botan1.10</a></strong> - security update <br>
+<tt>[12 Aug 2017]</tt> <strong><a href="./dsa-3938">DSA-3938 libgd2</a></strong> - security update <br>
+<tt>[12 Aug 2017]</tt> <strong><a href="./dsa-3937">DSA-3937 zabbix</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3936">DSA-3936 postgresql-9.6</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3935">DSA-3935 postgresql-9.4</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3934">DSA-3934 git</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3933">DSA-3933 pjproject</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3932">DSA-3932 subversion</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3931">DSA-3931 ruby-rack-cors</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3930">DSA-3930 freeradius</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3929">DSA-3929 libsoup2.4</a></strong> - security update <br>
+<tt>[10 Aug 2017]</tt> <strong><a href="./dsa-3928">DSA-3928 firefox-esr</a></strong> - security update <br>
+<tt>[07 Aug 2017]</tt> <strong><a href="./dsa-3927">DSA-3927 linux</a></strong> - security update <br>
+<tt>[04 Aug 2017]</tt> <strong><a href="./dsa-3926">DSA-3926 chromium-browser</a></strong> - security update <br>
+<tt>[04 Aug 2017]</tt> <strong><a href="./dsa-3925">DSA-3925 qemu</a></strong> - security update <br>
+<tt>[02 Aug 2017]</tt> <strong><a href="./dsa-3924">DSA-3924 varnish</a></strong> - security update <br>
+<tt>[01 Aug 2017]</tt> <strong><a href="./dsa-3923">DSA-3923 freerdp</a></strong> - security update <br>
+<tt>[28 Jul 2017]</tt> <strong><a href="./dsa-3922">DSA-3922 mysql-5.5</a></strong> - security update <br>
+<tt>[28 Jul 2017]</tt> <strong><a href="./dsa-3921">DSA-3921 enigmail</a></strong> - security update <br>
+<tt>[25 Jul 2017]</tt> <strong><a href="./dsa-3920">DSA-3920 qemu</a></strong> - security update <br>
+<tt>[25 Jul 2017]</tt> <strong><a href="./dsa-3919">DSA-3919 openjdk-8</a></strong> - security update <br>
+<tt>[25 Jul 2017]</tt> <strong><a href="./dsa-3918">DSA-3918 icedove</a></strong> - security update <br>
+<tt>[23 Jul 2017]</tt> <strong><a href="./dsa-3917">DSA-3917 catdoc</a></strong> - security update <br>
+<tt>[21 Jul 2017]</tt> <strong><a href="./dsa-3916">DSA-3916 atril</a></strong> - security update <br>
+<tt>[20 Jul 2017]</tt> <strong><a href="./dsa-3915">DSA-3915 ruby-mixlib-archive</a></strong> - security update <br>
+<tt>[18 Jul 2017]</tt> <strong><a href="./dsa-3914">DSA-3914 imagemagick</a></strong> - security update <br>
+<tt>[18 Jul 2017]</tt> <strong><a href="./dsa-3913">DSA-3913 apache2</a></strong> - security update <br>
+<tt>[16 Jul 2017]</tt> <strong><a href="./dsa-3912">DSA-3912 heimdal</a></strong> - security update <br>
+<tt>[14 Jul 2017]</tt> <strong><a href="./dsa-3911">DSA-3911 evince</a></strong> - security update <br>
+<tt>[14 Jul 2017]</tt> <strong><a href="./dsa-3910">DSA-3910 knot</a></strong> - security update <br>
+<tt>[14 Jul 2017]</tt> <strong><a href="./dsa-3909">DSA-3909 samba</a></strong> - security update <br>
+<tt>[12 Jul 2017]</tt> <strong><a href="./dsa-3908">DSA-3908 nginx</a></strong> - security update <br>
+<tt>[11 Jul 2017]</tt> <strong><a href="./dsa-3907">DSA-3907 spice</a></strong> - security update <br>
+<tt>[11 Jul 2017]</tt> <strong><a href="./dsa-3906">DSA-3906 undertow</a></strong> - security update <br>
+<tt>[09 Jul 2017]</tt> <strong><a href="./dsa-3905">DSA-3905 xorg-server</a></strong> - security update <br>
+<tt>[08 Jul 2017]</tt> <strong><a href="./dsa-3904">DSA-3904 bind9</a></strong> - security update <br>
+<tt>[05 Jul 2017]</tt> <strong><a href="./dsa-3903">DSA-3903 tiff</a></strong> - security update <br>
+<tt>[05 Jul 2017]</tt> <strong><a href="./dsa-3902">DSA-3902 jabberd2</a></strong> - security update <br>
+<tt>[02 Jul 2017]</tt> <strong><a href="./dsa-3901">DSA-3901 libgcrypt20</a></strong> - security update <br>
+<tt>[27 Jun 2017]</tt> <strong><a href="./dsa-3900">DSA-3900 openvpn</a></strong> - security update <br>
+<tt>[27 Jun 2017]</tt> <strong><a href="./dsa-3899">DSA-3899 vlc</a></strong> - security update <br>
+<tt>[25 Jun 2017]</tt> <strong><a href="./dsa-3898">DSA-3898 expat</a></strong> - security update <br>
+<tt>[24 Jun 2017]</tt> <strong><a href="./dsa-3897">DSA-3897 drupal7</a></strong> - security update <br>
+<tt>[22 Jun 2017]</tt> <strong><a href="./dsa-3896">DSA-3896 apache2</a></strong> - security update <br>
+<tt>[22 Jun 2017]</tt> <strong><a href="./dsa-3895">DSA-3895 flatpak</a></strong> - security update <br>
+<tt>[22 Jun 2017]</tt> <strong><a href="./dsa-3894">DSA-3894 graphite2</a></strong> - security update <br>
+<tt>[22 Jun 2017]</tt> <strong><a href="./dsa-3893">DSA-3893 jython</a></strong> - security update <br>
+<tt>[22 Jun 2017]</tt> <strong><a href="./dsa-3892">DSA-3892 tomcat7</a></strong> - security update <br>
+<tt>[22 Jun 2017]</tt> <strong><a href="./dsa-3891">DSA-3891 tomcat8</a></strong> - security update <br>
+<tt>[21 Jun 2017]</tt> <strong><a href="./dsa-3890">DSA-3890 spip</a></strong> - security update <br>
+<tt>[19 Jun 2017]</tt> <strong><a href="./dsa-3889">DSA-3889 libffi</a></strong> - security update <br>
+<tt>[19 Jun 2017]</tt> <strong><a href="./dsa-3888">DSA-3888 exim4</a></strong> - security update <br>
+<tt>[19 Jun 2017]</tt> <strong><a href="./dsa-3887">DSA-3887 glibc</a></strong> - security update <br>
+<tt>[19 Jun 2017]</tt> <strong><a href="./dsa-3886">DSA-3886 linux</a></strong> - security update <br>
+<tt>[18 Jun 2017]</tt> <strong><a href="./dsa-3885">DSA-3885 irssi</a></strong> - security update <br>
+<tt>[16 Jun 2017]</tt> <strong><a href="./dsa-3884">DSA-3884 gnutls28</a></strong> - security update <br>
+<tt>[15 Jun 2017]</tt> <strong><a href="./dsa-3883">DSA-3883 rt-authen-externalauth</a></strong> - security update <br>
+<tt>[15 Jun 2017]</tt> <strong><a href="./dsa-3882">DSA-3882 request-tracker4</a></strong> - security update <br>
+<tt>[14 Jun 2017]</tt> <strong><a href="./dsa-3881">DSA-3881 firefox-esr</a></strong> - security update <br>
+<tt>[14 Jun 2017]</tt> <strong><a href="./dsa-3880">DSA-3880 libgcrypt20</a></strong> - security update <br>
+<tt>[13 Jun 2017]</tt> <strong><a href="./dsa-3879">DSA-3879 libosip2</a></strong> - security update <br>
+<tt>[12 Jun 2017]</tt> <strong><a href="./dsa-3878">DSA-3878 zziplib</a></strong> - security update <br>
+<tt>[10 Jun 2017]</tt> <strong><a href="./dsa-3877">DSA-3877 tor</a></strong> - security update <br>
+<tt>[09 Jun 2017]</tt> <strong><a href="./dsa-3876">DSA-3876 otrs2</a></strong> - security update <br>
+<tt>[09 Jun 2017]</tt> <strong><a href="./dsa-3875">DSA-3875 libmwaw</a></strong> - security update <br>
+<tt>[09 Jun 2017]</tt> <strong><a href="./dsa-3874">DSA-3874 ettercap</a></strong> - security update <br>
+<tt>[05 Jun 2017]</tt> <strong><a href="./dsa-3873">DSA-3873 perl</a></strong> - security update <br>
+<tt>[01 Jun 2017]</tt> <strong><a href="./dsa-3872">DSA-3872 nss</a></strong> - security update <br>
+<tt>[01 Jun 2017]</tt> <strong><a href="./dsa-3871">DSA-3871 zookeeper</a></strong> - security update <br>
+<tt>[01 Jun 2017]</tt> <strong><a href="./dsa-3870">DSA-3870 wordpress</a></strong> - security update <br>
+<tt>[01 Jun 2017]</tt> <strong><a href="./dsa-3869">DSA-3869 tnef</a></strong> - security update <br>
+<tt>[30 May 2017]</tt> <strong><a href="./dsa-3868">DSA-3868 openldap</a></strong> - security update <br>
+<tt>[30 May 2017]</tt> <strong><a href="./dsa-3867">DSA-3867 sudo</a></strong> - security update <br>
+<tt>[30 May 2017]</tt> <strong><a href="./dsa-3866">DSA-3866 strongswan</a></strong> - security update <br>
+<tt>[29 May 2017]</tt> <strong><a href="./dsa-3865">DSA-3865 mosquitto</a></strong> - security update <br>
+<tt>[27 May 2017]</tt> <strong><a href="./dsa-3864">DSA-3864 fop</a></strong> - security update <br>
+<tt>[25 May 2017]</tt> <strong><a href="./dsa-3863">DSA-3863 imagemagick</a></strong> - security update <br>
+<tt>[25 May 2017]</tt> <strong><a href="./dsa-3862">DSA-3862 puppet</a></strong> - security update <br>
+<tt>[24 May 2017]</tt> <strong><a href="./dsa-3861">DSA-3861 libtasn1-6</a></strong> - security update <br>
+<tt>[24 May 2017]</tt> <strong><a href="./dsa-3860">DSA-3860 samba</a></strong> - security update <br>
+<tt>[19 May 2017]</tt> <strong><a href="./dsa-3859">DSA-3859 dropbear</a></strong> - security update <br>
+<tt>[19 May 2017]</tt> <strong><a href="./dsa-3858">DSA-3858 openjdk-7</a></strong> - security update <br>
+<tt>[18 May 2017]</tt> <strong><a href="./dsa-3857">DSA-3857 mysql-connector-java</a></strong> - security update <br>
+<tt>[18 May 2017]</tt> <strong><a href="./dsa-3856">DSA-3856 deluge</a></strong> - security update <br>
+<tt>[18 May 2017]</tt> <strong><a href="./dsa-3855">DSA-3855 jbig2dec</a></strong> - security update <br>
+<tt>[14 May 2017]</tt> <strong><a href="./dsa-3854">DSA-3854 bind9</a></strong> - security update <br>
+<tt>[15 May 2017]</tt> <strong><a href="./dsa-3853">DSA-3853 bitlbee</a></strong> - security update <br>
+<tt>[13 May 2017]</tt> <strong><a href="./dsa-3852">DSA-3852 squirrelmail</a></strong> - security update <br>
+<tt>[12 May 2017]</tt> <strong><a href="./dsa-3851">DSA-3851 postgresql-9.4</a></strong> - security update <br>
+<tt>[12 May 2017]</tt> <strong><a href="./dsa-3850">DSA-3850 rtmpdump</a></strong> - security update <br>
+<tt>[12 May 2017]</tt> <strong><a href="./dsa-3849">DSA-3849 kde4libs</a></strong> - security update <br>
+<tt>[10 May 2017]</tt> <strong><a href="./dsa-3848">DSA-3848 git</a></strong> - security update <br>
+<tt>[09 May 2017]</tt> <strong><a href="./dsa-3847">DSA-3847 xen</a></strong> - security update <br>
+<tt>[09 May 2017]</tt> <strong><a href="./dsa-3846">DSA-3846 libytnef</a></strong> - security update <br>
+<tt>[08 May 2017]</tt> <strong><a href="./dsa-3845">DSA-3845 libtirpc</a></strong> - security update <br>
+<tt>[03 May 2017]</tt> <strong><a href="./dsa-3844">DSA-3844 tiff</a></strong> - security update <br>
+<tt>[03 May 2017]</tt> <strong><a href="./dsa-3843">DSA-3843 tomcat8</a></strong> - security update <br>
+<tt>[03 May 2017]</tt> <strong><a href="./dsa-3842">DSA-3842 tomcat7</a></strong> - security update <br>
+<tt>[02 May 2017]</tt> <strong><a href="./dsa-3841">DSA-3841 libxstream-java</a></strong> - security update <br>
+<tt>[02 May 2017]</tt> <strong><a href="./dsa-3840">DSA-3840 mysql-connector-java</a></strong> - security update <br>
+<tt>[28 Apr 2017]</tt> <strong><a href="./dsa-3839">DSA-3839 freetype</a></strong> - security update <br>
+<tt>[28 Apr 2017]</tt> <strong><a href="./dsa-3838">DSA-3838 ghostscript</a></strong> - security update <br>
+<tt>[27 Apr 2017]</tt> <strong><a href="./dsa-3837">DSA-3837 libreoffice</a></strong> - security update <br>
+<tt>[27 Apr 2017]</tt> <strong><a href="./dsa-3836">DSA-3836 weechat</a></strong> - security update <br>
+<tt>[26 Apr 2017]</tt> <strong><a href="./dsa-3835">DSA-3835 python-django</a></strong> - security update <br>
+<tt>[25 Apr 2017]</tt> <strong><a href="./dsa-3834">DSA-3834 mysql-5.5</a></strong> - security update <br>
+<tt>[24 Apr 2017]</tt> <strong><a href="./dsa-3833">DSA-3833 libav</a></strong> - security update <br>
+<tt>[20 Apr 2017]</tt> <strong><a href="./dsa-3832">DSA-3832 icedove</a></strong> - security update <br>
+<tt>[20 Apr 2017]</tt> <strong><a href="./dsa-3831">DSA-3831 firefox-esr</a></strong> - security update <br>
+<tt>[19 Apr 2017]</tt> <strong><a href="./dsa-3830">DSA-3830 icu</a></strong> - security update <br>
+<tt>[11 Apr 2017]</tt> <strong><a href="./dsa-3829">DSA-3829 bouncycastle</a></strong> - security update <br>
+<tt>[10 Apr 2017]</tt> <strong><a href="./dsa-3828">DSA-3828 dovecot</a></strong> - security update <br>
+<tt>[07 Apr 2017]</tt> <strong><a href="./dsa-3827">DSA-3827 jasper</a></strong> - security update <br>
+<tt>[04 Apr 2017]</tt> <strong><a href="./dsa-3826">DSA-3826 tryton-server</a></strong> - security update <br>
+<tt>[31 Mar 2017]</tt> <strong><a href="./dsa-3825">DSA-3825 jhead</a></strong> - security update <br>
+<tt>[29 Mar 2017]</tt> <strong><a href="./dsa-3824">DSA-3824 firebird2.5</a></strong> - security update <br>
+<tt>[28 Mar 2017]</tt> <strong><a href="./dsa-3823">DSA-3823 eject</a></strong> - security update <br>
+<tt>[27 Mar 2017]</tt> <strong><a href="./dsa-3822">DSA-3822 gstreamer1.0</a></strong> - security update <br>
+<tt>[27 Mar 2017]</tt> <strong><a href="./dsa-3821">DSA-3821 gst-plugins-ugly1.0</a></strong> - security update <br>
+<tt>[27 Mar 2017]</tt> <strong><a href="./dsa-3820">DSA-3820 gst-plugins-good1.0</a></strong> - security update <br>
+<tt>[27 Mar 2017]</tt> <strong><a href="./dsa-3819">DSA-3819 gst-plugins-base1.0</a></strong> - security update <br>
+<tt>[27 Mar 2017]</tt> <strong><a href="./dsa-3818">DSA-3818 gst-plugins-bad1.0</a></strong> - security update <br>
+<tt>[24 Mar 2017]</tt> <strong><a href="./dsa-3817">DSA-3817 jbig2dec</a></strong> - security update <br>
+<tt>[23 Mar 2017]</tt> <strong><a href="./dsa-3816">DSA-3816 samba</a></strong> - security update <br>
+<tt>[23 Mar 2017]</tt> <strong><a href="./dsa-3815">DSA-3815 wordpress</a></strong> - security update <br>
+<tt>[22 Mar 2017]</tt> <strong><a href="./dsa-3814">DSA-3814 audiofile</a></strong> - security update <br>
+<tt>[19 Mar 2017]</tt> <strong><a href="./dsa-3813">DSA-3813 r-base</a></strong> - security update <br>
+<tt>[18 Mar 2017]</tt> <strong><a href="./dsa-3812">DSA-3812 ioquake3</a></strong> - security update <br>
+<tt>[18 Mar 2017]</tt> <strong><a href="./dsa-3811">DSA-3811 wireshark</a></strong> - security update <br>
+<tt>[15 Mar 2017]</tt> <strong><a href="./dsa-3810">DSA-3810 chromium-browser</a></strong> - security update <br>
+<tt>[14 Mar 2017]</tt> <strong><a href="./dsa-3809">DSA-3809 mariadb-10.0</a></strong> - security update <br>
+<tt>[13 Mar 2017]</tt> <strong><a href="./dsa-3808">DSA-3808 imagemagick</a></strong> - security update <br>
+<tt>[12 Mar 2017]</tt> <strong><a href="./dsa-3807">DSA-3807 icoutils</a></strong> - security update <br>
+<tt>[10 Mar 2017]</tt> <strong><a href="./dsa-3806">DSA-3806 pidgin</a></strong> - security update <br>
+<tt>[08 Mar 2017]</tt> <strong><a href="./dsa-3805">DSA-3805 firefox-esr</a></strong> - security update <br>
+<tt>[08 Mar 2017]</tt> <strong><a href="./dsa-3804">DSA-3804 linux</a></strong> - security update <br>
+<tt>[08 Mar 2017]</tt> <strong><a href="./dsa-3803">DSA-3803 texlive-base</a></strong> - security update <br>
+<tt>[05 Mar 2017]</tt> <strong><a href="./dsa-3802">DSA-3802 zabbix</a></strong> - security update <br>
+<tt>[04 Mar 2017]</tt> <strong><a href="./dsa-3801">DSA-3801 ruby-zip</a></strong> - security update <br>
+<tt>[02 Mar 2017]</tt> <strong><a href="./dsa-3800">DSA-3800 libquicktime</a></strong> - security update <br>
+<tt>[01 Mar 2017]</tt> <strong><a href="./dsa-3799">DSA-3799 imagemagick</a></strong> - security update <br>
+<tt>[01 Mar 2017]</tt> <strong><a href="./dsa-3798">DSA-3798 tnef</a></strong> - security update <br>
+<tt>[28 Feb 2017]</tt> <strong><a href="./dsa-3797">DSA-3797 mupdf</a></strong> - security update <br>
+<tt>[26 Feb 2017]</tt> <strong><a href="./dsa-3796">DSA-3796 apache2</a></strong> - security update <br>
+<tt>[26 Feb 2017]</tt> <strong><a href="./dsa-3795">DSA-3795 bind9</a></strong> - security update <br>
+<tt>[25 Feb 2017]</tt> <strong><a href="./dsa-3794">DSA-3794 munin</a></strong> - security update <br>
+<tt>[24 Feb 2017]</tt> <strong><a href="./dsa-3793">DSA-3793 shadow</a></strong> - security update <br>
+<tt>[23 Feb 2017]</tt> <strong><a href="./dsa-3792">DSA-3792 libreoffice</a></strong> - security update <br>
+<tt>[22 Feb 2017]</tt> <strong><a href="./dsa-3791">DSA-3791 linux</a></strong> - security update <br>
+<tt>[16 Feb 2017]</tt> <strong><a href="./dsa-3790">DSA-3790 spice</a></strong> - security update <br>
+<tt>[15 Feb 2017]</tt> <strong><a href="./dsa-3789">DSA-3789 libevent</a></strong> - security update <br>
+<tt>[13 Feb 2017]</tt> <strong><a href="./dsa-3788">DSA-3788 tomcat8</a></strong> - security update <br>
+<tt>[13 Feb 2017]</tt> <strong><a href="./dsa-3787">DSA-3787 tomcat7</a></strong> - security update <br>
+<tt>[13 Feb 2017]</tt> <strong><a href="./dsa-3786">DSA-3786 vim</a></strong> - security update <br>
+<tt>[09 Feb 2017]</tt> <strong><a href="./dsa-3785">DSA-3785 jasper</a></strong> - security update <br>
+<tt>[09 Feb 2017]</tt> <strong><a href="./dsa-3784">DSA-3784 viewvc</a></strong> - security update <br>
+<tt>[08 Feb 2017]</tt> <strong><a href="./dsa-3783">DSA-3783 php5</a></strong> - security update <br>
+<tt>[08 Feb 2017]</tt> <strong><a href="./dsa-3782">DSA-3782 openjdk-7</a></strong> - security update <br>
+<tt>[05 Feb 2017]</tt> <strong><a href="./dsa-3781">DSA-3781 svgsalamander</a></strong> - security update <br>
+<tt>[01 Feb 2017]</tt> <strong><a href="./dsa-3780">DSA-3780 ntfs-3g</a></strong> - security update <br>
+<tt>[01 Feb 2017]</tt> <strong><a href="./dsa-3779">DSA-3779 wordpress</a></strong> - security update <br>
+<tt>[31 Jan 2017]</tt> <strong><a href="./dsa-3778">DSA-3778 ruby-archive-tar-minitar</a></strong> - security update <br>
+<tt>[31 Jan 2017]</tt> <strong><a href="./dsa-3777">DSA-3777 libgd2</a></strong> - security update <br>
+<tt>[31 Jan 2017]</tt> <strong><a href="./dsa-3776">DSA-3776 chromium-browser</a></strong> - security update <br>
+<tt>[29 Jan 2017]</tt> <strong><a href="./dsa-3775">DSA-3775 tcpdump</a></strong> - security update <br>
+<tt>[29 Jan 2017]</tt> <strong><a href="./dsa-3774">DSA-3774 lcms2</a></strong> - security update <br>
+<tt>[27 Jan 2017]</tt> <strong><a href="./dsa-3773">DSA-3773 openssl</a></strong> - security update <br>
+<tt>[26 Jan 2017]</tt> <strong><a href="./dsa-3772">DSA-3772 libxpm</a></strong> - security update <br>
+<tt>[25 Jan 2017]</tt> <strong><a href="./dsa-3771">DSA-3771 firefox-esr</a></strong> - security update <br>
+<tt>[22 Jan 2017]</tt> <strong><a href="./dsa-3770">DSA-3770 mariadb-10.0</a></strong> - security update <br>
+<tt>[22 Jan 2017]</tt> <strong><a href="./dsa-3769">DSA-3769 libphp-swiftmailer</a></strong> - security update <br>
+<tt>[20 Jan 2017]</tt> <strong><a href="./dsa-3768">DSA-3768 openjpeg2</a></strong> - security update <br>
+<tt>[19 Jan 2017]</tt> <strong><a href="./dsa-3767">DSA-3767 mysql-5.5</a></strong> - security update <br>
+<tt>[19 Jan 2017]</tt> <strong><a href="./dsa-3766">DSA-3766 mapserver</a></strong> - security update <br>
+<tt>[14 Jan 2017]</tt> <strong><a href="./dsa-3765">DSA-3765 icoutils</a></strong> - security update <br>
+<tt>[13 Jan 2017]</tt> <strong><a href="./dsa-3764">DSA-3764 pdns</a></strong> - security update <br>
+<tt>[13 Jan 2017]</tt> <strong><a href="./dsa-3763">DSA-3763 pdns-recursor</a></strong> - security update <br>
+<tt>[13 Jan 2017]</tt> <strong><a href="./dsa-3762">DSA-3762 tiff</a></strong> - security update <br>
+<tt>[13 Jan 2017]</tt> <strong><a href="./dsa-3761">DSA-3761 rabbitmq-server</a></strong> - security update <br>
+<tt>[12 Jan 2017]</tt> <strong><a href="./dsa-3760">DSA-3760 ikiwiki</a></strong> - security update <br>
+<tt>[12 Jan 2017]</tt> <strong><a href="./dsa-3759">DSA-3759 python-pysaml2</a></strong> - security update <br>
+<tt>[11 Jan 2017]</tt> <strong><a href="./dsa-3758">DSA-3758 bind9</a></strong> - security update <br>
+<tt>[11 Jan 2017]</tt> <strong><a href="./dsa-3757">DSA-3757 icedove</a></strong> - security update <br>
+<tt>[09 Jan 2017]</tt> <strong><a href="./dsa-3756">DSA-3756 icoutils</a></strong> - security update <br>
+<tt>[08 Jan 2017]</tt> <strong><a href="./dsa-3755">DSA-3755 tomcat8</a></strong> - security update <br>
+<tt>[08 Jan 2017]</tt> <strong><a href="./dsa-3754">DSA-3754 tomcat7</a></strong> - security update <br>
+<tt>[05 Jan 2017]</tt> <strong><a href="./dsa-3753">DSA-3753 libvncserver</a></strong> - security update <br>
+<tt>[04 Jan 2017]</tt> <strong><a href="./dsa-3752">DSA-3752 pcsc-lite</a></strong> - security update <br>
+<tt>[01 Jan 2017]</tt> <strong><a href="./dsa-3751">DSA-3751 libgd2</a></strong> - security update <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2017/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.ko.html" title="Korean" hreflang="ko" lang="ko" rel="alternate">&#54620;&#44397;&#50612;&nbsp;(Korean)</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+ <a href="index.zh-cn.html" title="Chinese (China)" hreflang="zh-CN" lang="zh-CN" rel="alternate">&#20013;&#25991;(&#31616;)</a>
+ <a href="index.zh-hk.html" title="Chinese (Hong Kong)" hreflang="zh-HK" lang="zh-HK" rel="alternate">&#20013;&#25991;(HK)</a>
+ <a href="index.zh-tw.html" title="Chinese (Taiwan)" hreflang="zh-TW" lang="zh-TW" rel="alternate">&#20013;&#25991;(&#32321;)</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Fri, May 24 20:56:03 UTC 2019
+&emsp;
+Last Built: Sun, Dec 19 00:37:04 UTC 2021
+  <br>
+  Copyright &copy; 2017-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

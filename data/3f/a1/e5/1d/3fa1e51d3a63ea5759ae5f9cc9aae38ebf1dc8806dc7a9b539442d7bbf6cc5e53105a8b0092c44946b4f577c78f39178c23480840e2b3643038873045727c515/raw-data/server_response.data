@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2002 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:08:54">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2002</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2002</h1>
+<tt>[31 Dec 2002]</tt> <strong><a href="./dsa-219">DSA-219 dhcpcd</a></strong> - remote command execution <br>
+<tt>[30 Dec 2002]</tt> <strong><a href="./dsa-218">DSA-218 bugzilla</a></strong> - cross site scripting <br>
+<tt>[27 Dec 2002]</tt> <strong><a href="./dsa-217">DSA-217 typespeed</a></strong> - buffer overflow <br>
+<tt>[24 Dec 2002]</tt> <strong><a href="./dsa-216">DSA-216 fetchmail</a></strong> - buffer overflow <br>
+<tt>[23 Dec 2002]</tt> <strong><a href="./dsa-215">DSA-215 cyrus-imapd</a></strong> - buffer overflow <br>
+<tt>[20 Dec 2002]</tt> <strong><a href="./dsa-214">DSA-214 kdenetwork</a></strong> - buffer overflows <br>
+<tt>[19 Dec 2002]</tt> <strong><a href="./dsa-213">DSA-213 libpng</a></strong> - buffer overflow <br>
+<tt>[17 Dec 2002]</tt> <strong><a href="./dsa-212">DSA-212 mysql</a></strong> - multiple problems <br>
+<tt>[13 Dec 2002]</tt> <strong><a href="./dsa-211">DSA-211 micq</a></strong> - denial of service <br>
+<tt>[13 Dec 2002]</tt> <strong><a href="./dsa-210">DSA-210 lynx</a></strong> - CRLF injection <br>
+<tt>[12 Dec 2002]</tt> <strong><a href="./dsa-209">DSA-209 wget</a></strong> - directory traversal <br>
+<tt>[12 Dec 2002]</tt> <strong><a href="./dsa-208">DSA-208 perl</a></strong> - broken safe compartment <br>
+<tt>[11 Dec 2002]</tt> <strong><a href="./dsa-207">DSA-207 tetex-bin</a></strong> - arbitrary command execution <br>
+<tt>[10 Dec 2002]</tt> <strong><a href="./dsa-206">DSA-206 tcpdump</a></strong> - denial of service <br>
+<tt>[10 Dec 2002]</tt> <strong><a href="./dsa-205">DSA-205 gtetrinet</a></strong> - buffer overflow <br>
+<tt>[05 Dec 2002]</tt> <strong><a href="./dsa-204">DSA-204 kdelibs</a></strong> - arbitrary program execution <br>
+<tt>[04 Dec 2002]</tt> <strong><a href="./dsa-203">DSA-203 smb2www</a></strong> - arbitrary command execution <br>
+<tt>[03 Dec 2002]</tt> <strong><a href="./dsa-202">DSA-202 im</a></strong> - insecure temporary files <br>
+<tt>[02 Dec 2002]</tt> <strong><a href="./dsa-201">DSA-201 freeswan</a></strong> - denial of service <br>
+<tt>[22 Nov 2002]</tt> <strong><a href="./dsa-200">DSA-200 samba</a></strong> - remote exploit <br>
+<tt>[19 Nov 2002]</tt> <strong><a href="./dsa-199">DSA-199 mhonarc</a></strong> - cross site scripting <br>
+<tt>[18 Nov 2002]</tt> <strong><a href="./dsa-198">DSA-198 nullmailer</a></strong> - denial of service <br>
+<tt>[15 Nov 2002]</tt> <strong><a href="./dsa-197">DSA-197 courier</a></strong> - buffer overflow <br>
+<tt>[14 Nov 2002]</tt> <strong><a href="./dsa-196">DSA-196 bind</a></strong> - several vulnerabilities <br>
+<tt>[13 Nov 2002]</tt> <strong><a href="./dsa-195">DSA-195 apache-perl</a></strong> - several vulnerabilities <br>
+<tt>[12 Nov 2002]</tt> <strong><a href="./dsa-194">DSA-194 masqmail</a></strong> - buffer overflows <br>
+<tt>[11 Nov 2002]</tt> <strong><a href="./dsa-193">DSA-193 kdenetwork</a></strong> - buffer overflow <br>
+<tt>[08 Nov 2002]</tt> <strong><a href="./dsa-192">DSA-192 html2ps</a></strong> - arbitrary code execution <br>
+<tt>[07 Nov 2002]</tt> <strong><a href="./dsa-191">DSA-191 squirrelmail</a></strong> - cross site scripting <br>
+<tt>[07 Nov 2002]</tt> <strong><a href="./dsa-190">DSA-190 wmaker</a></strong> - buffer overflow <br>
+<tt>[06 Nov 2002]</tt> <strong><a href="./dsa-189">DSA-189 luxman</a></strong> - local root exploit <br>
+<tt>[05 Nov 2002]</tt> <strong><a href="./dsa-188">DSA-188 apache-ssl</a></strong> - several vulnerabilities <br>
+<tt>[04 Nov 2002]</tt> <strong><a href="./dsa-187">DSA-187 apache</a></strong> - several vulnerabilities <br>
+<tt>[01 Nov 2002]</tt> <strong><a href="./dsa-186">DSA-186 log2mail</a></strong> - buffer overflow <br>
+<tt>[31 Oct 2002]</tt> <strong><a href="./dsa-185">DSA-185 heimdal</a></strong> - buffer overflow <br>
+<tt>[30 Oct 2002]</tt> <strong><a href="./dsa-184">DSA-184 krb4</a></strong> - buffer overflow <br>
+<tt>[29 Oct 2002]</tt> <strong><a href="./dsa-183">DSA-183 krb5</a></strong> - buffer overflow <br>
+<tt>[28 Oct 2002]</tt> <strong><a href="./dsa-182">DSA-182 kdegraphics</a></strong> - buffer overflow <br>
+<tt>[22 Oct 2002]</tt> <strong><a href="./dsa-181">DSA-181 libapache-mod-ssl</a></strong> - cross site scripting <br>
+<tt>[21 Oct 2002]</tt> <strong><a href="./dsa-180">DSA-180 nis</a></strong> - information leak <br>
+<tt>[18 Oct 2002]</tt> <strong><a href="./dsa-179">DSA-179 gnome-gv</a></strong> - buffer overflow <br>
+<tt>[17 Oct 2002]</tt> <strong><a href="./dsa-178">DSA-178 heimdal</a></strong> - remote command execution <br>
+<tt>[17 Oct 2002]</tt> <strong><a href="./dsa-177">DSA-177 pam</a></strong> - serious security violation <br>
+<tt>[16 Oct 2002]</tt> <strong><a href="./dsa-176">DSA-176 gv</a></strong> - buffer overflow <br>
+<tt>[15 Oct 2002]</tt> <strong><a href="./dsa-175">DSA-175 syslog-ng</a></strong> - buffer overflow <br>
+<tt>[14 Oct 2002]</tt> <strong><a href="./dsa-174">DSA-174 heartbeat</a></strong> - buffer overflow <br>
+<tt>[09 Oct 2002]</tt> <strong><a href="./dsa-173">DSA-173 bugzilla</a></strong> - privilege escalation <br>
+<tt>[08 Oct 2002]</tt> <strong><a href="./dsa-172">DSA-172 tkmail</a></strong> - insecure temporary files <br>
+<tt>[07 Oct 2002]</tt> <strong><a href="./dsa-171">DSA-171 fetchmail</a></strong> - buffer overflows <br>
+<tt>[04 Oct 2002]</tt> <strong><a href="./dsa-170">DSA-170 tomcat4</a></strong> - source code disclosure <br>
+<tt>[25 Sep 2002]</tt> <strong><a href="./dsa-169">DSA-169 htcheck</a></strong> - cross site scripting <br>
+<tt>[18 Sep 2002]</tt> <strong><a href="./dsa-168">DSA-168 php</a></strong> - bypassing safe_mode, CRLF injection <br>
+<tt>[16 Sep 2002]</tt> <strong><a href="./dsa-167">DSA-167 kdelibs</a></strong> - cross site scripting <br>
+<tt>[13 Sep 2002]</tt> <strong><a href="./dsa-166">DSA-166 purity</a></strong> - buffer overflows <br>
+<tt>[12 Sep 2002]</tt> <strong><a href="./dsa-165">DSA-165 postgresql</a></strong> - buffer overflows <br>
+<tt>[10 Sep 2002]</tt> <strong><a href="./dsa-164">DSA-164 cacti</a></strong> - arbitrary code execution <br>
+<tt>[09 Sep 2002]</tt> <strong><a href="./dsa-163">DSA-163 mhonarc</a></strong> - cross site scripting <br>
+<tt>[06 Sep 2002]</tt> <strong><a href="./dsa-162">DSA-162 ethereal</a></strong> - buffer overflow <br>
+<tt>[04 Sep 2002]</tt> <strong><a href="./dsa-161">DSA-161 mantis</a></strong> - privilege escalation <br>
+<tt>[03 Sep 2002]</tt> <strong><a href="./dsa-160">DSA-160 scrollkeeper</a></strong> - insecure temporary file creation <br>
+<tt>[28 Aug 2002]</tt> <strong><a href="./dsa-159">DSA-159 python</a></strong> - insecure temporary files <br>
+<tt>[27 Aug 2002]</tt> <strong><a href="./dsa-158">DSA-158 gaim</a></strong> - arbitrary program execution <br>
+<tt>[23 Aug 2002]</tt> <strong><a href="./dsa-157">DSA-157 irssi-text</a></strong> - denial of service <br>
+<tt>[22 Aug 2002]</tt> <strong><a href="./dsa-156">DSA-156 epic4-script-light</a></strong> - arbitrary script execution <br>
+<tt>[17 Aug 2002]</tt> <strong><a href="./dsa-155">DSA-155 kdelibs</a></strong> - privacy escalation with Konqueror <br>
+<tt>[15 Aug 2002]</tt> <strong><a href="./dsa-154">DSA-154 fam</a></strong> - privilege escalation <br>
+<tt>[14 Aug 2002]</tt> <strong><a href="./dsa-153">DSA-153 mantis</a></strong> - cross site code execution and privilege escalation <br>
+<tt>[13 Aug 2002]</tt> <strong><a href="./dsa-152">DSA-152 l2tpd</a></strong> - missing random seed <br>
+<tt>[13 Aug 2002]</tt> <strong><a href="./dsa-151">DSA-151 xinetd</a></strong> - pipe exposure <br>
+<tt>[13 Aug 2002]</tt> <strong><a href="./dsa-150">DSA-150 interchange</a></strong> - illegal file exposition <br>
+<tt>[13 Aug 2002]</tt> <strong><a href="./dsa-149">DSA-149 glibc</a></strong> - integer overflow <br>
+<tt>[12 Aug 2002]</tt> <strong><a href="./dsa-148">DSA-148 hylafax</a></strong> - buffer overflows and format string vulnerabilities <br>
+<tt>[08 Aug 2002]</tt> <strong><a href="./dsa-147">DSA-147 mailman</a></strong> - cross-site scripting <br>
+<tt>[08 Aug 2002]</tt> <strong><a href="./dsa-146">DSA-146 dietlibc</a></strong> - integer overflow <br>
+<tt>[07 Aug 2002]</tt> <strong><a href="./dsa-145">DSA-145 tinyproxy</a></strong> - doubly freed memory <br>
+<tt>[06 Aug 2002]</tt> <strong><a href="./dsa-144">DSA-144 wwwoffle</a></strong> - improper input handling <br>
+<tt>[05 Aug 2002]</tt> <strong><a href="./dsa-143">DSA-143 krb5</a></strong> - integer overflow <br>
+<tt>[05 Aug 2002]</tt> <strong><a href="./dsa-142">DSA-142 openafs</a></strong> - integer overflow <br>
+<tt>[01 Aug 2002]</tt> <strong><a href="./dsa-141">DSA-141 mpack</a></strong> - buffer overflow <br>
+<tt>[05 Aug 2002]</tt> <strong><a href="./dsa-140">DSA-140 libpng</a></strong> - buffer overflow <br>
+<tt>[01 Aug 2002]</tt> <strong><a href="./dsa-139">DSA-139 super</a></strong> - format string vulnerability <br>
+<tt>[01 Aug 2002]</tt> <strong><a href="./dsa-138">DSA-138 gallery</a></strong> - remote exploit <br>
+<tt>[30 Jul 2002]</tt> <strong><a href="./dsa-137">DSA-137 mm</a></strong> - insecure temporary files <br>
+<tt>[30 Jul 2002]</tt> <strong><a href="./dsa-136">DSA-136 openssl</a></strong> - multiple remote exploits <br>
+<tt>[02 Jul 2002]</tt> <strong><a href="./dsa-135">DSA-135 libapache-mod-ssl</a></strong> - buffer overflow / DoS <br>
+<tt>[24 Jun 2002]</tt> <strong><a href="./dsa-134">DSA-134 ssh</a></strong> - remote exploit <br>
+<tt>[20 Jun 2002]</tt> <strong><a href="./dsa-133">DSA-133 apache-perl</a></strong> - remote DoS / exploit <br>
+<tt>[19 Jun 2002]</tt> <strong><a href="./dsa-132">DSA-132 apache-ssl</a></strong> - remote DoS / exploit <br>
+<tt>[19 Jun 2002]</tt> <strong><a href="./dsa-131">DSA-131 apache</a></strong> - remote DoS / exploit <br>
+<tt>[01 Jun 2002]</tt> <strong><a href="./dsa-130">DSA-130 ethereal</a></strong> - remotely triggered memory allocation error <br>
+<tt>[27 May 2002]</tt> <strong><a href="./dsa-129">DSA-129 uucp</a></strong> - remote denial of service <br>
+<tt>[26 Apr 2002]</tt> <strong><a href="./dsa-128">DSA-128 sudo</a></strong> - buffer overflow <br>
+<tt>[17 Apr 2002]</tt> <strong><a href="./dsa-127">DSA-127 xpilot-server</a></strong> - remote buffer overflow <br>
+<tt>[16 Apr 2002]</tt> <strong><a href="./dsa-126">DSA-126 imp</a></strong> - cross-site scripting <br>
+<tt>[28 Mar 2002]</tt> <strong><a href="./dsa-125">DSA-125 analog</a></strong> - cross-site scripting <br>
+<tt>[26 Mar 2002]</tt> <strong><a href="./dsa-124">DSA-124 mtr</a></strong> - buffer overflow <br>
+<tt>[19 Mar 2002]</tt> <strong><a href="./dsa-123">DSA-123 listar</a></strong> - remote exploit <br>
+<tt>[11 Mar 2002]</tt> <strong><a href="./dsa-122">DSA-122 zlib</a></strong> - malloc error (double free) <br>
+<tt>[11 Mar 2002]</tt> <strong><a href="./dsa-121">DSA-121 xtell</a></strong> - buffer overflow, symlink problem, ".." directory traversal <br>
+<tt>[10 Mar 2002]</tt> <strong><a href="./dsa-120">DSA-120 mod_ssl</a></strong> - buffer overflow <br>
+<tt>[07 Mar 2002]</tt> <strong><a href="./dsa-119">DSA-119 ssh</a></strong> - local root exploit, remote client exploit <br>
+<tt>[05 Mar 2002]</tt> <strong><a href="./dsa-118">DSA-118 xsane</a></strong> - insecure temporary files <br>
+<tt>[05 Mar 2002]</tt> <strong><a href="./dsa-117">DSA-117 cvs</a></strong> - improper variable initialization <br>
+<tt>[02 Mar 2002]</tt> <strong><a href="./dsa-116">DSA-116 cfs</a></strong> - buffer overflow <br>
+<tt>[02 Mar 2002]</tt> <strong><a href="./dsa-115">DSA-115 php</a></strong> - broken boundary check and more <br>
+<tt>[21 Feb 2002]</tt> <strong><a href="./dsa-114">DSA-114 gnujsp</a></strong> - unauthorized file access <br>
+<tt>[18 Feb 2002]</tt> <strong><a href="./dsa-113">DSA-113 ncurses</a></strong> - buffer overflow <br>
+<tt>[16 Feb 2002]</tt> <strong><a href="./dsa-112">DSA-112 hanterm</a></strong> - buffer overflow <br>
+<tt>[14 Feb 2002]</tt> <strong><a href="./dsa-111">DSA-111 ucd-snmp</a></strong> - remote exploit <br>
+<tt>[13 Feb 2002]</tt> <strong><a href="./dsa-110">DSA-110 cups</a></strong> - buffer overflow <br>
+<tt>[13 Feb 2002]</tt> <strong><a href="./dsa-109">DSA-109 faqomatic</a></strong> - cross-site scripting vulnerability <br>
+<tt>[07 Feb 2002]</tt> <strong><a href="./dsa-108">DSA-108 wmtv</a></strong> - symlink vulnerability <br>
+<tt>[30 Jan 2002]</tt> <strong><a href="./dsa-107">DSA-107 jgroff</a></strong> - format print vulnerability <br>
+<tt>[26 Jan 2002]</tt> <strong><a href="./dsa-106">DSA-106 rsync</a></strong> - remote exploit <br>
+<tt>[21 Jan 2002]</tt> <strong><a href="./dsa-105">DSA-105 enscript</a></strong> - insecure temporary files <br>
+<tt>[14 Jan 2002]</tt> <strong><a href="./dsa-104">DSA-104 cipe</a></strong> - DoS attack <br>
+<tt>[13 Jan 2002]</tt> <strong><a href="./dsa-103">DSA-103 glibc</a></strong> - buffer overflow <br>
+<tt>[16 Jan 2002]</tt> <strong><a href="./dsa-102">DSA-102 at</a></strong> - daemon exploit <br>
+<tt>[14 Jan 2002]</tt> <strong><a href="./dsa-101">DSA-101 sudo</a></strong> - Local root exploit <br>
+<tt>[13 Jan 2002]</tt> <strong><a href="./dsa-100">DSA-100 gzip</a></strong> - Potential buffer overflow <br>
+<tt>[12 Jan 2002]</tt> <strong><a href="./dsa-099">DSA-099 xchat</a></strong> - IRC session hijacking <br>
+<tt>[09 Jan 2002]</tt> <strong><a href="./dsa-098">DSA-098 libgtop</a></strong> - format string vulnerability and buffer overflow <br>
+<tt>[03 Jan 2002]</tt> <strong><a href="./dsa-097">DSA-097 exim</a></strong> - Uncontrolled program execution <br>
+<tt>[03 Jan 2002]</tt> <strong><a href="./dsa-096">DSA-096 mutt</a></strong> - buffer overflow <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2002/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.cs.html" title="Czech" hreflang="cs" lang="cs" rel="alternate">&#269;esky</a>
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pl.html" title="Polish" hreflang="pl" lang="pl" rel="alternate">polski</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.fi.html" title="Finnish" hreflang="fi" lang="fi" rel="alternate">suomi</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+ <a href="index.uk.html" title="Ukrainian" hreflang="uk" lang="uk" rel="alternate">&#1091;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;&nbsp;(ukrajins'ka)</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Fri, Jun 1 18:42:17 UTC 2018
+&emsp;
+Last Built: Sun, Dec 19 00:08:55 UTC 2021
+  <br>
+  Copyright &copy; 2002-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

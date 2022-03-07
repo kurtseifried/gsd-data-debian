@@ -12,16 +12,16 @@ import sys
 import os
 import time
 
-uvi_script_version = "0.0.3"
-uvi_script_name = sys.argv[0]
+gsd_script_version = "0.0.4"
+gsd_script_name = sys.argv[0]
 
 #
 # Processa file with a list of URLs
 #
 global_url_list = sys.argv[1]
 
-uvi_url_downloads_repo = "/mnt/c/GitHub/gsd-data-debian"
-global_uvi_url_downloads = uvi_url_downloads_repo + "/data/"
+gsd_url_downloads_repo = "/home/mirror/gsd-data-debian"
+global_gsd_url_downloads = gsd_url_downloads_repo + "/data/"
 
 with open(global_url_list) as file:
     for line in file:
@@ -36,7 +36,7 @@ with open(global_url_list) as file:
         url_hash_3 = url_hash[4:6]
         url_hash_4 = url_hash[6:8]
 
-        url_directory = global_uvi_url_downloads + "/" + url_hash_1 + "/" + url_hash_2 + "/" + url_hash_3 + "/" + url_hash_4 + "/" + url_hash
+        url_directory = global_gsd_url_downloads + "/" + url_hash_1 + "/" + url_hash_2 + "/" + url_hash_3 + "/" + url_hash_4 + "/" + url_hash
 
         url_directory_raw_data=url_directory + "/raw-data"
         response_data_file = url_directory + "/response.json"
@@ -56,7 +56,7 @@ with open(global_url_list) as file:
 
         if already_seen == False:
             # Add a ten second sleep to avoid triggering dos
-            time.sleep(10)
+            time.sleep(3)
             timestamp = datetime.datetime.utcnow() # <-- get time in UTC
             request_timestamp = timestamp.isoformat("T") + "Z"
 
@@ -85,8 +85,8 @@ with open(global_url_list) as file:
             request_data = {
               "URL_requested": url,
               "TIMESTAMP": request_timestamp,
-              "uvi_script_name": uvi_script_name,
-              "uvi_script_version": uvi_script_version
+              "gsd_script_name": gsd_script_name,
+              "gsd_script_version": gsd_script_version
             }
             f = open(request_data_file, "w")
             f.write(json.dumps(request_data, indent=4, sort_keys=True))

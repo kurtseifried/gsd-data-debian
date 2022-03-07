@@ -1,0 +1,379 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2004 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:11:47">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2004</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2004</h1>
+<tt>[31 Dec 2004]</tt> <strong><a href="./dsa-621">DSA-621 cupsys</a></strong> - buffer overflow <br>
+<tt>[30 Dec 2004]</tt> <strong><a href="./dsa-620">DSA-620 perl</a></strong> - insecure temporary files / directories <br>
+<tt>[30 Dec 2004]</tt> <strong><a href="./dsa-619">DSA-619 xpdf</a></strong> - buffer overflow <br>
+<tt>[24 Dec 2004]</tt> <strong><a href="./dsa-618">DSA-618 imlib</a></strong> - buffer overflows, integer overflows <br>
+<tt>[24 Dec 2004]</tt> <strong><a href="./dsa-617">DSA-617 tiff</a></strong> - insufficient input validation <br>
+<tt>[23 Dec 2004]</tt> <strong><a href="./dsa-616">DSA-616 netkit-telnet-ssl</a></strong> - format string <br>
+<tt>[22 Dec 2004]</tt> <strong><a href="./dsa-615">DSA-615 debmake</a></strong> - insecure temporary files <br>
+<tt>[21 Dec 2004]</tt> <strong><a href="./dsa-614">DSA-614 xzgv</a></strong> - integer overflows <br>
+<tt>[21 Dec 2004]</tt> <strong><a href="./dsa-613">DSA-613 ethereal</a></strong> - infinite loop <br>
+<tt>[20 Dec 2004]</tt> <strong><a href="./dsa-612">DSA-612 a2ps</a></strong> - unsanitised input <br>
+<tt>[20 Dec 2004]</tt> <strong><a href="./dsa-611">DSA-611 htget</a></strong> - buffer overflow <br>
+<tt>[17 Dec 2004]</tt> <strong><a href="./dsa-610">DSA-610 cscope</a></strong> - insecure temporary file <br>
+<tt>[14 Dec 2004]</tt> <strong><a href="./dsa-609">DSA-609 atari800</a></strong> - buffer overflows <br>
+<tt>[14 Dec 2004]</tt> <strong><a href="./dsa-608">DSA-608 zgv</a></strong> - integer overflows, unsanitised input <br>
+<tt>[10 Dec 2004]</tt> <strong><a href="./dsa-607">DSA-607 xfree86</a></strong> - several vulnerabilities <br>
+<tt>[08 Dec 2004]</tt> <strong><a href="./dsa-606">DSA-606 nfs-utils</a></strong> - wrong signal handler <br>
+<tt>[06 Dec 2004]</tt> <strong><a href="./dsa-605">DSA-605 viewcvs</a></strong> - settings not honored <br>
+<tt>[03 Dec 2004]</tt> <strong><a href="./dsa-604">DSA-604 hpsockd</a></strong> - missing input sanitising <br>
+<tt>[01 Dec 2004]</tt> <strong><a href="./dsa-603">DSA-603 openssl</a></strong> - insecure temporary file <br>
+<tt>[29 Nov 2004]</tt> <strong><a href="./dsa-602">DSA-602 libgd2</a></strong> - integer overflow <br>
+<tt>[29 Nov 2004]</tt> <strong><a href="./dsa-601">DSA-601 libgd</a></strong> - integer overflow <br>
+<tt>[07 Oct 2004]</tt> <strong><a href="./dsa-600">DSA-600 samba</a></strong> - arbitrary file access <br>
+<tt>[25 Nov 2004]</tt> <strong><a href="./dsa-599">DSA-599 tetex-bin</a></strong> - integer overflows <br>
+<tt>[25 Nov 2004]</tt> <strong><a href="./dsa-598">DSA-598 yardradius</a></strong> - buffer overflow <br>
+<tt>[25 Nov 2004]</tt> <strong><a href="./dsa-597">DSA-597 cyrus-imapd</a></strong> - buffer overflow <br>
+<tt>[24 Nov 2004]</tt> <strong><a href="./dsa-596">DSA-596 sudo</a></strong> - missing input sanitising <br>
+<tt>[24 Nov 2004]</tt> <strong><a href="./dsa-595">DSA-595 bnc</a></strong> - buffer overflow <br>
+<tt>[17 Nov 2004]</tt> <strong><a href="./dsa-594">DSA-594 apache</a></strong> - buffer overflows <br>
+<tt>[16 Nov 2004]</tt> <strong><a href="./dsa-593">DSA-593 imagemagick</a></strong> - buffer overflow <br>
+<tt>[12 Nov 2004]</tt> <strong><a href="./dsa-592">DSA-592 ez-ipupdate</a></strong> - format string <br>
+<tt>[09 Nov 2004]</tt> <strong><a href="./dsa-591">DSA-591 libgd2</a></strong> - integer overflows <br>
+<tt>[09 Nov 2004]</tt> <strong><a href="./dsa-590">DSA-590 gnats</a></strong> - format string vulnerability <br>
+<tt>[09 Nov 2004]</tt> <strong><a href="./dsa-589">DSA-589 libgd1</a></strong> - integer overflows <br>
+<tt>[08 Nov 2004]</tt> <strong><a href="./dsa-588">DSA-588 gzip</a></strong> - insecure temporary files <br>
+<tt>[08 Nov 2004]</tt> <strong><a href="./dsa-587">DSA-587 freeamp</a></strong> - buffer overflow <br>
+<tt>[08 Nov 2004]</tt> <strong><a href="./dsa-586">DSA-586 ruby</a></strong> - infinite loop <br>
+<tt>[05 Nov 2004]</tt> <strong><a href="./dsa-585">DSA-585 shadow</a></strong> - programming error <br>
+<tt>[04 Nov 2004]</tt> <strong><a href="./dsa-584">DSA-584 dhcp</a></strong> - format string vulnerability <br>
+<tt>[03 Nov 2004]</tt> <strong><a href="./dsa-583">DSA-583 lvm10</a></strong> - insecure temporary directory <br>
+<tt>[02 Nov 2004]</tt> <strong><a href="./dsa-582">DSA-582 libxml</a></strong> - buffer overflow <br>
+<tt>[02 Nov 2004]</tt> <strong><a href="./dsa-581">DSA-581 xpdf</a></strong> - integer overflows <br>
+<tt>[01 Nov 2004]</tt> <strong><a href="./dsa-580">DSA-580 iptables</a></strong> - missing initialisation <br>
+<tt>[01 Nov 2004]</tt> <strong><a href="./dsa-579">DSA-579 abiword</a></strong> - buffer overflow <br>
+<tt>[01 Nov 2004]</tt> <strong><a href="./dsa-578">DSA-578 mpg123</a></strong> - buffer overflow <br>
+<tt>[29 Oct 2004]</tt> <strong><a href="./dsa-577">DSA-577 postgresql</a></strong> - insecure temporary file <br>
+<tt>[29 Oct 2004]</tt> <strong><a href="./dsa-576">DSA-576 squid</a></strong> - several vulnerabilities <br>
+<tt>[28 Oct 2004]</tt> <strong><a href="./dsa-575">DSA-575 catdoc</a></strong> - insecure temporary file <br>
+<tt>[28 Oct 2004]</tt> <strong><a href="./dsa-574">DSA-574 cabextract</a></strong> - missing directory sanitising <br>
+<tt>[21 Oct 2004]</tt> <strong><a href="./dsa-573">DSA-573 cupsys</a></strong> - integer overflows <br>
+<tt>[21 Oct 2004]</tt> <strong><a href="./dsa-572">DSA-572 ecartis</a></strong> - several vulnerabilities <br>
+<tt>[20 Oct 2004]</tt> <strong><a href="./dsa-571">DSA-571 libpng3</a></strong> - buffer overflows, integer overflow <br>
+<tt>[20 Oct 2004]</tt> <strong><a href="./dsa-570">DSA-570 libpng</a></strong> - integer overflow <br>
+<tt>[18 Oct 2004]</tt> <strong><a href="./dsa-569">DSA-569 netkit-telnet-ssl</a></strong> - invalid free(3) <br>
+<tt>[16 Oct 2004]</tt> <strong><a href="./dsa-568">DSA-568 cyrus-sasl-mit</a></strong> - unsanitised input <br>
+<tt>[15 Oct 2004]</tt> <strong><a href="./dsa-567">DSA-567 tiff</a></strong> - heap overflows <br>
+<tt>[14 Oct 2004]</tt> <strong><a href="./dsa-566">DSA-566 cupsys</a></strong> - unsanitised input <br>
+<tt>[13 Oct 2004]</tt> <strong><a href="./dsa-565">DSA-565 sox</a></strong> - buffer overflow <br>
+<tt>[13 Oct 2004]</tt> <strong><a href="./dsa-564">DSA-564 mpg123</a></strong> - missing user input sanitising <br>
+<tt>[14 Oct 2004]</tt> <strong><a href="./dsa-563">DSA-563 cyrus-sasl</a></strong> - unsanitised input <br>
+<tt>[11 Oct 2004]</tt> <strong><a href="./dsa-562">DSA-562 mysql</a></strong> - several vulnerabilities <br>
+<tt>[11 Oct 2004]</tt> <strong><a href="./dsa-561">DSA-561 xfree86</a></strong> - integer and stack overflows <br>
+<tt>[07 Oct 2004]</tt> <strong><a href="./dsa-560">DSA-560 lesstif1-1</a></strong> - integer and stack overflows <br>
+<tt>[06 Oct 2004]</tt> <strong><a href="./dsa-559">DSA-559 net-acct</a></strong> - insecure temporary file <br>
+<tt>[06 Oct 2004]</tt> <strong><a href="./dsa-558">DSA-558 libapache-mod-dav</a></strong> - null pointer dereference <br>
+<tt>[04 Oct 2004]</tt> <strong><a href="./dsa-557">DSA-557 rp-pppoe</a></strong> - missing privilege dropping <br>
+<tt>[18 Oct 2004]</tt> <strong><a href="./dsa-556">DSA-556 netkit-telnet</a></strong> - invalid free(3) <br>
+<tt>[30 Sep 2004]</tt> <strong><a href="./dsa-555">DSA-555 freenet6</a></strong> - wrong file permissions <br>
+<tt>[27 Sep 2004]</tt> <strong><a href="./dsa-554">DSA-554 sendmail</a></strong> - pre-set password <br>
+<tt>[27 Sep 2004]</tt> <strong><a href="./dsa-553">DSA-553 getmail</a></strong> - symlink vulnerability <br>
+<tt>[22 Sep 2004]</tt> <strong><a href="./dsa-552">DSA-552 imlib2</a></strong> - unsanitised input <br>
+<tt>[21 Sep 2004]</tt> <strong><a href="./dsa-551">DSA-551 lukemftpd</a></strong> - incorrect internal variable handling <br>
+<tt>[20 Sep 2004]</tt> <strong><a href="./dsa-550">DSA-550 wv</a></strong> - buffer overflow <br>
+<tt>[17 Sep 2004]</tt> <strong><a href="./dsa-549">DSA-549 gtk+</a></strong> - several vulnerabilities <br>
+<tt>[16 Sep 2004]</tt> <strong><a href="./dsa-548">DSA-548 imlib</a></strong> - unsanitised input <br>
+<tt>[16 Sep 2004]</tt> <strong><a href="./dsa-547">DSA-547 imagemagick</a></strong> - buffer overflows <br>
+<tt>[16 Sep 2004]</tt> <strong><a href="./dsa-546">DSA-546 gdk-pixbuf</a></strong> - several vulnerabilities <br>
+<tt>[15 Sep 2004]</tt> <strong><a href="./dsa-545">DSA-545 cupsys</a></strong> - denial of service <br>
+<tt>[14 Sep 2004]</tt> <strong><a href="./dsa-544">DSA-544 webmin</a></strong> - insecure temporary directory <br>
+<tt>[31 Aug 2004]</tt> <strong><a href="./dsa-543">DSA-543 krb5</a></strong> - several vulnerabilities <br>
+<tt>[30 Aug 2004]</tt> <strong><a href="./dsa-542">DSA-542 qt</a></strong> - unsanitised input <br>
+<tt>[24 Aug 2004]</tt> <strong><a href="./dsa-541">DSA-541 icecast-server</a></strong> - missing escape <br>
+<tt>[18 Aug 2004]</tt> <strong><a href="./dsa-540">DSA-540 mysql</a></strong> - insecure file creation <br>
+<tt>[17 Aug 2004]</tt> <strong><a href="./dsa-539">DSA-539 kdelibs</a></strong> - temporary directory vulnerability <br>
+<tt>[17 Aug 2004]</tt> <strong><a href="./dsa-538">DSA-538 rsync</a></strong> - unsanitised input processing <br>
+<tt>[16 Aug 2004]</tt> <strong><a href="./dsa-537">DSA-537 ruby</a></strong> - insecure file permissions <br>
+<tt>[04 Aug 2004]</tt> <strong><a href="./dsa-536">DSA-536 libpng</a></strong> - several vulnerabilities <br>
+<tt>[02 Aug 2004]</tt> <strong><a href="./dsa-535">DSA-535 squirrelmail</a></strong> - several vulnerabilities <br>
+<tt>[22 Jul 2004]</tt> <strong><a href="./dsa-534">DSA-534 mailreader</a></strong> - directory traversal <br>
+<tt>[22 Jul 2004]</tt> <strong><a href="./dsa-533">DSA-533 courier</a></strong> - cross-site scripting <br>
+<tt>[27 Jul 2004]</tt> <strong><a href="./dsa-532">DSA-532 libapache-mod-ssl</a></strong> - several vulnerabilities <br>
+<tt>[20 Jul 2004]</tt> <strong><a href="./dsa-531">DSA-531 php4</a></strong> - several vulnerabilities <br>
+<tt>[17 Jul 2004]</tt> <strong><a href="./dsa-530">DSA-530 l2tpd</a></strong> - buffer overflow <br>
+<tt>[17 Jul 2004]</tt> <strong><a href="./dsa-529">DSA-529 netkit-telnet-ssl</a></strong> - format string <br>
+<tt>[17 Jul 2004]</tt> <strong><a href="./dsa-528">DSA-528 ethereal</a></strong> - denial of service <br>
+<tt>[03 Jul 2004]</tt> <strong><a href="./dsa-527">DSA-527 pavuk</a></strong> - buffer overflow <br>
+<tt>[03 Jul 2004]</tt> <strong><a href="./dsa-526">DSA-526 webmin</a></strong> - several vulnerabilities <br>
+<tt>[24 Jun 2004]</tt> <strong><a href="./dsa-525">DSA-525 apache</a></strong> - buffer overflow <br>
+<tt>[19 Jun 2004]</tt> <strong><a href="./dsa-524">DSA-524 rlpr</a></strong> - several vulnerabilities <br>
+<tt>[19 Jun 2004]</tt> <strong><a href="./dsa-523">DSA-523 www-sql</a></strong> - buffer overflow <br>
+<tt>[19 Jun 2004]</tt> <strong><a href="./dsa-522">DSA-522 super</a></strong> - format string vulnerability <br>
+<tt>[18 Jun 2004]</tt> <strong><a href="./dsa-521">DSA-521 sup</a></strong> - format string vulnerability <br>
+<tt>[16 Jun 2004]</tt> <strong><a href="./dsa-520">DSA-520 krb5</a></strong> - buffer overflows <br>
+<tt>[15 Jun 2004]</tt> <strong><a href="./dsa-519">DSA-519 cvs</a></strong> - several vulnerabilities <br>
+<tt>[14 Jun 2004]</tt> <strong><a href="./dsa-518">DSA-518 kdelibs</a></strong> - unsanitised input <br>
+<tt>[10 Jun 2004]</tt> <strong><a href="./dsa-517">DSA-517 cvs</a></strong> - buffer overflow <br>
+<tt>[07 Jun 2004]</tt> <strong><a href="./dsa-516">DSA-516 postgresql</a></strong> - buffer overflow <br>
+<tt>[05 Jun 2004]</tt> <strong><a href="./dsa-515">DSA-515 lha</a></strong> - several vulnerabilities <br>
+<tt>[04 Jun 2004]</tt> <strong><a href="./dsa-514">DSA-514 kernel-image-sparc-2.2</a></strong> - failing function and TLB flush <br>
+<tt>[03 Jun 2004]</tt> <strong><a href="./dsa-513">DSA-513 log2mail</a></strong> - format string <br>
+<tt>[02 Jun 2004]</tt> <strong><a href="./dsa-512">DSA-512 gallery</a></strong> - unauthenticated access <br>
+<tt>[30 May 2004]</tt> <strong><a href="./dsa-511">DSA-511 ethereal</a></strong> - buffer overflows <br>
+<tt>[29 May 2004]</tt> <strong><a href="./dsa-510">DSA-510 jftpgw</a></strong> - format string <br>
+<tt>[29 May 2004]</tt> <strong><a href="./dsa-509">DSA-509 gatos</a></strong> - privilege escalation <br>
+<tt>[22 May 2004]</tt> <strong><a href="./dsa-508">DSA-508 xpcd</a></strong> - buffer overflow <br>
+<tt>[19 May 2004]</tt> <strong><a href="./dsa-507">DSA-507 cadaver</a></strong> - buffer overflow <br>
+<tt>[19 May 2004]</tt> <strong><a href="./dsa-506">DSA-506 neon</a></strong> - buffer overflow <br>
+<tt>[19 May 2004]</tt> <strong><a href="./dsa-505">DSA-505 cvs</a></strong> - heap overflow <br>
+<tt>[18 May 2004]</tt> <strong><a href="./dsa-504">DSA-504 heimdal</a></strong> - missing input sanitising <br>
+<tt>[13 May 2004]</tt> <strong><a href="./dsa-503">DSA-503 mah-jong</a></strong> - missing argument check <br>
+<tt>[11 May 2004]</tt> <strong><a href="./dsa-502">DSA-502 exim-tls</a></strong> - buffer overflow <br>
+<tt>[07 May 2004]</tt> <strong><a href="./dsa-501">DSA-501 exim</a></strong> - buffer overflow <br>
+<tt>[01 May 2004]</tt> <strong><a href="./dsa-500">DSA-500 flim</a></strong> - insecure temporary file <br>
+<tt>[02 Jun 2004]</tt> <strong><a href="./dsa-499">DSA-499 rsync</a></strong> - directory traversal <br>
+<tt>[30 Apr 2004]</tt> <strong><a href="./dsa-498">DSA-498 libpng</a></strong> - out of bound access <br>
+<tt>[29 Apr 2004]</tt> <strong><a href="./dsa-497">DSA-497 mc</a></strong> - several vulnerabilities <br>
+<tt>[29 Apr 2004]</tt> <strong><a href="./dsa-496">DSA-496 eterm</a></strong> - missing input sanitising <br>
+<tt>[26 Apr 2004]</tt> <strong><a href="./dsa-495">DSA-495 linux-kernel-2.4.16-arm</a></strong> - several vulnerabilities <br>
+<tt>[21 Apr 2004]</tt> <strong><a href="./dsa-494">DSA-494 ident2</a></strong> - buffer overflow <br>
+<tt>[21 Apr 2004]</tt> <strong><a href="./dsa-493">DSA-493 xchat</a></strong> - buffer overflow <br>
+<tt>[18 Apr 2004]</tt> <strong><a href="./dsa-492">DSA-492 iproute</a></strong> - denial of service <br>
+<tt>[17 Apr 2004]</tt> <strong><a href="./dsa-491">DSA-491 linux-kernel-2.4.19-mips</a></strong> - several vulnerabilities <br>
+<tt>[17 Apr 2004]</tt> <strong><a href="./dsa-490">DSA-490 zope</a></strong> - arbitrary code execution <br>
+<tt>[17 Apr 2004]</tt> <strong><a href="./dsa-489">DSA-489 linux-kernel-2.4.17-mips+mipsel</a></strong> - several vulnerabilities <br>
+<tt>[16 Apr 2004]</tt> <strong><a href="./dsa-488">DSA-488 logcheck</a></strong> - insecure temporary directory <br>
+<tt>[16 Apr 2004]</tt> <strong><a href="./dsa-487">DSA-487 neon</a></strong> - format string <br>
+<tt>[16 Apr 2004]</tt> <strong><a href="./dsa-486">DSA-486 cvs</a></strong> - several vulnerabilities <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-485">DSA-485 ssmtp</a></strong> - format string <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-484">DSA-484 xonix</a></strong> - failure to drop privileges <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-483">DSA-483 mysql</a></strong> - insecure temporary file creation <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-482">DSA-482 linux-kernel-2.4.17-apus+s390</a></strong> - several vulnerabilities <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-481">DSA-481 linux-kernel-2.4.17-ia64</a></strong> - several vulnerabilities <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-480">DSA-480 linux-kernel-2.4.17+2.4.18-hppa</a></strong> - several vulnerabilities <br>
+<tt>[14 Apr 2004]</tt> <strong><a href="./dsa-479">DSA-479 linux-kernel-2.4.18-alpha+i386+powerpc</a></strong> - several vulnerabilities <br>
+<tt>[06 Apr 2004]</tt> <strong><a href="./dsa-478">DSA-478 tcpdump</a></strong> - denial of service <br>
+<tt>[06 Apr 2004]</tt> <strong><a href="./dsa-477">DSA-477 xine-ui</a></strong> - insecure temporary file creation <br>
+<tt>[06 Apr 2004]</tt> <strong><a href="./dsa-476">DSA-476 heimdal</a></strong> - cross-realm <br>
+<tt>[05 Apr 2004]</tt> <strong><a href="./dsa-475">DSA-475 linux-kernel-2.4.18-hppa</a></strong> - several vulnerabilities <br>
+<tt>[03 Apr 2004]</tt> <strong><a href="./dsa-474">DSA-474 squid</a></strong> - ACL bypass <br>
+<tt>[03 Apr 2004]</tt> <strong><a href="./dsa-473">DSA-473 oftpd</a></strong> - denial of service <br>
+<tt>[03 Apr 2004]</tt> <strong><a href="./dsa-472">DSA-472 fte</a></strong> - several vulnerabilities <br>
+<tt>[02 Apr 2004]</tt> <strong><a href="./dsa-471">DSA-471 interchange</a></strong> - missing input sanitising <br>
+<tt>[01 Apr 2004]</tt> <strong><a href="./dsa-470">DSA-470 linux-kernel-2.4.17-hppa</a></strong> - several vulnerabilities <br>
+<tt>[29 Mar 2004]</tt> <strong><a href="./dsa-469">DSA-469 pam-pgsql</a></strong> - missing input sanitising <br>
+<tt>[24 Mar 2004]</tt> <strong><a href="./dsa-468">DSA-468 emil</a></strong> - several vulnerabilities <br>
+<tt>[23 Mar 2004]</tt> <strong><a href="./dsa-467">DSA-467 ecartis</a></strong> - several vulnerabilities <br>
+<tt>[18 Mar 2004]</tt> <strong><a href="./dsa-466">DSA-466 linux-kernel-2.2.10-powerpc-apus</a></strong> - failing function and TLB flush <br>
+<tt>[17 Mar 2004]</tt> <strong><a href="./dsa-465">DSA-465 openssl</a></strong> - several vulnerabilities <br>
+<tt>[16 Mar 2004]</tt> <strong><a href="./dsa-464">DSA-464 gdk-pixbuf</a></strong> - broken image handling <br>
+<tt>[12 Mar 2004]</tt> <strong><a href="./dsa-463">DSA-463 samba</a></strong> - privilege escalation <br>
+<tt>[12 Mar 2004]</tt> <strong><a href="./dsa-462">DSA-462 xitalk</a></strong> - missing privilege release <br>
+<tt>[11 Mar 2004]</tt> <strong><a href="./dsa-461">DSA-461 calife</a></strong> - buffer overflow <br>
+<tt>[10 Mar 2004]</tt> <strong><a href="./dsa-460">DSA-460 sysstat</a></strong> - insecure temporary file <br>
+<tt>[10 Mar 2004]</tt> <strong><a href="./dsa-459">DSA-459 kdelibs</a></strong> - cookie path traversal <br>
+<tt>[10 Oct 2004]</tt> <strong><a href="./dsa-458">DSA-458 python2.2</a></strong> - buffer overflow <br>
+<tt>[08 Mar 2004]</tt> <strong><a href="./dsa-457">DSA-457 wu-ftpd</a></strong> - several vulnerabilities <br>
+<tt>[06 Mar 2004]</tt> <strong><a href="./dsa-456">DSA-456 linux-kernel-2.2.19-arm</a></strong> - failing function and TLB flush <br>
+<tt>[03 Mar 2004]</tt> <strong><a href="./dsa-455">DSA-455 libxml</a></strong> - buffer overflows <br>
+<tt>[02 Mar 2004]</tt> <strong><a href="./dsa-454">DSA-454 linux-kernel-2.2.22-alpha</a></strong> - failing function and TLB flush <br>
+<tt>[02 Mar 2004]</tt> <strong><a href="./dsa-453">DSA-453 linux-kernel-2.2.20-i386+m68k+powerpc</a></strong> - failing function and TLB flush <br>
+<tt>[29 Feb 2004]</tt> <strong><a href="./dsa-452">DSA-452 libapache-mod-python</a></strong> - denial of service <br>
+<tt>[27 Feb 2004]</tt> <strong><a href="./dsa-451">DSA-451 xboing</a></strong> - buffer overflows <br>
+<tt>[27 Feb 2004]</tt> <strong><a href="./dsa-450">DSA-450 linux-kernel-2.4.19-mips</a></strong> - several vulnerabilities <br>
+<tt>[24 Feb 2004]</tt> <strong><a href="./dsa-449">DSA-449 metamail</a></strong> - buffer overflow, format string bugs <br>
+<tt>[22 Feb 2004]</tt> <strong><a href="./dsa-448">DSA-448 pwlib</a></strong> - several vulnerabilities <br>
+<tt>[22 Feb 2004]</tt> <strong><a href="./dsa-447">DSA-447 hsftp</a></strong> - format string <br>
+<tt>[21 Feb 2004]</tt> <strong><a href="./dsa-446">DSA-446 synaesthesia</a></strong> - insecure file creation <br>
+<tt>[21 Feb 2004]</tt> <strong><a href="./dsa-445">DSA-445 lbreakout2</a></strong> - buffer overflow <br>
+<tt>[20 Feb 2004]</tt> <strong><a href="./dsa-444">DSA-444 linux-kernel-2.4.17-ia64</a></strong> - missing function return value check <br>
+<tt>[19 Feb 2004]</tt> <strong><a href="./dsa-443">DSA-443 xfree86</a></strong> - several vulnerabilities <br>
+<tt>[19 Feb 2004]</tt> <strong><a href="./dsa-442">DSA-442 linux-kernel-2.4.17-s390</a></strong> - several vulnerabilities <br>
+<tt>[18 Feb 2004]</tt> <strong><a href="./dsa-441">DSA-441 linux-kernel-2.4.17-mips+mipsel</a></strong> - missing function return value check <br>
+<tt>[18 Feb 2004]</tt> <strong><a href="./dsa-440">DSA-440 linux-kernel-2.4.17-powerpc-apus</a></strong> - several vulnerabilities <br>
+<tt>[18 Feb 2004]</tt> <strong><a href="./dsa-439">DSA-439 linux-kernel-2.4.16-arm</a></strong> - several vulnerabilities <br>
+<tt>[18 Feb 2004]</tt> <strong><a href="./dsa-438">DSA-438 linux-kernel-2.4.18-alpha+i386+powerpc</a></strong> - missing function return value check <br>
+<tt>[11 Feb 2004]</tt> <strong><a href="./dsa-437">DSA-437 cgiemail</a></strong> - open mail relay <br>
+<tt>[08 Feb 2004]</tt> <strong><a href="./dsa-436">DSA-436 mailman</a></strong> - several vulnerabilities <br>
+<tt>[06 Feb 2004]</tt> <strong><a href="./dsa-435">DSA-435 mpg123</a></strong> - heap overflow <br>
+<tt>[05 Feb 2004]</tt> <strong><a href="./dsa-434">DSA-434 gaim</a></strong> - several vulnerabilities <br>
+<tt>[04 Feb 2004]</tt> <strong><a href="./dsa-433">DSA-433 kernel-patch-2.4.17-mips</a></strong> - integer overflow <br>
+<tt>[03 Feb 2004]</tt> <strong><a href="./dsa-432">DSA-432 crawl</a></strong> - buffer overflow <br>
+<tt>[01 Feb 2004]</tt> <strong><a href="./dsa-431">DSA-431 perl</a></strong> - information leak <br>
+<tt>[28 Jan 2004]</tt> <strong><a href="./dsa-430">DSA-430 trr19</a></strong> - missing privilege release <br>
+<tt>[26 Jan 2004]</tt> <strong><a href="./dsa-429">DSA-429 gnupg</a></strong> - cryptographic weakness <br>
+<tt>[20 Jan 2004]</tt> <strong><a href="./dsa-428">DSA-428 slocate</a></strong> - buffer overflow <br>
+<tt>[19 Jan 2004]</tt> <strong><a href="./dsa-427">DSA-427 linux-kernel-2.4.17-mips+mipsel</a></strong> - missing boundary check <br>
+<tt>[18 Jan 2004]</tt> <strong><a href="./dsa-426">DSA-426 netpbm-free</a></strong> - insecure temporary files <br>
+<tt>[16 Jan 2004]</tt> <strong><a href="./dsa-425">DSA-425 tcpdump</a></strong> - multiple vulnerabilities <br>
+<tt>[16 Jan 2004]</tt> <strong><a href="./dsa-424">DSA-424 mc</a></strong> - buffer overflow <br>
+<tt>[15 Jan 2004]</tt> <strong><a href="./dsa-423">DSA-423 linux-kernel-2.4.17-ia64</a></strong> - several vulnerabilities <br>
+<tt>[13 Jan 2004]</tt> <strong><a href="./dsa-422">DSA-422 cvs</a></strong> - remote vulnerability <br>
+<tt>[12 Jan 2004]</tt> <strong><a href="./dsa-421">DSA-421 mod-auth-shadow</a></strong> - password expiration <br>
+<tt>[12 Jan 2004]</tt> <strong><a href="./dsa-420">DSA-420 jitterbug</a></strong> - improperly sanitised input <br>
+<tt>[09 Jan 2004]</tt> <strong><a href="./dsa-419">DSA-419 phpgroupware</a></strong> - missing filename sanitising, SQL injection <br>
+<tt>[07 Jan 2004]</tt> <strong><a href="./dsa-418">DSA-418 vbox3</a></strong> - privilege leak <br>
+<tt>[07 Jan 2004]</tt> <strong><a href="./dsa-417">DSA-417 linux-kernel-2.4.18-powerpc+alpha</a></strong> - missing boundary check <br>
+<tt>[06 Jan 2004]</tt> <strong><a href="./dsa-416">DSA-416 fsp</a></strong> - buffer overflow, directory traversal <br>
+<tt>[06 Jan 2004]</tt> <strong><a href="./dsa-415">DSA-415 zebra</a></strong> - denial of service <br>
+<tt>[06 Jan 2004]</tt> <strong><a href="./dsa-414">DSA-414 jabber</a></strong> - denial of service <br>
+<tt>[06 Jan 2004]</tt> <strong><a href="./dsa-413">DSA-413 linux-kernel-2.4.18</a></strong> - missing boundary check <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-412">DSA-412 nd</a></strong> - buffer overflows <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-411">DSA-411 mpg321</a></strong> - format string vulnerability <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-410">DSA-410 libnids</a></strong> - buffer overflow <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-409">DSA-409 bind</a></strong> - denial of service <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-408">DSA-408 screen</a></strong> - integer overflow <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-407">DSA-407 ethereal</a></strong> - buffer overflows <br>
+<tt>[05 Jan 2004]</tt> <strong><a href="./dsa-406">DSA-406 lftp</a></strong> - buffer overflow <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2004/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.cs.html" title="Czech" hreflang="cs" lang="cs" rel="alternate">&#269;esky</a>
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pl.html" title="Polish" hreflang="pl" lang="pl" rel="alternate">polski</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.fi.html" title="Finnish" hreflang="fi" lang="fi" rel="alternate">suomi</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+ <a href="index.uk.html" title="Ukrainian" hreflang="uk" lang="uk" rel="alternate">&#1091;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;&nbsp;(ukrajins'ka)</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Fri, Jun 1 18:42:17 UTC 2018
+&emsp;
+Last Built: Sun, Dec 19 00:11:47 UTC 2021
+  <br>
+  Copyright &copy; 2004-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

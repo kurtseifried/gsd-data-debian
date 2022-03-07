@@ -1,0 +1,473 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2015 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:32:26">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2015</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2015</h1>
+<tt>[23 Dec 2015]</tt> <strong><a href="./dsa-3430">DSA-3430-1 libxml2</a></strong> security update<br>
+<tt>[21 Dec 2015]</tt> <strong><a href="./dsa-3429">DSA-3429-1 foomatic-filters</a></strong> security update<br>
+<tt>[18 Dec 2015]</tt> <strong><a href="./dsa-3428">DSA-3428-1 tomcat8</a></strong> security update<br>
+<tt>[18 Dec 2015]</tt> <strong><a href="./dsa-3427">DSA-3427-1 blueman</a></strong> security update<br>
+<tt>[17 Dec 2015]</tt> <strong><a href="./dsa-3426">DSA-3426-1 linux</a></strong> security update<br>
+<tt>[17 Dec 2015]</tt> <strong><a href="./dsa-3425">DSA-3425-1 tryton-server</a></strong> security update<br>
+<tt>[16 Dec 2015]</tt> <strong><a href="./dsa-3424">DSA-3424-1 subversion</a></strong> security update<br>
+<tt>[16 Dec 2015]</tt> <strong><a href="./dsa-3423">DSA-3423-1 cacti</a></strong> security update<br>
+<tt>[16 Dec 2015]</tt> <strong><a href="./dsa-3422">DSA-3422-1 iceweasel</a></strong> security update<br>
+<tt>[16 Dec 2015]</tt> <strong><a href="./dsa-3421">DSA-3421-1 grub2</a></strong> security update<br>
+<tt>[15 Dec 2015]</tt> <strong><a href="./dsa-3420">DSA-3420-1 bind9</a></strong> security update<br>
+<tt>[15 Dec 2015]</tt> <strong><a href="./dsa-3419">DSA-3419-1 cups-filters</a></strong> security update<br>
+<tt>[14 Dec 2015]</tt> <strong><a href="./dsa-3418">DSA-3418-1 chromium-browser</a></strong> security update<br>
+<tt>[14 Dec 2015]</tt> <strong><a href="./dsa-3417">DSA-3417-1 bouncycastle</a></strong> security update<br>
+<tt>[13 Dec 2015]</tt> <strong><a href="./dsa-3416">DSA-3416-1 libphp-phpmailer</a></strong> security update<br>
+<tt>[09 Dec 2015]</tt> <strong><a href="./dsa-3415">DSA-3415-1 chromium-browser</a></strong> security update<br>
+<tt>[09 Dec 2015]</tt> <strong><a href="./dsa-3414">DSA-3414-1 xen</a></strong> security update<br>
+<tt>[04 Dec 2015]</tt> <strong><a href="./dsa-3413">DSA-3413-1 openssl</a></strong> security update<br>
+<tt>[03 Dec 2015]</tt> <strong><a href="./dsa-3412">DSA-3412-1 redis</a></strong> security update<br>
+<tt>[02 Dec 2015]</tt> <strong><a href="./dsa-3411">DSA-3411-1 cups-filters</a></strong> security update<br>
+<tt>[01 Dec 2015]</tt> <strong><a href="./dsa-3410">DSA-3410-1 icedove</a></strong> security update<br>
+<tt>[01 Dec 2015]</tt> <strong><a href="./dsa-3409">DSA-3409-1 putty</a></strong> security update<br>
+<tt>[01 Dec 2015]</tt> <strong><a href="./dsa-3408">DSA-3408-1 gnutls26</a></strong> security update<br>
+<tt>[26 Nov 2015]</tt> <strong><a href="./dsa-3407">DSA-3407-1 dpkg</a></strong> security update<br>
+<tt>[25 Nov 2015]</tt> <strong><a href="./dsa-3406">DSA-3406-1 nspr</a></strong> security update<br>
+<tt>[25 Nov 2015]</tt> <strong><a href="./dsa-3405">DSA-3405-1 smokeping</a></strong> security update<br>
+<tt>[25 Nov 2015]</tt> <strong><a href="./dsa-3404">DSA-3404-1 python-django</a></strong> security update<br>
+<tt>[24 Nov 2015]</tt> <strong><a href="./dsa-3403">DSA-3403-1 libcommons-collections3-java</a></strong> security update<br>
+<tt>[24 Nov 2015]</tt> <strong><a href="./dsa-3402">DSA-3402-1 symfony</a></strong> security update<br>
+<tt>[22 Nov 2015]</tt> <strong><a href="./dsa-3401">DSA-3401-1 openjdk-7</a></strong> security update<br>
+<tt>[19 Nov 2015]</tt> <strong><a href="./dsa-3400">DSA-3400-1 lxc</a></strong> security update<br>
+<tt>[18 Nov 2015]</tt> <strong><a href="./dsa-3399">DSA-3399-1 libpng</a></strong> security update<br>
+<tt>[16 Nov 2015]</tt> <strong><a href="./dsa-3398">DSA-3398-1 strongswan</a></strong> security update<br>
+<tt>[10 Nov 2015]</tt> <strong><a href="./dsa-3397">DSA-3397-1 wpa</a></strong> security update<br>
+<tt>[10 Nov 2015]</tt> <strong><a href="./dsa-3396">DSA-3396-1 linux</a></strong> security update<br>
+<tt>[06 Nov 2015]</tt> <strong><a href="./dsa-3395">DSA-3395-1 krb5</a></strong> security update<br>
+<tt>[05 Nov 2015]</tt> <strong><a href="./dsa-3394">DSA-3394-1 libreoffice</a></strong> security update<br>
+<tt>[04 Nov 2015]</tt> <strong><a href="./dsa-3393">DSA-3393-1 iceweasel</a></strong> security update<br>
+<tt>[04 Nov 2015]</tt> <strong><a href="./dsa-3392">DSA-3392-1 freeimage</a></strong> security update<br>
+<tt>[03 Nov 2015]</tt> <strong><a href="./dsa-3391">DSA-3391-1 php-horde</a></strong> security update<br>
+<tt>[02 Nov 2015]</tt> <strong><a href="./dsa-3390">DSA-3390-1 xen</a></strong> security update<br>
+<tt>[01 Nov 2015]</tt> <strong><a href="./dsa-3389">DSA-3389-1 elasticsearch</a></strong> end-of-life<br>
+<tt>[01 Nov 2015]</tt> <strong><a href="./dsa-3388">DSA-3388-1 ntp</a></strong> security update<br>
+<tt>[01 Nov 2015]</tt> <strong><a href="./dsa-3387">DSA-3387-1 openafs</a></strong> security update<br>
+<tt>[31 Oct 2015]</tt> <strong><a href="./dsa-3386">DSA-3386-1 unzip</a></strong> security update<br>
+<tt>[31 Oct 2015]</tt> <strong><a href="./dsa-3385">DSA-3385-1 mariadb-10.0</a></strong> security update<br>
+<tt>[29 Oct 2015]</tt> <strong><a href="./dsa-3384">DSA-3384-1 virtualbox</a></strong> security update<br>
+<tt>[29 Oct 2015]</tt> <strong><a href="./dsa-3383">DSA-3383-1 wordpress</a></strong> security update<br>
+<tt>[28 Oct 2015]</tt> <strong><a href="./dsa-3382">DSA-3382-1 phpmyadmin</a></strong> security update<br>
+<tt>[27 Oct 2015]</tt> <strong><a href="./dsa-3381">DSA-3381-1 openjdk-7</a></strong> security update<br>
+<tt>[27 Oct 2015]</tt> <strong><a href="./dsa-3380">DSA-3380-1 php5</a></strong> security update<br>
+<tt>[25 Oct 2015]</tt> <strong><a href="./dsa-3379">DSA-3379-1 miniupnpc</a></strong> security update<br>
+<tt>[24 Oct 2015]</tt> <strong><a href="./dsa-3378">DSA-3378-1 gdk-pixbuf</a></strong> security update<br>
+<tt>[24 Oct 2015]</tt> <strong><a href="./dsa-3377">DSA-3377-1 mysql-5.5</a></strong> security update<br>
+<tt>[20 Oct 2015]</tt> <strong><a href="./dsa-3376">DSA-3376-1 chromium-browser</a></strong> security update<br>
+<tt>[19 Oct 2015]</tt> <strong><a href="./dsa-3375">DSA-3375-1 wordpress</a></strong> security update<br>
+<tt>[19 Oct 2015]</tt> <strong><a href="./dsa-3374">DSA-3374-1 postgresql-9.4</a></strong> security update<br>
+<tt>[18 Oct 2015]</tt> <strong><a href="./dsa-3373">DSA-3373-1 owncloud</a></strong> security update<br>
+<tt>[13 Oct 2015]</tt> <strong><a href="./dsa-3372">DSA-3372-1 linux</a></strong> security update<br>
+<tt>[09 Oct 2015]</tt> <strong><a href="./dsa-3371">DSA-3371-1 spice</a></strong> security update<br>
+<tt>[06 Oct 2015]</tt> <strong><a href="./dsa-3370">DSA-3370-1 freetype</a></strong> security update<br>
+<tt>[06 Oct 2015]</tt> <strong><a href="./dsa-3369">DSA-3369-1 zendframework</a></strong> security update<br>
+<tt>[25 Sep 2015]</tt> <strong><a href="./dsa-3368">DSA-3368-1 cyrus-sasl2</a></strong> security update<br>
+<tt>[24 Sep 2015]</tt> <strong><a href="./dsa-3367">DSA-3367-1 wireshark</a></strong> security update<br>
+<tt>[23 Sep 2015]</tt> <strong><a href="./dsa-3366">DSA-3366-1 rpcbind</a></strong> security update<br>
+<tt>[23 Sep 2015]</tt> <strong><a href="./dsa-3365">DSA-3365-1 iceweasel</a></strong> security update<br>
+<tt>[21 Sep 2015]</tt> <strong><a href="./dsa-3364">DSA-3364-1 linux</a></strong> security update<br>
+<tt>[20 Sep 2015]</tt> <strong><a href="./dsa-3363">DSA-3363-1 owncloud-client</a></strong> security update<br>
+<tt>[18 Sep 2015]</tt> <strong><a href="./dsa-3362">DSA-3362-1 qemu-kvm</a></strong> security update<br>
+<tt>[18 Sep 2015]</tt> <strong><a href="./dsa-3361">DSA-3361-1 qemu</a></strong> security update<br>
+<tt>[15 Sep 2015]</tt> <strong><a href="./dsa-3360">DSA-3360-1 icu</a></strong> security update<br>
+<tt>[13 Sep 2015]</tt> <strong><a href="./dsa-3359">DSA-3359-1 virtualbox</a></strong> security update<br>
+<tt>[13 Sep 2015]</tt> <strong><a href="./dsa-3358">DSA-3358-1 php5</a></strong> security update<br>
+<tt>[13 Sep 2015]</tt> <strong><a href="./dsa-3357">DSA-3357-1 vzctl</a></strong> security update<br>
+<tt>[12 Sep 2015]</tt> <strong><a href="./dsa-3356">DSA-3356-1 openldap</a></strong> security update<br>
+<tt>[10 Sep 2015]</tt> <strong><a href="./dsa-3355">DSA-3355-1 libvdpau</a></strong> security update<br>
+<tt>[08 Sep 2015]</tt> <strong><a href="./dsa-3354">DSA-3354-1 spice</a></strong> security update<br>
+<tt>[05 Sep 2015]</tt> <strong><a href="./dsa-3353">DSA-3353-1 openslp-dfsg</a></strong> security update<br>
+<tt>[04 Sep 2015]</tt> <strong><a href="./dsa-3352">DSA-3352-1 screen</a></strong> security update<br>
+<tt>[03 Sep 2015]</tt> <strong><a href="./dsa-3351">DSA-3351-1 chromium-browser</a></strong> security update<br>
+<tt>[02 Sep 2015]</tt> <strong><a href="./dsa-3350">DSA-3350-1 bind9</a></strong> security update<br>
+<tt>[02 Sep 2015]</tt> <strong><a href="./dsa-3349">DSA-3349-1 qemu-kvm</a></strong> security update<br>
+<tt>[02 Sep 2015]</tt> <strong><a href="./dsa-3348">DSA-3348-1 qemu</a></strong> security update<br>
+<tt>[02 Sep 2015]</tt> <strong><a href="./dsa-3347">DSA-3347-1 pdns</a></strong> security update<br>
+<tt>[31 Aug 2015]</tt> <strong><a href="./dsa-3346">DSA-3346-1 drupal7</a></strong> security update<br>
+<tt>[29 Aug 2015]</tt> <strong><a href="./dsa-3345">DSA-3345-1 iceweasel</a></strong> security update<br>
+<tt>[27 Aug 2015]</tt> <strong><a href="./dsa-3344">DSA-3344-1 php5</a></strong> security update<br>
+<tt>[26 Aug 2015]</tt> <strong><a href="./dsa-3343">DSA-3343-1 twig</a></strong> security update<br>
+<tt>[20 Aug 2015]</tt> <strong><a href="./dsa-3342">DSA-3342-1 vlc</a></strong> security update<br>
+<tt>[20 Aug 2015]</tt> <strong><a href="./dsa-3341">DSA-3341-1 conntrack</a></strong> security update<br>
+<tt>[19 Aug 2015]</tt> <strong><a href="./dsa-3340">DSA-3340-1 zendframework</a></strong> security update<br>
+<tt>[19 Aug 2015]</tt> <strong><a href="./dsa-3339">DSA-3339-1 openjdk-6</a></strong> security update<br>
+<tt>[18 Aug 2015]</tt> <strong><a href="./dsa-3338">DSA-3338-1 python-django</a></strong> security update<br>
+<tt>[18 Aug 2015]</tt> <strong><a href="./dsa-3337">DSA-3337-1 gdk-pixbuf</a></strong> security update<br>
+<tt>[17 Aug 2015]</tt> <strong><a href="./dsa-3336">DSA-3336-1 nss</a></strong> security update<br>
+<tt>[13 Aug 2015]</tt> <strong><a href="./dsa-3335">DSA-3335-1 request-tracker4</a></strong> security update<br>
+<tt>[12 Aug 2015]</tt> <strong><a href="./dsa-3334">DSA-3334-1 gnutls28</a></strong> security update<br>
+<tt>[12 Aug 2015]</tt> <strong><a href="./dsa-3333">DSA-3333-1 iceweasel</a></strong> security update<br>
+<tt>[11 Aug 2015]</tt> <strong><a href="./dsa-3332">DSA-3332-1 wordpress</a></strong> security update<br>
+<tt>[10 Aug 2015]</tt> <strong><a href="./dsa-3331">DSA-3331-1 subversion</a></strong> security update<br>
+<tt>[07 Aug 2015]</tt> <strong><a href="./dsa-3330">DSA-3330-1 activemq</a></strong> security update<br>
+<tt>[07 Aug 2015]</tt> <strong><a href="./dsa-3329">DSA-3329-1 linux</a></strong> security update<br>
+<tt>[04 Aug 2015]</tt> <strong><a href="./dsa-3328">DSA-3328-1 wordpress</a></strong> security update<br>
+<tt>[03 Aug 2015]</tt> <strong><a href="./dsa-3327">DSA-3327-1 squid3</a></strong> security update<br>
+<tt>[02 Aug 2015]</tt> <strong><a href="./dsa-3326">DSA-3326-1 ghostscript</a></strong> security update<br>
+<tt>[01 Aug 2015]</tt> <strong><a href="./dsa-3325">DSA-3325-1 apache2</a></strong> security update<br>
+<tt>[01 Aug 2015]</tt> <strong><a href="./dsa-3324">DSA-3324-1 icedove</a></strong> security update<br>
+<tt>[01 Aug 2015]</tt> <strong><a href="./dsa-3323">DSA-3323-1 icu</a></strong> security update<br>
+<tt>[31 Jul 2015]</tt> <strong><a href="./dsa-3322">DSA-3322-1 ruby-rack</a></strong> security update<br>
+<tt>[30 Jul 2015]</tt> <strong><a href="./dsa-3321">DSA-3321-1 xmltooling</a></strong> security update<br>
+<tt>[30 Jul 2015]</tt> <strong><a href="./dsa-3320">DSA-3320-1 openafs</a></strong> security update<br>
+<tt>[28 Jul 2015]</tt> <strong><a href="./dsa-3319">DSA-3319-1 bind9</a></strong> security update<br>
+<tt>[26 Jul 2015]</tt> <strong><a href="./dsa-3318">DSA-3318-1 expat</a></strong> security update<br>
+<tt>[25 Jul 2015]</tt> <strong><a href="./dsa-3317">DSA-3317-1 lxc</a></strong> security update<br>
+<tt>[25 Jul 2015]</tt> <strong><a href="./dsa-3316">DSA-3316-1 openjdk-7</a></strong> security update<br>
+<tt>[23 Jul 2015]</tt> <strong><a href="./dsa-3315">DSA-3315-1 chromium-browser</a></strong> security update<br>
+<tt>[23 Jul 2015]</tt> <strong><a href="./dsa-3314">DSA-3314-1 typo3-src</a></strong> end of life<br>
+<tt>[23 Jul 2015]</tt> <strong><a href="./dsa-3313">DSA-3313-1 linux</a></strong> security update<br>
+<tt>[22 Jul 2015]</tt> <strong><a href="./dsa-3312">DSA-3312-1 cacti</a></strong> security update<br>
+<tt>[20 Jul 2015]</tt> <strong><a href="./dsa-3311">DSA-3311-1 mariadb-10.0</a></strong> security update<br>
+<tt>[19 Jul 2015]</tt> <strong><a href="./dsa-3310">DSA-3310-1 freexl</a></strong> security update<br>
+<tt>[18 Jul 2015]</tt> <strong><a href="./dsa-3309">DSA-3309-1 tidy</a></strong> security update<br>
+<tt>[18 Jul 2015]</tt> <strong><a href="./dsa-3308">DSA-3308-1 mysql-5.5</a></strong> security update<br>
+<tt>[09 Jul 2015]</tt> <strong><a href="./dsa-3307">DSA-3307-1 pdns-recursor</a></strong> security update<br>
+<tt>[09 Jul 2015]</tt> <strong><a href="./dsa-3306">DSA-3306-1 pdns</a></strong> security update<br>
+<tt>[08 Jul 2015]</tt> <strong><a href="./dsa-3305">DSA-3305-1 python-django</a></strong> security update<br>
+<tt>[07 Jul 2015]</tt> <strong><a href="./dsa-3304">DSA-3304-1 bind9</a></strong> security update<br>
+<tt>[07 Jul 2015]</tt> <strong><a href="./dsa-3303">DSA-3303-1 cups-filters</a></strong> security update<br>
+<tt>[06 Jul 2015]</tt> <strong><a href="./dsa-3302">DSA-3302-1 libwmf</a></strong> security update<br>
+<tt>[05 Jul 2015]</tt> <strong><a href="./dsa-3301">DSA-3301-1 haproxy</a></strong> security update<br>
+<tt>[04 Jul 2015]</tt> <strong><a href="./dsa-3300">DSA-3300-1 iceweasel</a></strong> security update<br>
+<tt>[02 Jul 2015]</tt> <strong><a href="./dsa-3299">DSA-3299-1 stunnel4</a></strong> security update<br>
+<tt>[01 Jul 2015]</tt> <strong><a href="./dsa-3298">DSA-3298-1 jackrabbit</a></strong> security update<br>
+<tt>[29 Jun 2015]</tt> <strong><a href="./dsa-3297">DSA-3297-1 unattended-upgrades</a></strong> security update<br>
+<tt>[29 Jun 2015]</tt> <strong><a href="./dsa-3296">DSA-3296-1 libcrypto++</a></strong> security update<br>
+<tt>[24 Jun 2015]</tt> <strong><a href="./dsa-3295">DSA-3295-1 cacti</a></strong> security update<br>
+<tt>[23 Jun 2015]</tt> <strong><a href="./dsa-3294">DSA-3294-1 wireshark</a></strong> security update<br>
+<tt>[20 Jun 2015]</tt> <strong><a href="./dsa-3293">DSA-3293-1 pyjwt</a></strong> security update<br>
+<tt>[19 Jun 2015]</tt> <strong><a href="./dsa-3292">DSA-3292-1 cinder</a></strong> security update<br>
+<tt>[18 Jun 2015]</tt> <strong><a href="./dsa-3291">DSA-3291-1 drupal7</a></strong> security update<br>
+<tt>[18 Jun 2015]</tt> <strong><a href="./dsa-3290">DSA-3290-1 linux</a></strong> security update<br>
+<tt>[15 Jun 2015]</tt> <strong><a href="./dsa-3289">DSA-3289-1 p7zip</a></strong> security update<br>
+<tt>[13 Jun 2015]</tt> <strong><a href="./dsa-3288">DSA-3288-1 libav</a></strong> security update<br>
+<tt>[13 Jun 2015]</tt> <strong><a href="./dsa-3287">DSA-3287-1 openssl</a></strong> security update<br>
+<tt>[13 Jun 2015]</tt> <strong><a href="./dsa-3286">DSA-3286-1 xen</a></strong> security update<br>
+<tt>[13 Jun 2015]</tt> <strong><a href="./dsa-3285">DSA-3285-1 qemu-kvm</a></strong> security update<br>
+<tt>[13 Jun 2015]</tt> <strong><a href="./dsa-3284">DSA-3284-1 qemu</a></strong> security update<br>
+<tt>[09 Jun 2015]</tt> <strong><a href="./dsa-3283">DSA-3283-1 cups</a></strong> security update<br>
+<tt>[08 Jun 2015]</tt> <strong><a href="./dsa-3282">DSA-3282-1 strongswan</a></strong> security update<br>
+<tt>[07 Jun 2015]</tt> <strong><a href="./dsa-3281">DSA-3281-1</a></strong> Debian Security Team PGP/GPG key change notice<br>
+<tt>[07 Jun 2015]</tt> <strong><a href="./dsa-3280">DSA-3280-1 php5</a></strong> security update<br>
+<tt>[06 Jun 2015]</tt> <strong><a href="./dsa-3279">DSA-3279-1 redis</a></strong> security update<br>
+<tt>[03 Jun 2015]</tt> <strong><a href="./dsa-3278">DSA-3278-1 libapache-mod-jk</a></strong> security update<br>
+<tt>[02 Jun 2015]</tt> <strong><a href="./dsa-3277">DSA-3277-1 wireshark</a></strong> security update<br>
+<tt>[31 May 2015]</tt> <strong><a href="./dsa-3276">DSA-3276-1 symfony</a></strong> security update<br>
+<tt>[30 May 2015]</tt> <strong><a href="./dsa-3275">DSA-3275-1 fusionforge</a></strong> security update<br>
+<tt>[28 May 2015]</tt> <strong><a href="./dsa-3274">DSA-3274-1 virtualbox</a></strong> security update<br>
+<tt>[25 May 2015]</tt> <strong><a href="./dsa-3273">DSA-3273-1 tiff</a></strong> security update<br>
+<tt>[23 May 2015]</tt> <strong><a href="./dsa-3272">DSA-3272-1 ipsec-tools</a></strong> security update<br>
+<tt>[23 May 2015]</tt> <strong><a href="./dsa-3271">DSA-3271-1 nbd</a></strong> security update<br>
+<tt>[22 May 2015]</tt> <strong><a href="./dsa-3270">DSA-3270-1 postgresql-9.4</a></strong> security update<br>
+<tt>[22 May 2015]</tt> <strong><a href="./dsa-3269">DSA-3269-1 postgresql-9.1</a></strong> security update<br>
+<tt>[22 May 2015]</tt> <strong><a href="./dsa-3268">DSA-3268-1 ntfs-3g</a></strong> security update<br>
+<tt>[22 May 2015]</tt> <strong><a href="./dsa-3267">DSA-3267-1 chromium-browser</a></strong> security update<br>
+<tt>[21 May 2015]</tt> <strong><a href="./dsa-3266">DSA-3266-1 fuse</a></strong> security update<br>
+<tt>[20 May 2015]</tt> <strong><a href="./dsa-3265">DSA-3265-1 zendframework</a></strong> security update<br>
+<tt>[19 May 2015]</tt> <strong><a href="./dsa-3264">DSA-3264-1 icedove</a></strong> security update<br>
+<tt>[19 May 2015]</tt> <strong><a href="./dsa-3263">DSA-3263-1 proftpd-dfsg</a></strong> security update<br>
+<tt>[18 May 2015]</tt> <strong><a href="./dsa-3262">DSA-3262-1 xen</a></strong> security update<br>
+<tt>[15 May 2015]</tt> <strong><a href="./dsa-3261">DSA-3261-1 libmodule-signature-perl</a></strong> security update<br>
+<tt>[13 May 2015]</tt> <strong><a href="./dsa-3260">DSA-3260-1 iceweasel</a></strong> security update<br>
+<tt>[13 May 2015]</tt> <strong><a href="./dsa-3259">DSA-3259-1 qemu</a></strong> security update<br>
+<tt>[12 May 2015]</tt> <strong><a href="./dsa-3258">DSA-3258-1 quassel</a></strong> security update<br>
+<tt>[11 May 2015]</tt> <strong><a href="./dsa-3257">DSA-3257-1 mercurial</a></strong> security update<br>
+<tt>[10 May 2015]</tt> <strong><a href="./dsa-3256">DSA-3256-1 libtasn1-6</a></strong> security update<br>
+<tt>[10 May 2015]</tt> <strong><a href="./dsa-3255">DSA-3255-1 zeromq3</a></strong> security update<br>
+<tt>[09 May 2015]</tt> <strong><a href="./dsa-3254">DSA-3254-1 suricata</a></strong> security update<br>
+<tt>[07 May 2015]</tt> <strong><a href="./dsa-3253">DSA-3253-1 pound</a></strong> security update<br>
+<tt>[06 May 2015]</tt> <strong><a href="./dsa-3252">DSA-3252-1 sqlite3</a></strong> security update<br>
+<tt>[05 May 2015]</tt> <strong><a href="./dsa-3251">DSA-3251-1 dnsmasq</a></strong> security update<br>
+<tt>[04 May 2015]</tt> <strong><a href="./dsa-3250">DSA-3250-1 wordpress</a></strong> security update<br>
+<tt>[03 May 2015]</tt> <strong><a href="./dsa-3249">DSA-3249-1 jqueryui</a></strong> security update<br>
+<tt>[02 May 2015]</tt> <strong><a href="./dsa-3248">DSA-3248-1 libphp-snoopy</a></strong> security update<br>
+<tt>[02 May 2015]</tt> <strong><a href="./dsa-3247">DSA-3247-1 ruby2.1</a></strong> security update<br>
+<tt>[02 May 2015]</tt> <strong><a href="./dsa-3246">DSA-3246-1 ruby1.9.1</a></strong> security update<br>
+<tt>[02 May 2015]</tt> <strong><a href="./dsa-3245">DSA-3245-1 ruby1.8</a></strong> security update<br>
+<tt>[02 May 2015]</tt> <strong><a href="./dsa-3244">DSA-3244-1 owncloud</a></strong> security update<br>
+<tt>[01 May 2015]</tt> <strong><a href="./dsa-3243">DSA-3243-1 libxml-libxml-perl</a></strong> security update<br>
+<tt>[30 Apr 2015]</tt> <strong><a href="./dsa-3242">DSA-3242-1 chromium-browser</a></strong> security update<br>
+<tt>[29 Apr 2015]</tt> <strong><a href="./dsa-3241">DSA-3241-1 elasticsearch</a></strong> security update<br>
+<tt>[29 Apr 2015]</tt> <strong><a href="./dsa-3240">DSA-3240-1 curl</a></strong> security update<br>
+<tt>[29 Apr 2015]</tt> <strong><a href="./dsa-3239">DSA-3239-1 icecast2</a></strong> security update<br>
+<tt>[26 Apr 2015]</tt> <strong><a href="./dsa-3238">DSA-3238-1 chromium-browser</a></strong> security update<br>
+<tt>[26 Apr 2015]</tt> <strong><a href="./dsa-3237">DSA-3237-1 linux</a></strong> security update<br>
+<tt>[25 Apr 2015]</tt> <strong><a href="./dsa-3236">DSA-3236-1 libreoffice</a></strong> security update<br>
+<tt>[24 Apr 2015]</tt> <strong><a href="./dsa-3235">DSA-3235-1 openjdk-7</a></strong> security update<br>
+<tt>[24 Apr 2015]</tt> <strong><a href="./dsa-3234">DSA-3234-1 openjdk-6</a></strong> security update<br>
+<tt>[24 Apr 2015]</tt> <strong><a href="./dsa-3233">DSA-3233-1 wpa</a></strong> security update<br>
+<tt>[22 Apr 2015]</tt> <strong><a href="./dsa-3232">DSA-3232-1 curl</a></strong> security update<br>
+<tt>[21 Apr 2015]</tt> <strong><a href="./dsa-3231">DSA-3231-1 subversion</a></strong> security update<br>
+<tt>[20 Apr 2015]</tt> <strong><a href="./dsa-3230">DSA-3230-1 django-markupfield</a></strong> security update<br>
+<tt>[19 Apr 2015]</tt> <strong><a href="./dsa-3229">DSA-3229-1 mysql-5.5</a></strong> security update<br>
+<tt>[16 Apr 2015]</tt> <strong><a href="./dsa-3228">DSA-3228-1 ppp</a></strong> security update<br>
+<tt>[15 Apr 2015]</tt> <strong><a href="./dsa-3227">DSA-3227-1 movabletype-opensource</a></strong> security update<br>
+<tt>[15 Apr 2015]</tt> <strong><a href="./dsa-3226">DSA-3226-1 inspircd</a></strong> security update<br>
+<tt>[15 Apr 2015]</tt> <strong><a href="./dsa-3225">DSA-3225-1 gst-plugins-bad0.10</a></strong> security update<br>
+<tt>[12 Apr 2015]</tt> <strong><a href="./dsa-3224">DSA-3224-1 libx11</a></strong> security update<br>
+<tt>[12 Apr 2015]</tt> <strong><a href="./dsa-3223">DSA-3223-1 ntp</a></strong> security update<br>
+<tt>[12 Apr 2015]</tt> <strong><a href="./dsa-3222">DSA-3222-1 chrony</a></strong> security update<br>
+<tt>[12 Apr 2015]</tt> <strong><a href="./dsa-3221">DSA-3221-1 das-watchdog</a></strong> security update<br>
+<tt>[11 Apr 2015]</tt> <strong><a href="./dsa-3220">DSA-3220-1 libtasn1-3</a></strong> security update<br>
+<tt>[11 Apr 2015]</tt> <strong><a href="./dsa-3219">DSA-3219-1 libdbd-firebird-perl</a></strong> security update<br>
+<tt>[10 Apr 2015]</tt> <strong><a href="./dsa-3218">DSA-3218-1 wesnoth-1.10</a></strong> security update<br>
+<tt>[09 Apr 2015]</tt> <strong><a href="./dsa-3217">DSA-3217-1 dpkg</a></strong> security update<br>
+<tt>[06 Apr 2015]</tt> <strong><a href="./dsa-3216">DSA-3216-1 tor</a></strong> security update<br>
+<tt>[06 Apr 2015]</tt> <strong><a href="./dsa-3215">DSA-3215-1 libgd2</a></strong> security update<br>
+<tt>[06 Apr 2015]</tt> <strong><a href="./dsa-3214">DSA-3214-1 mailman</a></strong> security update<br>
+<tt>[06 Apr 2015]</tt> <strong><a href="./dsa-3213">DSA-3213-1 arj</a></strong> security update<br>
+<tt>[02 Apr 2015]</tt> <strong><a href="./dsa-3212">DSA-3212-1 icedove</a></strong> security update<br>
+<tt>[01 Apr 2015]</tt> <strong><a href="./dsa-3211">DSA-3211-1 iceweasel</a></strong> security update<br>
+<tt>[31 Mar 2015]</tt> <strong><a href="./dsa-3210">DSA-3210-1 wireshark</a></strong> security update<br>
+<tt>[30 Mar 2015]</tt> <strong><a href="./dsa-3209">DSA-3209-1 openldap</a></strong> security update<br>
+<tt>[29 Mar 2015]</tt> <strong><a href="./dsa-3208">DSA-3208-1 freexl</a></strong> security update<br>
+<tt>[28 Mar 2015]</tt> <strong><a href="./dsa-3207">DSA-3207-1 shibboleth-sp2</a></strong> security update<br>
+<tt>[28 Mar 2015]</tt> <strong><a href="./dsa-3206">DSA-3206-1 dulwich</a></strong> security update<br>
+<tt>[27 Mar 2015]</tt> <strong><a href="./dsa-3205">DSA-3205-1 batik</a></strong> security update<br>
+<tt>[24 Mar 2015]</tt> <strong><a href="./dsa-3204">DSA-3204-1 python-django</a></strong> security update<br>
+<tt>[22 Mar 2015]</tt> <strong><a href="./dsa-3203">DSA-3203-1 tor</a></strong> security update<br>
+<tt>[22 Mar 2015]</tt> <strong><a href="./dsa-3202">DSA-3202-1 mono</a></strong> security update<br>
+<tt>[22 Mar 2015]</tt> <strong><a href="./dsa-3201">DSA-3201-1 iceweasel</a></strong> security update<br>
+<tt>[20 Mar 2015]</tt> <strong><a href="./dsa-3200">DSA-3200-1 drupal7</a></strong> security update<br>
+<tt>[20 Mar 2015]</tt> <strong><a href="./dsa-3199">DSA-3199-1 xerces-c</a></strong> security update<br>
+<tt>[20 Mar 2015]</tt> <strong><a href="./dsa-3198">DSA-3198-1 php5</a></strong> security update<br>
+<tt>[19 Mar 2015]</tt> <strong><a href="./dsa-3197">DSA-3197-1 openssl</a></strong> security update<br>
+<tt>[18 Mar 2015]</tt> <strong><a href="./dsa-3196">DSA-3196-1 file</a></strong> security update<br>
+<tt>[18 Mar 2015]</tt> <strong><a href="./dsa-3195">DSA-3195-1 php5</a></strong> security update<br>
+<tt>[17 Mar 2015]</tt> <strong><a href="./dsa-3194">DSA-3194-1 libxfont</a></strong> security update<br>
+<tt>[17 Mar 2015]</tt> <strong><a href="./dsa-3193">DSA-3193-1 tcpdump</a></strong> security update<br>
+<tt>[17 Mar 2015]</tt> <strong><a href="./dsa-3192">DSA-3192-1 checkpw</a></strong> security update<br>
+<tt>[15 Mar 2015]</tt> <strong><a href="./dsa-3191">DSA-3191-1 gnutls26</a></strong> security update<br>
+<tt>[15 Mar 2015]</tt> <strong><a href="./dsa-3190">DSA-3190-1 putty</a></strong> security update<br>
+<tt>[15 Mar 2015]</tt> <strong><a href="./dsa-3189">DSA-3189-1 libav</a></strong> security update<br>
+<tt>[15 Mar 2015]</tt> <strong><a href="./dsa-3188">DSA-3188-1 freetype</a></strong> security update<br>
+<tt>[15 Mar 2015]</tt> <strong><a href="./dsa-3187">DSA-3187-1 icu</a></strong> security update<br>
+<tt>[13 Mar 2015]</tt> <strong><a href="./dsa-3186">DSA-3186-1 nss</a></strong> security update<br>
+<tt>[12 Mar 2015]</tt> <strong><a href="./dsa-3185">DSA-3185-1 libgcrypt11</a></strong> security update<br>
+<tt>[12 Mar 2015]</tt> <strong><a href="./dsa-3184">DSA-3184-1 gnupg</a></strong> security update<br>
+<tt>[12 Mar 2015]</tt> <strong><a href="./dsa-3183">DSA-3183-1 movabletype-opensource</a></strong> security update<br>
+<tt>[11 Mar 2015]</tt> <strong><a href="./dsa-3182">DSA-3182-1 libssh2</a></strong> security update<br>
+<tt>[10 Mar 2015]</tt> <strong><a href="./dsa-3181">DSA-3181-1 xen</a></strong> security update<br>
+<tt>[10 Mar 2015]</tt> <strong><a href="./dsa-3177">DSA-3177-1 mod-gnutls</a></strong> security update<br>
+<tt>[05 Mar 2015]</tt> <strong><a href="./dsa-3180">DSA-3180-1 libarchive</a></strong> security update<br>
+<tt>[03 Mar 2015]</tt> <strong><a href="./dsa-3179">DSA-3179-1 icedove</a></strong> security update<br>
+<tt>[02 Mar 2015]</tt> <strong><a href="./dsa-3178">DSA-3178-1 unace</a></strong> security update<br>
+<tt>[26 Feb 2015]</tt> <strong><a href="./dsa-3176">DSA-3176-1 request-tracker4</a></strong> security update<br>
+<tt>[25 Feb 2015]</tt> <strong><a href="./dsa-3175">DSA-3175-1 kfreebsd-9</a></strong> security update<br>
+<tt>[25 Feb 2015]</tt> <strong><a href="./dsa-3174">DSA-3174-1 iceweasel</a></strong> security update<br>
+<tt>[25 Feb 2015]</tt> <strong><a href="./dsa-3173">DSA-3173-1 libgtk2-perl</a></strong> security update<br>
+<tt>[25 Feb 2015]</tt> <strong><a href="./dsa-3172">DSA-3172-1 cups</a></strong> security update<br>
+<tt>[23 Feb 2015]</tt> <strong><a href="./dsa-3171">DSA-3171-1 samba</a></strong> security update<br>
+<tt>[23 Feb 2015]</tt> <strong><a href="./dsa-3170">DSA-3170-1 linux</a></strong> security update<br>
+<tt>[23 Feb 2015]</tt> <strong><a href="./dsa-3169">DSA-3169-1 eglibc</a></strong> security update<br>
+<tt>[22 Feb 2015]</tt> <strong><a href="./dsa-3168">DSA-3168-1 ruby-redcloth</a></strong> security update<br>
+<tt>[22 Feb 2015]</tt> <strong><a href="./dsa-3167">DSA-3167-1 sudo</a></strong> security update<br>
+<tt>[22 Feb 2015]</tt> <strong><a href="./dsa-3166">DSA-3166-1 e2fsprogs</a></strong> security update<br>
+<tt>[21 Feb 2015]</tt> <strong><a href="./dsa-3165">DSA-3165-1 xdg-utils</a></strong> security update<br>
+<tt>[21 Feb 2015]</tt> <strong><a href="./dsa-3164">DSA-3164-1 typo3-src</a></strong> security update<br>
+<tt>[19 Feb 2015]</tt> <strong><a href="./dsa-3163">DSA-3163-1 libreoffice</a></strong> security update<br>
+<tt>[18 Feb 2015]</tt> <strong><a href="./dsa-3162">DSA-3162-1 bind9</a></strong> security update<br>
+<tt>[11 Feb 2015]</tt> <strong><a href="./dsa-3161">DSA-3161-1 dbus</a></strong> security update<br>
+<tt>[11 Feb 2015]</tt> <strong><a href="./dsa-3160">DSA-3160-1 xorg-server</a></strong> security update<br>
+<tt>[10 Feb 2015]</tt> <strong><a href="./dsa-3159">DSA-3159-1 ruby1.8</a></strong> security update<br>
+<tt>[09 Feb 2015]</tt> <strong><a href="./dsa-3158">DSA-3158-1 unrtf</a></strong> security update<br>
+<tt>[09 Feb 2015]</tt> <strong><a href="./dsa-3157">DSA-3157-1 ruby1.9.1</a></strong> security update<br>
+<tt>[07 Feb 2015]</tt> <strong><a href="./dsa-3156">DSA-3156-1 liblivemedia</a></strong> security update<br>
+<tt>[06 Feb 2015]</tt> <strong><a href="./dsa-3155">DSA-3155-1 postgresql-9.1</a></strong> security update<br>
+<tt>[05 Feb 2015]</tt> <strong><a href="./dsa-3154">DSA-3154-1 ntp</a></strong> security update<br>
+<tt>[03 Feb 2015]</tt> <strong><a href="./dsa-3153">DSA-3153-1 krb5</a></strong> security update<br>
+<tt>[03 Feb 2015]</tt> <strong><a href="./dsa-3152">DSA-3152-1 unzip</a></strong> security update<br>
+<tt>[03 Feb 2015]</tt> <strong><a href="./dsa-3151">DSA-3151-1 python-django</a></strong> security update<br>
+<tt>[02 Feb 2015]</tt> <strong><a href="./dsa-3150">DSA-3150-1 vlc</a></strong> security update<br>
+<tt>[02 Feb 2015]</tt> <strong><a href="./dsa-3149">DSA-3149-1 condor</a></strong> security update<br>
+<tt>[31 Jan 2015]</tt> <strong><a href="./dsa-3148">DSA-3148-1 chromium-browser</a></strong> end of life<br>
+<tt>[30 Jan 2015]</tt> <strong><a href="./dsa-3147">DSA-3147-1 openjdk-6</a></strong> security update<br>
+<tt>[30 Jan 2015]</tt> <strong><a href="./dsa-3146">DSA-3146-1 requests</a></strong> security update<br>
+<tt>[30 Jan 2015]</tt> <strong><a href="./dsa-3145">DSA-3145-1 privoxy</a></strong> security update<br>
+<tt>[29 Jan 2015]</tt> <strong><a href="./dsa-3144">DSA-3144-1 openjdk-7</a></strong> security update<br>
+<tt>[28 Jan 2015]</tt> <strong><a href="./dsa-3143">DSA-3143-1 virtualbox</a></strong> security update<br>
+<tt>[27 Jan 2015]</tt> <strong><a href="./dsa-3142">DSA-3142-1 eglibc</a></strong> security update<br>
+<tt>[27 Jan 2015]</tt> <strong><a href="./dsa-3141">DSA-3141-1 wireshark</a></strong> security update<br>
+<tt>[27 Jan 2015]</tt> <strong><a href="./dsa-3140">DSA-3140-1 xen</a></strong> security update<br>
+<tt>[25 Jan 2015]</tt> <strong><a href="./dsa-3139">DSA-3139-1 squid</a></strong> security update<br>
+<tt>[25 Jan 2015]</tt> <strong><a href="./dsa-3138">DSA-3138-1 jasper</a></strong> security update<br>
+<tt>[24 Jan 2015]</tt> <strong><a href="./dsa-3137">DSA-3137-1 websvn</a></strong> security update<br>
+<tt>[24 Jan 2015]</tt> <strong><a href="./dsa-3136">DSA-3136-1 polarssl</a></strong> security update<br>
+<tt>[23 Jan 2015]</tt> <strong><a href="./dsa-3135">DSA-3135-1 mysql-5.5</a></strong> security update<br>
+<tt>[20 Jan 2015]</tt> <strong><a href="./dsa-3134">DSA-3134-1 sympa</a></strong> security update<br>
+<tt>[20 Jan 2015]</tt> <strong><a href="./dsa-3133">DSA-3133-1 privoxy</a></strong> security update<br>
+<tt>[19 Jan 2015]</tt> <strong><a href="./dsa-3132">DSA-3132-1 icedove</a></strong> security update<br>
+<tt>[18 Jan 2015]</tt> <strong><a href="./dsa-3131">DSA-3131-1 xdg-utils</a></strong> security update<br>
+<tt>[16 Jan 2015]</tt> <strong><a href="./dsa-3130">DSA-3130-1 lsyncd</a></strong> security update<br>
+<tt>[15 Jan 2015]</tt> <strong><a href="./dsa-3129">DSA-3129-1 rpm</a></strong> security update<br>
+<tt>[15 Jan 2015]</tt> <strong><a href="./dsa-3128">DSA-3128-1 linux</a></strong> security update<br>
+<tt>[14 Jan 2015]</tt> <strong><a href="./dsa-3127">DSA-3127-1 iceweasel</a></strong> security update<br>
+<tt>[12 Jan 2015]</tt> <strong><a href="./dsa-3126">DSA-3126-1 php5</a></strong> security update<br>
+<tt>[11 Jan 2015]</tt> <strong><a href="./dsa-3125">DSA-3125-1 openssl</a></strong> security update<br>
+<tt>[10 Jan 2015]</tt> <strong><a href="./dsa-3124">DSA-3124-1 otrs2</a></strong> security update<br>
+<tt>[09 Jan 2015]</tt> <strong><a href="./dsa-3123">DSA-3123-1 binutils</a></strong> security update<br>
+<tt>[08 Jan 2015]</tt> <strong><a href="./dsa-3122">DSA-3122-1 curl</a></strong> security update<br>
+<tt>[08 Jan 2015]</tt> <strong><a href="./dsa-3121">DSA-3121-1 file</a></strong> security update<br>
+<tt>[06 Jan 2015]</tt> <strong><a href="./dsa-3120">DSA-3120-1 mantis</a></strong> security update<br>
+<tt>[06 Jan 2015]</tt> <strong><a href="./dsa-3119">DSA-3119-1 libevent</a></strong> security update<br>
+<tt>[05 Jan 2015]</tt> <strong><a href="./dsa-3118">DSA-3118-1 strongswan</a></strong> security update<br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2015/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+ <a href="index.vi.html" title="Vietnamese" hreflang="vi" lang="vi" rel="alternate">Ti&#7871;ng Vi&#7879;t</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Thu, Dec 24 13:40:45 UTC 2020
+&emsp;
+Last Built: Sun, Dec 19 00:32:26 UTC 2021
+  <br>
+  Copyright &copy; 2015-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

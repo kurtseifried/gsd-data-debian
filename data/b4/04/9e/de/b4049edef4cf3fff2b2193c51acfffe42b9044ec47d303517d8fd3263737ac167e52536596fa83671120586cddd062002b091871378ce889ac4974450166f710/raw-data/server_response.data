@@ -1,0 +1,398 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2011 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2022-02-05 23:31:14">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2011</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2011</h1>
+<tt>[30 Dec 2011]</tt> <strong><a href="./dsa-2376">DSA-2376 ipmitool</a></strong> - insecure PID file <br>
+<tt>[26 Dec 2011]</tt> <strong><a href="./dsa-2375">DSA-2375 krb5, krb5-appl</a></strong> - buffer overflow <br>
+<tt>[26 Dec 2011]</tt> <strong><a href="./dsa-2374">DSA-2374 openswan</a></strong> - implementation error <br>
+<tt>[25 Dec 2011]</tt> <strong><a href="./dsa-2373">DSA-2373 inetutils</a></strong> - buffer overflow <br>
+<tt>[25 Dec 2011]</tt> <strong><a href="./dsa-2372">DSA-2372 heimdal</a></strong> - buffer overflow <br>
+<tt>[24 Dec 2011]</tt> <strong><a href="./dsa-2371">DSA-2371 jasper</a></strong> - buffer overflows <br>
+<tt>[22 Dec 2011]</tt> <strong><a href="./dsa-2370">DSA-2370 unbound</a></strong> - several vulnerabilities <br>
+<tt>[21 Dec 2011]</tt> <strong><a href="./dsa-2369">DSA-2369 libsoup2.4</a></strong> - insufficient input sanitization <br>
+<tt>[20 Dec 2011]</tt> <strong><a href="./dsa-2368">DSA-2368 lighttpd</a></strong> - multiple vulnerabilities <br>
+<tt>[19 Dec 2011]</tt> <strong><a href="./dsa-2367">DSA-2367 asterisk</a></strong> - several vulnerabilities <br>
+<tt>[18 Dec 2011]</tt> <strong><a href="./dsa-2366">DSA-2366 mediawiki</a></strong> - multiple vulnerabilities <br>
+<tt>[18 Dec 2011]</tt> <strong><a href="./dsa-2365">DSA-2365 dtc</a></strong> - several vulnerabilities <br>
+<tt>[18 Dec 2011]</tt> <strong><a href="./dsa-2364">DSA-2364 xorg</a></strong> - incorrect permission check <br>
+<tt>[16 Dec 2011]</tt> <strong><a href="./dsa-2363">DSA-2363 tor</a></strong> - buffer overflow <br>
+<tt>[10 Dec 2011]</tt> <strong><a href="./dsa-2362">DSA-2362 acpid</a></strong> - several vulnerabilities <br>
+<tt>[07 Dec 2011]</tt> <strong><a href="./dsa-2361">DSA-2361 chasen</a></strong> - buffer overflow <br>
+<tt>[06 Dec 2011]</tt> <strong><a href="./dsa-2360">DSA-2360</a></strong> - Advance notification for upcoming end-of-life for Debian 8 <br>
+<tt>[06 Dec 2011]</tt> <strong><a href="./dsa-2359">DSA-2359 mojarra</a></strong> - EL injection <br>
+<tt>[05 Dec 2011]</tt> <strong><a href="./dsa-2358">DSA-2358 openjdk-6</a></strong> - several vulnerabilities <br>
+<tt>[03 Dec 2011]</tt> <strong><a href="./dsa-2357">DSA-2357 evince</a></strong> - several vulnerabilities <br>
+<tt>[01 Dec 2011]</tt> <strong><a href="./dsa-2356">DSA-2356 openjdk-6</a></strong> - several vulnerabilities <br>
+<tt>[30 Nov 2011]</tt> <strong><a href="./dsa-2355">DSA-2355 clearsilver</a></strong> - format string vulnerability <br>
+<tt>[28 Nov 2011]</tt> <strong><a href="./dsa-2354">DSA-2354 cups</a></strong> - several vulnerabilities <br>
+<tt>[24 Nov 2011]</tt> <strong><a href="./dsa-2353">DSA-2353 ldns</a></strong> - buffer overflow <br>
+<tt>[22 Nov 2011]</tt> <strong><a href="./dsa-2352">DSA-2352 puppet</a></strong> - programming error <br>
+<tt>[21 Nov 2011]</tt> <strong><a href="./dsa-2351">DSA-2351 wireshark</a></strong> - buffer overflow <br>
+<tt>[20 Nov 2011]</tt> <strong><a href="./dsa-2350">DSA-2350 freetype</a></strong> - missing input sanitising <br>
+<tt>[19 Nov 2011]</tt> <strong><a href="./dsa-2349">DSA-2349 spip</a></strong> - several vulnerabilities <br>
+<tt>[17 Nov 2011]</tt> <strong><a href="./dsa-2348">DSA-2348 systemtap</a></strong> - several vulnerabilities <br>
+<tt>[16 Nov 2011]</tt> <strong><a href="./dsa-2347">DSA-2347 bind9</a></strong> - improper assert <br>
+<tt>[16 Nov 2011]</tt> <strong><a href="./dsa-2346">DSA-2346 proftpd-dfsg</a></strong> - several vulnerabilities <br>
+<tt>[11 Nov 2011]</tt> <strong><a href="./dsa-2345">DSA-2345 icedove</a></strong> - several vulnerabilities <br>
+<tt>[11 Nov 2011]</tt> <strong><a href="./dsa-2344">DSA-2344 python-django-piston</a></strong> - deserialization vulnerability <br>
+<tt>[09 Nov 2011]</tt> <strong><a href="./dsa-2343">DSA-2343 openssl</a></strong> - CA trust revocation <br>
+<tt>[09 Nov 2011]</tt> <strong><a href="./dsa-2342">DSA-2342 iceape</a></strong> - several vulnerabilities <br>
+<tt>[09 Nov 2011]</tt> <strong><a href="./dsa-2341">DSA-2341 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[07 Nov 2011]</tt> <strong><a href="./dsa-2340">DSA-2340 postgresql-8.3, postgresql-8.4, postgresql-9.0</a></strong> - weak password hashing <br>
+<tt>[07 Nov 2011]</tt> <strong><a href="./dsa-2339">DSA-2339 nss</a></strong> - several vulnerabilities <br>
+<tt>[07 Nov 2011]</tt> <strong><a href="./dsa-2338">DSA-2338 moodle</a></strong> - several vulnerabilities <br>
+<tt>[06 Nov 2011]</tt> <strong><a href="./dsa-2337">DSA-2337 xen</a></strong> - several vulnerabilities <br>
+<tt>[07 Nov 2011]</tt> <strong><a href="./dsa-2336">DSA-2336 ffmpeg</a></strong> - several vulnerabilities <br>
+<tt>[05 Nov 2011]</tt> <strong><a href="./dsa-2335">DSA-2335 man2html</a></strong> - missing input sanitization <br>
+<tt>[04 Nov 2011]</tt> <strong><a href="./dsa-2334">DSA-2334 mahara</a></strong> - several vulnerabilities <br>
+<tt>[31 Oct 2011]</tt> <strong><a href="./dsa-2333">DSA-2333 phpldapadmin</a></strong> - several vulnerabilities <br>
+<tt>[29 Oct 2011]</tt> <strong><a href="./dsa-2332">DSA-2332 python-django</a></strong> - several issues <br>
+<tt>[28 Oct 2011]</tt> <strong><a href="./dsa-2331">DSA-2331 tor</a></strong> - several vulnerabilities <br>
+<tt>[27 Oct 2011]</tt> <strong><a href="./dsa-2330">DSA-2330 simplesamlphp</a></strong> - XML encryption weakness <br>
+<tt>[27 Oct 2011]</tt> <strong><a href="./dsa-2329">DSA-2329 torque</a></strong> - buffer overflow <br>
+<tt>[24 Oct 2011]</tt> <strong><a href="./dsa-2328">DSA-2328 freetype</a></strong> - missing input sanitising <br>
+<tt>[24 Oct 2011]</tt> <strong><a href="./dsa-2327">DSA-2327 libfcgi-perl</a></strong> - authentication bypass <br>
+<tt>[24 Oct 2011]</tt> <strong><a href="./dsa-2326">DSA-2326 pam</a></strong> - several vulnerabilities <br>
+<tt>[23 Oct 2011]</tt> <strong><a href="./dsa-2325">DSA-2325 kfreebsd-8</a></strong> - privilege escalation/denial of service <br>
+<tt>[20 Oct 2011]</tt> <strong><a href="./dsa-2324">DSA-2324 wireshark</a></strong> - programming error <br>
+<tt>[26 Oct 2011]</tt> <strong><a href="./dsa-2323">DSA-2323 radvd</a></strong> - several vulnerabilities <br>
+<tt>[10 Oct 2011]</tt> <strong><a href="./dsa-2322">DSA-2322 bugzilla</a></strong> - several vulnerabilities <br>
+<tt>[10 Oct 2011]</tt> <strong><a href="./dsa-2321">DSA-2321 moin</a></strong> - cross-site scripting <br>
+<tt>[08 Oct 2011]</tt> <strong><a href="./dsa-2320">DSA-2320 dokuwiki</a></strong> - regression fix <br>
+<tt>[08 Oct 2011]</tt> <strong><a href="./dsa-2319">DSA-2319 policykit-1</a></strong> - race condition <br>
+<tt>[06 Oct 2011]</tt> <strong><a href="./dsa-2318">DSA-2318 cyrus-imapd-2.2</a></strong> - multiple vulnerabilities <br>
+<tt>[05 Oct 2011]</tt> <strong><a href="./dsa-2317">DSA-2317 icedove</a></strong> - several vulnerabilities <br>
+<tt>[05 Oct 2011]</tt> <strong><a href="./dsa-2316">DSA-2316 quagga</a></strong> - several vulnerabilities <br>
+<tt>[05 Oct 2011]</tt> <strong><a href="./dsa-2315">DSA-2315 openoffice.org</a></strong> - multiple vulnerabilities <br>
+<tt>[03 Oct 2011]</tt> <strong><a href="./dsa-2314">DSA-2314 puppet</a></strong> - multiple vulnerabilities <br>
+<tt>[29 Sep 2011]</tt> <strong><a href="./dsa-2313">DSA-2313 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[29 Sep 2011]</tt> <strong><a href="./dsa-2312">DSA-2312 iceape</a></strong> - several vulnerabilities <br>
+<tt>[27 Sep 2011]</tt> <strong><a href="./dsa-2311">DSA-2311 openjdk-6</a></strong> - several vulnerabilities <br>
+<tt>[22 Sep 2011]</tt> <strong><a href="./dsa-2310">DSA-2310 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[13 Sep 2011]</tt> <strong><a href="./dsa-2309">DSA-2309 openssl</a></strong> - compromised certificate authority <br>
+<tt>[12 Sep 2011]</tt> <strong><a href="./dsa-2308">DSA-2308 mantis</a></strong> - several vulnerabilities <br>
+<tt>[11 Sep 2011]</tt> <strong><a href="./dsa-2307">DSA-2307 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[11 Sep 2011]</tt> <strong><a href="./dsa-2306">DSA-2306 ffmpeg</a></strong> - several vulnerabilities <br>
+<tt>[19 Sep 2011]</tt> <strong><a href="./dsa-2305">DSA-2305 vsftpd</a></strong> - denial of service <br>
+<tt>[11 Sep 2011]</tt> <strong><a href="./dsa-2304">DSA-2304 squid3</a></strong> - buffer overflow <br>
+<tt>[10 Sep 2011]</tt> <strong><a href="./dsa-2303">DSA-2303 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[07 Sep 2011]</tt> <strong><a href="./dsa-2302">DSA-2302 bcfg2</a></strong> - missing input sanitization <br>
+<tt>[23 Jan 2012]</tt> <strong><a href="./dsa-2301">DSA-2301 rails</a></strong> - several vulnerabilities <br>
+<tt>[05 Sep 2011]</tt> <strong><a href="./dsa-2300">DSA-2300 nss</a></strong> - compromised certificate authority <br>
+<tt>[31 Aug 2011]</tt> <strong><a href="./dsa-2299">DSA-2299 ca-certificates</a></strong> - compromised certificate authority <br>
+<tt>[05 Sep 2011]</tt> <strong><a href="./dsa-2298">DSA-2298 apache2</a></strong> - denial of service <br>
+<tt>[21 Aug 2011]</tt> <strong><a href="./dsa-2297">DSA-2297 icedove</a></strong> - several vulnerabilities <br>
+<tt>[17 Aug 2011]</tt> <strong><a href="./dsa-2296">DSA-2296 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[17 Aug 2011]</tt> <strong><a href="./dsa-2295">DSA-2295 iceape</a></strong> - several vulnerabilities <br>
+<tt>[14 Aug 2011]</tt> <strong><a href="./dsa-2294">DSA-2294 freetype</a></strong> - missing input sanitising <br>
+<tt>[12 Aug 2011]</tt> <strong><a href="./dsa-2293">DSA-2293 libxfont</a></strong> - buffer overflow <br>
+<tt>[11 Aug 2011]</tt> <strong><a href="./dsa-2292">DSA-2292 isc-dhcp</a></strong> - denial of service <br>
+<tt>[08 Aug 2011]</tt> <strong><a href="./dsa-2291">DSA-2291 squirrelmail</a></strong> - various vulnerabilities <br>
+<tt>[07 Aug 2011]</tt> <strong><a href="./dsa-2290">DSA-2290 samba</a></strong> - cross-site scripting <br>
+<tt>[07 Aug 2011]</tt> <strong><a href="./dsa-2289">DSA-2289 typo3-src</a></strong> - several vulnerabilities <br>
+<tt>[28 Jul 2011]</tt> <strong><a href="./dsa-2288">DSA-2288 libsndfile</a></strong> - integer overflow <br>
+<tt>[28 Jul 2011]</tt> <strong><a href="./dsa-2287">DSA-2287 libpng</a></strong> - several vulnerabilities <br>
+<tt>[26 Jul 2011]</tt> <strong><a href="./dsa-2286">DSA-2286 phpmyadmin</a></strong> - several vulnerabilities <br>
+<tt>[26 Jul 2011]</tt> <strong><a href="./dsa-2285">DSA-2285 mapserver</a></strong> - several vulnerabilities <br>
+<tt>[25 Jul 2011]</tt> <strong><a href="./dsa-2284">DSA-2284 opensaml2</a></strong> - implementation error <br>
+<tt>[25 Jul 2011]</tt> <strong><a href="./dsa-2283">DSA-2283 krb5-appl</a></strong> - programming error <br>
+<tt>[25 Jul 2011]</tt> <strong><a href="./dsa-2282">DSA-2282 qemu-kvm</a></strong> - several vulnerabilities <br>
+<tt>[21 Jul 2011]</tt> <strong><a href="./dsa-2281">DSA-2281 opie</a></strong> - several vulnerabilities <br>
+<tt>[19 Jul 2011]</tt> <strong><a href="./dsa-2280">DSA-2280 libvirt</a></strong> - several vulnerabilities <br>
+<tt>[19 Jul 2011]</tt> <strong><a href="./dsa-2279">DSA-2279 libapache2-mod-authnz-external</a></strong> - SQL injection <br>
+<tt>[16 Jul 2011]</tt> <strong><a href="./dsa-2278">DSA-2278 horde3</a></strong> - several vulnerabilities <br>
+<tt>[10 Jul 2011]</tt> <strong><a href="./dsa-2277">DSA-2277 xml-security-c</a></strong> - stack-based buffer overflow <br>
+<tt>[10 Jul 2011]</tt> <strong><a href="./dsa-2276">DSA-2276 asterisk</a></strong> - multiple denial of service <br>
+<tt>[07 Jul 2011]</tt> <strong><a href="./dsa-2275">DSA-2275 openoffice.org</a></strong> - stack-based buffer overflow <br>
+<tt>[07 Jul 2011]</tt> <strong><a href="./dsa-2274">DSA-2274 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[06 Jul 2011]</tt> <strong><a href="./dsa-2273">DSA-2273 icedove</a></strong> - several vulnerabilities <br>
+<tt>[05 Jul 2011]</tt> <strong><a href="./dsa-2272">DSA-2272 bind9</a></strong> - denial of service <br>
+<tt>[02 Jul 2011]</tt> <strong><a href="./dsa-2271">DSA-2271 curl</a></strong> - improper delegation of client credentials <br>
+<tt>[01 Jul 2011]</tt> <strong><a href="./dsa-2270">DSA-2270 qemu-kvm</a></strong> - programming error <br>
+<tt>[01 Jul 2011]</tt> <strong><a href="./dsa-2269">DSA-2269 iceape</a></strong> - several vulnerabilities <br>
+<tt>[01 Jul 2011]</tt> <strong><a href="./dsa-2268">DSA-2268 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[01 Jul 2011]</tt> <strong><a href="./dsa-2267">DSA-2267 perl</a></strong> - restriction bypass <br>
+<tt>[29 Jun 2011]</tt> <strong><a href="./dsa-2266">DSA-2266 php5</a></strong> - several vulnerabilities <br>
+<tt>[20 Jun 2011]</tt> <strong><a href="./dsa-2265">DSA-2265 perl</a></strong> - lack of tainted flag propagation <br>
+<tt>[18 Jun 2011]</tt> <strong><a href="./dsa-2264">DSA-2264 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[16 Jun 2011]</tt> <strong><a href="./dsa-2263">DSA-2263 movabletype-opensource</a></strong> - several vulnerabilities <br>
+<tt>[15 Jun 2011]</tt> <strong><a href="./dsa-2262">DSA-2262 moodle</a></strong> - several vulnerabilities <br>
+<tt>[15 Jun 2011]</tt> <strong><a href="./dsa-2261">DSA-2261 redmine</a></strong> - several vulnerabilities <br>
+<tt>[14 Jun 2011]</tt> <strong><a href="./dsa-2260">DSA-2260 rails</a></strong> - several vulnerabilities <br>
+<tt>[12 Jun 2011]</tt> <strong><a href="./dsa-2259">DSA-2259 fex</a></strong> - authentication bypass <br>
+<tt>[11 Jun 2011]</tt> <strong><a href="./dsa-2258">DSA-2258 kolab-cyrus-imapd</a></strong> - implementation error <br>
+<tt>[10 Jun 2011]</tt> <strong><a href="./dsa-2257">DSA-2257 vlc</a></strong> - heap-based buffer overflow <br>
+<tt>[09 Jun 2011]</tt> <strong><a href="./dsa-2256">DSA-2256 tiff</a></strong> - buffer overflow <br>
+<tt>[06 Jun 2011]</tt> <strong><a href="./dsa-2255">DSA-2255 libxml2</a></strong> - buffer overflow <br>
+<tt>[03 Jun 2011]</tt> <strong><a href="./dsa-2254">DSA-2254 oprofile</a></strong> - command injection <br>
+<tt>[03 Jun 2011]</tt> <strong><a href="./dsa-2253">DSA-2253 fontforge</a></strong> - buffer overflow <br>
+<tt>[02 Jun 2011]</tt> <strong><a href="./dsa-2252">DSA-2252 dovecot</a></strong> - programming error <br>
+<tt>[02 Jun 2011]</tt> <strong><a href="./dsa-2251">DSA-2251 subversion</a></strong> - several vulnerabilities <br>
+<tt>[31 Mar 2011]</tt> <strong><a href="./dsa-2250">DSA-2250 citadel</a></strong> - denial of service <br>
+<tt>[31 Mar 2011]</tt> <strong><a href="./dsa-2249">DSA-2249 jabberd14</a></strong> - denial of service <br>
+<tt>[31 Mar 2011]</tt> <strong><a href="./dsa-2248">DSA-2248 ejabberd</a></strong> - denial of service <br>
+<tt>[31 May 2011]</tt> <strong><a href="./dsa-2247">DSA-2247 rails</a></strong> - several vulnerabilities <br>
+<tt>[29 May 2011]</tt> <strong><a href="./dsa-2246">DSA-2246 mahara</a></strong> - several vulnerabilities <br>
+<tt>[29 May 2011]</tt> <strong><a href="./dsa-2245">DSA-2245 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[27 May 2011]</tt> <strong><a href="./dsa-2244">DSA-2244 bind9</a></strong> - incorrect boundary condition <br>
+<tt>[27 May 2011]</tt> <strong><a href="./dsa-2243">DSA-2243 unbound</a></strong> - design flaw <br>
+<tt>[25 May 2011]</tt> <strong><a href="./dsa-2242">DSA-2242 cyrus-imapd-2.2</a></strong> - implementation error <br>
+<tt>[24 May 2011]</tt> <strong><a href="./dsa-2241">DSA-2241 qemu-kvm</a></strong> - implementation error <br>
+<tt>[24 May 2011]</tt> <strong><a href="./dsa-2240">DSA-2240 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[24 May 2011]</tt> <strong><a href="./dsa-2239">DSA-2239 libmojolicious-perl</a></strong> - several vulnerabilities <br>
+<tt>[19 May 2011]</tt> <strong><a href="./dsa-2238">DSA-2238 vino</a></strong> - several vulnerabilities <br>
+<tt>[15 May 2011]</tt> <strong><a href="./dsa-2237">DSA-2237 apr</a></strong> - denial of service <br>
+<tt>[12 May 2011]</tt> <strong><a href="./dsa-2236">DSA-2236 exim4</a></strong> - command injection <br>
+<tt>[10 May 2011]</tt> <strong><a href="./dsa-2235">DSA-2235 icedove</a></strong> - several vulnerabilities <br>
+<tt>[10 May 2011]</tt> <strong><a href="./dsa-2234">DSA-2234 zodb</a></strong> - several vulnerabilities <br>
+<tt>[10 May 2011]</tt> <strong><a href="./dsa-2233">DSA-2233 postfix</a></strong> - several vulnerabilities <br>
+<tt>[06 May 2011]</tt> <strong><a href="./dsa-2232">DSA-2232 exim4</a></strong> - format string vulnerability <br>
+<tt>[06 May 2011]</tt> <strong><a href="./dsa-2231">DSA-2231 otrs2</a></strong> - cross-site scripting <br>
+<tt>[01 May 2011]</tt> <strong><a href="./dsa-2230">DSA-2230 qemu-kvm</a></strong> - several vulnerabilities <br>
+<tt>[01 May 2011]</tt> <strong><a href="./dsa-2229">DSA-2229 spip</a></strong> - programming error <br>
+<tt>[01 May 2011]</tt> <strong><a href="./dsa-2228">DSA-2228 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[30 Apr 2011]</tt> <strong><a href="./dsa-2227">DSA-2227 iceape</a></strong> - several vulnerabilities <br>
+<tt>[26 Apr 2011]</tt> <strong><a href="./dsa-2226">DSA-2226 libmodplug</a></strong> - buffer overflow <br>
+<tt>[25 Apr 2011]</tt> <strong><a href="./dsa-2225">DSA-2225 asterisk</a></strong> - several vulnerabilities <br>
+<tt>[20 Apr 2011]</tt> <strong><a href="./dsa-2224">DSA-2224 openjdk-6</a></strong> - several vulnerabilities <br>
+<tt>[20 Apr 2011]</tt> <strong><a href="./dsa-2223">DSA-2223 doctrine</a></strong> - SQL injection <br>
+<tt>[20 Apr 2011]</tt> <strong><a href="./dsa-2222">DSA-2222 tinyproxy</a></strong> - incorrect ACL processing <br>
+<tt>[19 Apr 2011]</tt> <strong><a href="./dsa-2221">DSA-2221 libmojolicious-perl</a></strong> - directory traversal <br>
+<tt>[19 Apr 2011]</tt> <strong><a href="./dsa-2220">DSA-2220 request-tracker3.6, request-tracker3.8</a></strong> - several vulnerabilities <br>
+<tt>[18 Apr 2011]</tt> <strong><a href="./dsa-2219">DSA-2219 xmlsec1</a></strong> - arbitrary file overwrite <br>
+<tt>[12 Apr 2011]</tt> <strong><a href="./dsa-2218">DSA-2218 vlc</a></strong> - heap-based buffer overflow <br>
+<tt>[10 Apr 2011]</tt> <strong><a href="./dsa-2217">DSA-2217 dhcp3</a></strong> - missing input sanitization <br>
+<tt>[10 Apr 2011]</tt> <strong><a href="./dsa-2216">DSA-2216 isc-dhcp</a></strong> - missing input sanitization <br>
+<tt>[09 Apr 2011]</tt> <strong><a href="./dsa-2215">DSA-2215 gitolite</a></strong> - directory traversal <br>
+<tt>[08 Apr 2011]</tt> <strong><a href="./dsa-2214">DSA-2214 ikiwiki</a></strong> - missing input validation <br>
+<tt>[08 Apr 2011]</tt> <strong><a href="./dsa-2213">DSA-2213 x11-xserver-utils</a></strong> - missing input sanitization <br>
+<tt>[07 Apr 2011]</tt> <strong><a href="./dsa-2212">DSA-2212 tmux</a></strong> - privilege escalation <br>
+<tt>[06 Apr 2011]</tt> <strong><a href="./dsa-2211">DSA-2211 vlc</a></strong> - missing input sanitising <br>
+<tt>[03 Apr 2011]</tt> <strong><a href="./dsa-2210">DSA-2210 tiff</a></strong> - several vulnerabilities <br>
+<tt>[02 Apr 2011]</tt> <strong><a href="./dsa-2209">DSA-2209 tgt</a></strong> - double free <br>
+<tt>[30 Mar 2011]</tt> <strong><a href="./dsa-2208">DSA-2208 bind9</a></strong> - denial of service <br>
+<tt>[30 Mar 2011]</tt> <strong><a href="./dsa-2207">DSA-2207 tomcat5.5</a></strong> - several vulnerabilities <br>
+<tt>[29 Mar 2011]</tt> <strong><a href="./dsa-2206">DSA-2206 mahara</a></strong> - several vulnerabilities <br>
+<tt>[28 Mar 2011]</tt> <strong><a href="./dsa-2205">DSA-2205 gdm3</a></strong> - privilege escalation <br>
+<tt>[27 Mar 2011]</tt> <strong><a href="./dsa-2204">DSA-2204 imp4</a></strong> - insufficient input sanitising <br>
+<tt>[26 Mar 2011]</tt> <strong><a href="./dsa-2203">DSA-2203 nss</a></strong> - ssl certificate blacklist update <br>
+<tt>[23 Mar 2011]</tt> <strong><a href="./dsa-2202">DSA-2202 apache2</a></strong> - failure to drop root privileges <br>
+<tt>[23 Mar 2011]</tt> <strong><a href="./dsa-2201">DSA-2201 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[23 Mar 2011]</tt> <strong><a href="./dsa-2200">DSA-2200 iceweasel</a></strong> - ssl certificate blacklist update <br>
+<tt>[23 Mar 2011]</tt> <strong><a href="./dsa-2199">DSA-2199 iceape</a></strong> - ssl certificate blacklist update <br>
+<tt>[22 Mar 2011]</tt> <strong><a href="./dsa-2198">DSA-2198 tex-common</a></strong> - insufficient input sanitization <br>
+<tt>[21 Mar 2011]</tt> <strong><a href="./dsa-2197">DSA-2197 quagga</a></strong> - denial of service <br>
+<tt>[19 Mar 2011]</tt> <strong><a href="./dsa-2196">DSA-2196 maradns</a></strong> - buffer overflow <br>
+<tt>[19 Mar 2011]</tt> <strong><a href="./dsa-2195">DSA-2195 php5</a></strong> - several vulnerabilities <br>
+<tt>[18 Mar 2011]</tt> <strong><a href="./dsa-2194">DSA-2194 libvirt</a></strong> - insufficient checks <br>
+<tt>[16 Mar 2011]</tt> <strong><a href="./dsa-2193">DSA-2193 libcgroup</a></strong> - several vulnerabilities <br>
+<tt>[15 Mar 2011]</tt> <strong><a href="./dsa-2192">DSA-2192 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[14 Mar 2011]</tt> <strong><a href="./dsa-2191">DSA-2191 proftpd-dfsg</a></strong> - several vulnerabilities <br>
+<tt>[11 Mar 2011]</tt> <strong><a href="./dsa-2190">DSA-2190 wordpress</a></strong> - several vulnerabilities <br>
+<tt>[10 Mar 2011]</tt> <strong><a href="./dsa-2189">DSA-2189 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[10 Mar 2011]</tt> <strong><a href="./dsa-2188">DSA-2188 webkit</a></strong> - several vulnerabilities <br>
+<tt>[09 Mar 2011]</tt> <strong><a href="./dsa-2187">DSA-2187 icedove</a></strong> - several vulnerabilities <br>
+<tt>[09 Mar 2011]</tt> <strong><a href="./dsa-2186">DSA-2186 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[07 Mar 2011]</tt> <strong><a href="./dsa-2185">DSA-2185 proftpd-dfsg</a></strong> - integer overflow <br>
+<tt>[05 Mar 2011]</tt> <strong><a href="./dsa-2184">DSA-2184 isc-dhcp</a></strong> - denial of service <br>
+<tt>[04 Mar 2011]</tt> <strong><a href="./dsa-2183">DSA-2183 nbd</a></strong> - buffer overflow <br>
+<tt>[04 Mar 2011]</tt> <strong><a href="./dsa-2182">DSA-2182 logwatch</a></strong> - shell command injection <br>
+<tt>[04 Mar 2011]</tt> <strong><a href="./dsa-2181">DSA-2181 subversion</a></strong> - denial of service <br>
+<tt>[03 Mar 2011]</tt> <strong><a href="./dsa-2180">DSA-2180 iceape</a></strong> - several vulnerabilities <br>
+<tt>[02 Mar 2011]</tt> <strong><a href="./dsa-2179">DSA-2179 dtc</a></strong> - SQL injection <br>
+<tt>[02 Mar 2011]</tt> <strong><a href="./dsa-2178">DSA-2178 pango1.0</a></strong> - NULL pointer dereference <br>
+<tt>[02 Mar 2011]</tt> <strong><a href="./dsa-2177">DSA-2177 pywebdav</a></strong> - SQL injection <br>
+<tt>[02 Mar 2011]</tt> <strong><a href="./dsa-2176">DSA-2176 cups</a></strong> - several vulnerabilities <br>
+<tt>[28 Feb 2011]</tt> <strong><a href="./dsa-2175">DSA-2175 samba</a></strong> - missing input sanitising <br>
+<tt>[26 Feb 2011]</tt> <strong><a href="./dsa-2174">DSA-2174 avahi</a></strong> - denial of service <br>
+<tt>[26 Feb 2011]</tt> <strong><a href="./dsa-2173">DSA-2173 pam-pgsql</a></strong> - buffer overflow <br>
+<tt>[22 Feb 2011]</tt> <strong><a href="./dsa-2172">DSA-2172 moodle</a></strong> - several vulnerabilities <br>
+<tt>[21 Feb 2011]</tt> <strong><a href="./dsa-2171">DSA-2171 asterisk</a></strong> - buffer overflow <br>
+<tt>[18 Feb 2011]</tt> <strong><a href="./dsa-2170">DSA-2170 mailman</a></strong> - several vulnerabilities <br>
+<tt>[16 Feb 2011]</tt> <strong><a href="./dsa-2169">DSA-2169 telepathy-gabble</a></strong> - insufficient input validation <br>
+<tt>[16 Feb 2011]</tt> <strong><a href="./dsa-2168">DSA-2168 openafs</a></strong> - several vulnerabilities <br>
+<tt>[16 Feb 2011]</tt> <strong><a href="./dsa-2167">DSA-2167 phpmyadmin</a></strong> - SQL injection <br>
+<tt>[16 Feb 2011]</tt> <strong><a href="./dsa-2166">DSA-2166 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[16 Feb 2011]</tt> <strong><a href="./dsa-2165">DSA-2165 ffmpeg-debian</a></strong> - buffer overflow <br>
+<tt>[16 Feb 2011]</tt> <strong><a href="./dsa-2164">DSA-2164 shadow</a></strong> - insufficient input sanitization <br>
+<tt>[14 Feb 2011]</tt> <strong><a href="./dsa-2163">DSA-2163 python-django</a></strong> - multiple vulnerabilities <br>
+<tt>[14 Feb 2011]</tt> <strong><a href="./dsa-2162">DSA-2162 openssl</a></strong> - invalid memory access <br>
+<tt>[13 Feb 2011]</tt> <strong><a href="./dsa-2161">DSA-2161 openjdk-6</a></strong> - denial of service <br>
+<tt>[13 Feb 2011]</tt> <strong><a href="./dsa-2160">DSA-2160 tomcat6</a></strong> - several vulnerabilities <br>
+<tt>[10 Feb 2011]</tt> <strong><a href="./dsa-2159">DSA-2159 vlc</a></strong> - missing input sanitising <br>
+<tt>[09 Feb 2011]</tt> <strong><a href="./dsa-2158">DSA-2158 cgiirc</a></strong> - cross-site scripting <br>
+<tt>[03 Feb 2011]</tt> <strong><a href="./dsa-2157">DSA-2157 postgresql-8.3, postgresql-8.4, postgresql-9.0</a></strong> - buffer overflow <br>
+<tt>[31 Jan 2011]</tt> <strong><a href="./dsa-2156">DSA-2156 pcscd</a></strong> - buffer overflow <br>
+<tt>[30 Jan 2011]</tt> <strong><a href="./dsa-2155">DSA-2155 freetype</a></strong> - several vulnerabilities <br>
+<tt>[30 Jan 2011]</tt> <strong><a href="./dsa-2154">DSA-2154 exim4</a></strong> - privilege escalation <br>
+<tt>[30 Jan 2011]</tt> <strong><a href="./dsa-2153">DSA-2153 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[27 Jan 2011]</tt> <strong><a href="./dsa-2152">DSA-2152 hplip</a></strong> - buffer overflow <br>
+<tt>[26 Jan 2011]</tt> <strong><a href="./dsa-2151">DSA-2151 openoffice.org</a></strong> - several vulnerabilities <br>
+<tt>[22 Jan 2011]</tt> <strong><a href="./dsa-2150">DSA-2150 request-tracker3.6</a></strong> - unsalted password hashing <br>
+<tt>[20 Jan 2011]</tt> <strong><a href="./dsa-2149">DSA-2149 dbus</a></strong> - denial of service <br>
+<tt>[17 Jan 2011]</tt> <strong><a href="./dsa-2148">DSA-2148 tor</a></strong> - several vulnerabilities <br>
+<tt>[16 Jan 2011]</tt> <strong><a href="./dsa-2147">DSA-2147 pimd</a></strong> - insecure temporary files <br>
+<tt>[16 Jan 2011]</tt> <strong><a href="./dsa-2146">DSA-2146 mydms</a></strong> - directory traversal <br>
+<tt>[16 Jan 2011]</tt> <strong><a href="./dsa-2145">DSA-2145 libsmi</a></strong> - buffer overflow <br>
+<tt>[15 Jan 2011]</tt> <strong><a href="./dsa-2144">DSA-2144 wireshark</a></strong> - buffer overflow <br>
+<tt>[14 Jan 2011]</tt> <strong><a href="./dsa-2143">DSA-2143 mysql-dfsg-5.0</a></strong> - several vulnerabilities <br>
+<tt>[06 Jan 2011]</tt> <strong><a href="./dsa-2142">DSA-2142 dpkg</a></strong> - directory traversal <br>
+<tt>[06 Jan 2011]</tt> <strong><a href="./dsa-2141">DSA-2141 openssl</a></strong> - SSL/TLS insecure renegotiation protocol design flaw <br>
+<tt>[05 Jan 2011]</tt> <strong><a href="./dsa-2140">DSA-2140 libapache2-mod-fcgid</a></strong> - stack overflow <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2011/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pl.html" title="Polish" hreflang="pl" lang="pl" rel="alternate">polski</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.fi.html" title="Finnish" hreflang="fi" lang="fi" rel="alternate">suomi</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Thu, Dec 24 18:11:19 UTC 2020
+&emsp;
+Last Built: Sat, Feb 5 23:31:15 UTC 2022
+  <br>
+  Copyright &copy; 2011-2022
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2008 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:19:45">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2008</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2008</h1>
+<tt>[27 Dec 2008]</tt> <strong><a href="./dsa-1693">DSA-1693 phppgadmin</a></strong> - several vulnerabilities <br>
+<tt>[27 Dec 2008]</tt> <strong><a href="./dsa-1692">DSA-1692 php-xajax</a></strong> - insufficient input sanitising <br>
+<tt>[22 Dec 2008]</tt> <strong><a href="./dsa-1691">DSA-1691 moodle</a></strong> - several vulnerabilities <br>
+<tt>[22 Dec 2008]</tt> <strong><a href="./dsa-1690">DSA-1690 avahi</a></strong> - assert errors <br>
+<tt>[21 Dec 2008]</tt> <strong><a href="./dsa-1689">DSA-1689 proftpd-dfsg</a></strong> - missing input validation <br>
+<tt>[20 Dec 2008]</tt> <strong><a href="./dsa-1688">DSA-1688 courier-authlib</a></strong> - SQL injection <br>
+<tt>[15 Dec 2008]</tt> <strong><a href="./dsa-1687">DSA-1687 linux-2.6</a></strong> - denial of service/privilege escalation <br>
+<tt>[14 Dec 2008]</tt> <strong><a href="./dsa-1686">DSA-1686 no-ip</a></strong> - buffer overflow <br>
+<tt>[12 Dec 2008]</tt> <strong><a href="./dsa-1685">DSA-1685 uw-imap</a></strong> - buffer overflows, null pointer dereference <br>
+<tt>[10 Dec 2008]</tt> <strong><a href="./dsa-1684">DSA-1684 lcms</a></strong> - multiple vulnerabilities <br>
+<tt>[08 Dec 2008]</tt> <strong><a href="./dsa-1683">DSA-1683 streamripper</a></strong> - buffer overflow <br>
+<tt>[07 Dec 2008]</tt> <strong><a href="./dsa-1682">DSA-1682 squirrelmail</a></strong> - insufficient input sanitising <br>
+<tt>[04 Dec 2008]</tt> <strong><a href="./dsa-1681">DSA-1681 linux-2.6.24</a></strong> - denial of service/privilege escalation <br>
+<tt>[04 Dec 2008]</tt> <strong><a href="./dsa-1680">DSA-1680 clamav</a></strong> - buffer overflow, stack consumption <br>
+<tt>[03 Dec 2008]</tt> <strong><a href="./dsa-1679">DSA-1679 awstats</a></strong> - cross-site scripting <br>
+<tt>[03 Dec 2008]</tt> <strong><a href="./dsa-1678">DSA-1678 perl</a></strong> - design flaws <br>
+<tt>[02 Dec 2008]</tt> <strong><a href="./dsa-1677">DSA-1677 cupsys</a></strong> - integer overflow <br>
+<tt>[01 Dec 2008]</tt> <strong><a href="./dsa-1676">DSA-1676 flamethrower</a></strong> - insecure temp file generation <br>
+<tt>[30 Nov 2008]</tt> <strong><a href="./dsa-1675">DSA-1675 phpmyadmin</a></strong> - insufficient input sanitising <br>
+<tt>[30 Nov 2008]</tt> <strong><a href="./dsa-1674">DSA-1674 jailer</a></strong> - insecure temp file generation <br>
+<tt>[29 Nov 2008]</tt> <strong><a href="./dsa-1673">DSA-1673 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[29 Nov 2008]</tt> <strong><a href="./dsa-1672">DSA-1672 imlib2</a></strong> - buffer overflow <br>
+<tt>[24 Nov 2008]</tt> <strong><a href="./dsa-1671">DSA-1671 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[24 Nov 2008]</tt> <strong><a href="./dsa-1670">DSA-1670 enscript</a></strong> - buffer overflows <br>
+<tt>[23 Nov 2008]</tt> <strong><a href="./dsa-1669">DSA-1669 xulrunner</a></strong> - several vulnerabilities <br>
+<tt>[22 Nov 2008]</tt> <strong><a href="./dsa-1668">DSA-1668 hf</a></strong> - programming error <br>
+<tt>[19 Nov 2008]</tt> <strong><a href="./dsa-1667">DSA-1667 python2.4</a></strong> - several vulnerabilities <br>
+<tt>[17 Nov 2008]</tt> <strong><a href="./dsa-1666">DSA-1666 libxml2</a></strong> - several vulnerabilities <br>
+<tt>[12 Nov 2008]</tt> <strong><a href="./dsa-1665">DSA-1665 libcdaudio</a></strong> - heap overflow <br>
+<tt>[10 Nov 2008]</tt> <strong><a href="./dsa-1664">DSA-1664 ekg</a></strong> - missing input sanitising <br>
+<tt>[09 Nov 2008]</tt> <strong><a href="./dsa-1663">DSA-1663 net-snmp</a></strong> - several vulnerabilities <br>
+<tt>[06 Nov 2008]</tt> <strong><a href="./dsa-1662">DSA-1662 mysql-dfsg-5.0</a></strong> - authorization bypass <br>
+<tt>[29 Oct 2008]</tt> <strong><a href="./dsa-1661">DSA-1661 openoffice.org</a></strong> - several vulnerabilities <br>
+<tt>[26 Oct 2008]</tt> <strong><a href="./dsa-1660">DSA-1660 clamav</a></strong> - null pointer dereference, resource exhaustion <br>
+<tt>[23 Oct 2008]</tt> <strong><a href="./dsa-1659">DSA-1659 libspf2</a></strong> - buffer overflow <br>
+<tt>[22 Oct 2008]</tt> <strong><a href="./dsa-1658">DSA-1658 dbus</a></strong> - programming error <br>
+<tt>[20 Oct 2008]</tt> <strong><a href="./dsa-1657">DSA-1657 qemu</a></strong> - insecure temporary files <br>
+<tt>[20 Oct 2008]</tt> <strong><a href="./dsa-1656">DSA-1656 cupsys</a></strong> - several vulnerabilities <br>
+<tt>[16 Oct 2008]</tt> <strong><a href="./dsa-1655">DSA-1655 linux-2.6.24</a></strong> - denial of service/information leak/privilege escalation <br>
+<tt>[14 Oct 2008]</tt> <strong><a href="./dsa-1654">DSA-1654 libxml2</a></strong> - buffer overflow <br>
+<tt>[13 Oct 2008]</tt> <strong><a href="./dsa-1653">DSA-1653 linux-2.6</a></strong> - denial of service/privilege escalation <br>
+<tt>[12 Oct 2008]</tt> <strong><a href="./dsa-1652">DSA-1652 ruby1.9</a></strong> - several vulnerabilities <br>
+<tt>[12 Oct 2008]</tt> <strong><a href="./dsa-1651">DSA-1651 ruby1.8</a></strong> - several vulnerabilities <br>
+<tt>[12 Oct 2008]</tt> <strong><a href="./dsa-1650">DSA-1650 openldap2.3</a></strong> - denial of service <br>
+<tt>[08 Oct 2008]</tt> <strong><a href="./dsa-1649">DSA-1649 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[08 Oct 2008]</tt> <strong><a href="./dsa-1648">DSA-1648 mon</a></strong> - insecure temporary files <br>
+<tt>[07 Oct 2008]</tt> <strong><a href="./dsa-1647">DSA-1647 php5</a></strong> - several vulnerabilities <br>
+<tt>[07 Oct 2008]</tt> <strong><a href="./dsa-1646">DSA-1646 squid</a></strong> - array bounds check <br>
+<tt>[06 Oct 2008]</tt> <strong><a href="./dsa-1645">DSA-1645 lighttpd</a></strong> - various <br>
+<tt>[05 Oct 2008]</tt> <strong><a href="./dsa-1644">DSA-1644 mplayer</a></strong> - integer overflow <br>
+<tt>[05 Oct 2008]</tt> <strong><a href="./dsa-1643">DSA-1643 feta</a></strong> - insecure temp file handling <br>
+<tt>[20 Sep 2008]</tt> <strong><a href="./dsa-1642">DSA-1642 horde3</a></strong> - cross site scripting <br>
+<tt>[20 Sep 2008]</tt> <strong><a href="./dsa-1641">DSA-1641 phpmyadmin</a></strong> - several vulnerabilities <br>
+<tt>[20 Sep 2008]</tt> <strong><a href="./dsa-1640">DSA-1640 python-django</a></strong> - several vulnerabilities <br>
+<tt>[19 Sep 2008]</tt> <strong><a href="./dsa-1639">DSA-1639 twiki</a></strong> - command execution <br>
+<tt>[16 Sep 2008]</tt> <strong><a href="./dsa-1638">DSA-1638 openssh</a></strong> - denial of service <br>
+<tt>[15 Sep 2008]</tt> <strong><a href="./dsa-1637">DSA-1637 git-core</a></strong> - buffer overflow <br>
+<tt>[11 Sep 2008]</tt> <strong><a href="./dsa-1636">DSA-1636 linux-2.6.24</a></strong> - denial of service/information leak <br>
+<tt>[10 Sep 2008]</tt> <strong><a href="./dsa-1635">DSA-1635 freetype</a></strong> - multiple vulnerabilities <br>
+<tt>[01 Sep 2008]</tt> <strong><a href="./dsa-1634">DSA-1634 wordnet</a></strong> - stack and heap overflows <br>
+<tt>[01 Sep 2008]</tt> <strong><a href="./dsa-1633">DSA-1633 slash</a></strong> - SQL Injection, Cross-Site Scripting <br>
+<tt>[26 Aug 2008]</tt> <strong><a href="./dsa-1632">DSA-1632 tiff</a></strong> - buffer underflow <br>
+<tt>[22 Aug 2008]</tt> <strong><a href="./dsa-1631">DSA-1631 libxml2</a></strong> - denial of service <br>
+<tt>[21 Aug 2008]</tt> <strong><a href="./dsa-1630">DSA-1630 linux-2.6</a></strong> - denial of service/information leak <br>
+<tt>[19 Aug 2008]</tt> <strong><a href="./dsa-1629">DSA-1629 postfix</a></strong> - programming error <br>
+<tt>[10 Aug 2008]</tt> <strong><a href="./dsa-1628">DSA-1628 pdns</a></strong> - DNS response spoofing <br>
+<tt>[04 Aug 2008]</tt> <strong><a href="./dsa-1627">DSA-1627 opensc</a></strong> - programming error <br>
+<tt>[01 Aug 2008]</tt> <strong><a href="./dsa-1626">DSA-1626 httrack</a></strong> - buffer overflow <br>
+<tt>[01 Aug 2008]</tt> <strong><a href="./dsa-1625">DSA-1625 cupsys</a></strong> - buffer overflows <br>
+<tt>[31 Jul 2008]</tt> <strong><a href="./dsa-1624">DSA-1624 libxslt</a></strong> - buffer overflows <br>
+<tt>[31 Jul 2008]</tt> <strong><a href="./dsa-1623">DSA-1623 dnsmasq</a></strong> - DNS cache poisoning <br>
+<tt>[31 Jul 2008]</tt> <strong><a href="./dsa-1622">DSA-1622 newsx</a></strong> - buffer overflow <br>
+<tt>[27 Jul 2008]</tt> <strong><a href="./dsa-1621">DSA-1621 icedove</a></strong> - several vulnerabilities <br>
+<tt>[27 Jul 2008]</tt> <strong><a href="./dsa-1620">DSA-1620 python2.5</a></strong> - several vulnerabilities <br>
+<tt>[27 Jul 2008]</tt> <strong><a href="./dsa-1619">DSA-1619 python-dns</a></strong> - DNS response spoofing <br>
+<tt>[26 Jul 2008]</tt> <strong><a href="./dsa-1618">DSA-1618 ruby1.9</a></strong> - several vulnerabilities <br>
+<tt>[25 Jul 2008]</tt> <strong><a href="./dsa-1617">DSA-1617 refpolicy</a></strong> - incompatible policy <br>
+<tt>[26 Jul 2008]</tt> <strong><a href="./dsa-1616">DSA-1616 clamav</a></strong> - denial of service <br>
+<tt>[23 Jul 2008]</tt> <strong><a href="./dsa-1615">DSA-1615 xulrunner</a></strong> - several vulnerabilities <br>
+<tt>[23 Jul 2008]</tt> <strong><a href="./dsa-1614">DSA-1614 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[22 Jul 2008]</tt> <strong><a href="./dsa-1613">DSA-1613 libgd2</a></strong> - multiple vulnerabilities <br>
+<tt>[21 Jul 2008]</tt> <strong><a href="./dsa-1612">DSA-1612 ruby1.8</a></strong> - several vulnerabilities <br>
+<tt>[16 Jul 2008]</tt> <strong><a href="./dsa-1611">DSA-1611 afuse</a></strong> - privilege escalation <br>
+<tt>[15 Jul 2008]</tt> <strong><a href="./dsa-1610">DSA-1610 gaim</a></strong> - integer overflow <br>
+<tt>[15 Jul 2008]</tt> <strong><a href="./dsa-1609">DSA-1609 lighttpd</a></strong> - various <br>
+<tt>[13 Jul 2008]</tt> <strong><a href="./dsa-1608">DSA-1608 mysql-dfsg-5.0</a></strong> - authorization bypass <br>
+<tt>[11 Jul 2008]</tt> <strong><a href="./dsa-1607">DSA-1607 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[09 Jul 2008]</tt> <strong><a href="./dsa-1606">DSA-1606 poppler</a></strong> - programming error <br>
+<tt>[08 Jul 2008]</tt> <strong><a href="./dsa-1605">DSA-1605 glibc</a></strong> - DNS cache poisoning <br>
+<tt>[08 Jul 2008]</tt> <strong><a href="./dsa-1604">DSA-1604 bind</a></strong> - DNS cache poisoning <br>
+<tt>[08 Jul 2008]</tt> <strong><a href="./dsa-1603">DSA-1603 bind9</a></strong> - DNS cache poisoning <br>
+<tt>[05 Jul 2008]</tt> <strong><a href="./dsa-1602">DSA-1602 pcre3</a></strong> - buffer overflow <br>
+<tt>[04 Jul 2008]</tt> <strong><a href="./dsa-1601">DSA-1601 wordpress</a></strong> - several vulnerabilities <br>
+<tt>[01 Jul 2008]</tt> <strong><a href="./dsa-1600">DSA-1600 sympa</a></strong> - dos <br>
+<tt>[26 Jun 2008]</tt> <strong><a href="./dsa-1599">DSA-1599 dbus</a></strong> - programming error <br>
+<tt>[19 Jun 2008]</tt> <strong><a href="./dsa-1598">DSA-1598 libtk-img</a></strong> - buffer overflow <br>
+<tt>[12 Jun 2008]</tt> <strong><a href="./dsa-1597">DSA-1597 mt-daapd</a></strong> - multiple vulnerabilities <br>
+<tt>[12 Jun 2008]</tt> <strong><a href="./dsa-1596">DSA-1596 typo3</a></strong> - several vulnerabilities <br>
+<tt>[11 Jun 2008]</tt> <strong><a href="./dsa-1595">DSA-1595 xorg-server</a></strong> - several vulnerabilities <br>
+<tt>[11 Jun 2008]</tt> <strong><a href="./dsa-1594">DSA-1594 imlib2</a></strong> - buffer overflows <br>
+<tt>[09 Jun 2008]</tt> <strong><a href="./dsa-1593">DSA-1593 tomcat5.5</a></strong> - missing input sanitising <br>
+<tt>[09 Jun 2008]</tt> <strong><a href="./dsa-1592">DSA-1592 linux-2.6</a></strong> - heap overflow <br>
+<tt>[03 Jun 2008]</tt> <strong><a href="./dsa-1591">DSA-1591 libvorbis</a></strong> - several vulnerabilities <br>
+<tt>[30 May 2008]</tt> <strong><a href="./dsa-1590">DSA-1590 samba</a></strong> - buffer overflow <br>
+<tt>[28 May 2008]</tt> <strong><a href="./dsa-1589">DSA-1589 libxslt</a></strong> - buffer overflow <br>
+<tt>[27 May 2008]</tt> <strong><a href="./dsa-1588">DSA-1588 linux-2.6</a></strong> - denial of service <br>
+<tt>[26 May 2008]</tt> <strong><a href="./dsa-1587">DSA-1587 mtr</a></strong> - buffer overflow <br>
+<tt>[22 May 2008]</tt> <strong><a href="./dsa-1586">DSA-1586 xine-lib</a></strong> - multiple vulnerabilities <br>
+<tt>[21 May 2008]</tt> <strong><a href="./dsa-1585">DSA-1585 speex</a></strong> - integer overflow <br>
+<tt>[21 May 2008]</tt> <strong><a href="./dsa-1584">DSA-1584 libfishsound</a></strong> - buffer overflow <br>
+<tt>[20 May 2008]</tt> <strong><a href="./dsa-1583">DSA-1583 gnome-peercast</a></strong> - buffer overflow <br>
+<tt>[20 May 2008]</tt> <strong><a href="./dsa-1582">DSA-1582 peercast</a></strong> - buffer overflow <br>
+<tt>[20 May 2008]</tt> <strong><a href="./dsa-1581">DSA-1581 gnutls13</a></strong> - several vulnerabilities <br>
+<tt>[20 May 2008]</tt> <strong><a href="./dsa-1580">DSA-1580 phpgedview</a></strong> - programming error <br>
+<tt>[18 May 2008]</tt> <strong><a href="./dsa-1579">DSA-1579 netpbm-free</a></strong> - insufficient input sanitizing <br>
+<tt>[17 May 2008]</tt> <strong><a href="./dsa-1578">DSA-1578 php4</a></strong> - several vulnerabilities <br>
+<tt>[14 May 2008]</tt> <strong><a href="./dsa-1577">DSA-1577 gforge</a></strong> - insecure temporary files <br>
+<tt>[14 May 2008]</tt> <strong><a href="./dsa-1576">DSA-1576 openssh</a></strong> - predictable random number generator <br>
+<tt>[12 May 2008]</tt> <strong><a href="./dsa-1575">DSA-1575 linux-2.6</a></strong> - denial of service <br>
+<tt>[12 May 2008]</tt> <strong><a href="./dsa-1574">DSA-1574 icedove</a></strong> - several vulnerabilities <br>
+<tt>[11 May 2008]</tt> <strong><a href="./dsa-1573">DSA-1573 rdesktop</a></strong> - several vulnerabilities <br>
+<tt>[11 May 2008]</tt> <strong><a href="./dsa-1572">DSA-1572 php5</a></strong> - several vulnerabilities <br>
+<tt>[13 May 2008]</tt> <strong><a href="./dsa-1571">DSA-1571 openssl</a></strong> - predictable random number generator <br>
+<tt>[06 May 2008]</tt> <strong><a href="./dsa-1570">DSA-1570 kazehakase</a></strong> - various <br>
+<tt>[05 May 2008]</tt> <strong><a href="./dsa-1569">DSA-1569 cacti</a></strong> - insufficient input sanitising <br>
+<tt>[05 May 2008]</tt> <strong><a href="./dsa-1568">DSA-1568 b2evolution</a></strong> - insufficient input sanitising <br>
+<tt>[05 May 2008]</tt> <strong><a href="./dsa-1567">DSA-1567 blender</a></strong> - buffer overrun <br>
+<tt>[02 May 2008]</tt> <strong><a href="./dsa-1566">DSA-1566 cpio</a></strong> - programming error <br>
+<tt>[01 May 2008]</tt> <strong><a href="./dsa-1565">DSA-1565 linux-2.6</a></strong> - several vulnerabilities <br>
+<tt>[01 May 2008]</tt> <strong><a href="./dsa-1564">DSA-1564 wordpress</a></strong> - multiple vulnerabilities <br>
+<tt>[30 Apr 2008]</tt> <strong><a href="./dsa-1563">DSA-1563 asterisk</a></strong> - programming error <br>
+<tt>[28 Apr 2008]</tt> <strong><a href="./dsa-1562">DSA-1562 iceape</a></strong> - programming error <br>
+<tt>[28 Apr 2008]</tt> <strong><a href="./dsa-1561">DSA-1561 ldm</a></strong> - programming error <br>
+<tt>[28 Apr 2008]</tt> <strong><a href="./dsa-1560">DSA-1560 kronolith2</a></strong> - insufficient input sanitising <br>
+<tt>[27 Apr 2008]</tt> <strong><a href="./dsa-1559">DSA-1559 phpgedview</a></strong> - insufficient input sanitising <br>
+<tt>[24 Apr 2008]</tt> <strong><a href="./dsa-1558">DSA-1558 xulrunner</a></strong> - programming error <br>
+<tt>[24 Apr 2008]</tt> <strong><a href="./dsa-1557">DSA-1557 phpmyadmin</a></strong> - insufficient input sanitising <br>
+<tt>[24 Apr 2008]</tt> <strong><a href="./dsa-1556">DSA-1556 perl</a></strong> - heap buffer overflow <br>
+<tt>[23 Apr 2008]</tt> <strong><a href="./dsa-1555">DSA-1555 iceweasel</a></strong> - programming error <br>
+<tt>[22 Apr 2008]</tt> <strong><a href="./dsa-1554">DSA-1554 roundup</a></strong> - insufficient input sanitising <br>
+<tt>[20 Apr 2008]</tt> <strong><a href="./dsa-1553">DSA-1553 ikiwiki</a></strong> - cross-site request forgery <br>
+<tt>[19 Apr 2008]</tt> <strong><a href="./dsa-1552">DSA-1552 mplayer</a></strong> - missing input sanitising <br>
+<tt>[19 Apr 2008]</tt> <strong><a href="./dsa-1551">DSA-1551 python2.4</a></strong> - several vulnerabilities <br>
+<tt>[17 Apr 2008]</tt> <strong><a href="./dsa-1550">DSA-1550 suphp</a></strong> - programming error <br>
+<tt>[17 Apr 2008]</tt> <strong><a href="./dsa-1549">DSA-1549 clamav</a></strong> - buffer overflows <br>
+<tt>[17 Apr 2008]</tt> <strong><a href="./dsa-1548">DSA-1548 xpdf</a></strong> - several vulnerabilities <br>
+<tt>[17 Apr 2008]</tt> <strong><a href="./dsa-1547">DSA-1547 openoffice.org</a></strong> - several vulnerabilities <br>
+<tt>[10 Apr 2008]</tt> <strong><a href="./dsa-1546">DSA-1546 gnumeric</a></strong> - integer overflow <br>
+<tt>[10 Apr 2008]</tt> <strong><a href="./dsa-1545">DSA-1545 rsync</a></strong> - integer overflow <br>
+<tt>[16 Jul 2008]</tt> <strong><a href="./dsa-1544">DSA-1544 pdns-recursor</a></strong> - design flaw <br>
+<tt>[09 Apr 2008]</tt> <strong><a href="./dsa-1543">DSA-1543 vlc</a></strong> - several vulnerabilities <br>
+<tt>[09 Apr 2008]</tt> <strong><a href="./dsa-1542">DSA-1542 libcairo</a></strong> - integer overflow <br>
+<tt>[08 Apr 2008]</tt> <strong><a href="./dsa-1541">DSA-1541 openldap2.3</a></strong> - several vulnerabilities <br>
+<tt>[07 Apr 2008]</tt> <strong><a href="./dsa-1540">DSA-1540 lighttpd</a></strong> - denial of service <br>
+<tt>[04 Apr 2008]</tt> <strong><a href="./dsa-1539">DSA-1539 mapserver</a></strong> - several vulnerabilities <br>
+<tt>[04 Apr 2008]</tt> <strong><a href="./dsa-1538">DSA-1538 alsaplayer</a></strong> - buffer overrun <br>
+<tt>[02 Apr 2008]</tt> <strong><a href="./dsa-1537">DSA-1537 xpdf</a></strong> - several vulnerabilities <br>
+<tt>[31 Mar 2008]</tt> <strong><a href="./dsa-1536">DSA-1536 libxine</a></strong> - several vulnerabilities <br>
+<tt>[30 Mar 2008]</tt> <strong><a href="./dsa-1535">DSA-1535 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[28 Mar 2008]</tt> <strong><a href="./dsa-1534">DSA-1534 iceape</a></strong> - several vulnerabilities <br>
+<tt>[27 Mar 2008]</tt> <strong><a href="./dsa-1533">DSA-1533 exiftags</a></strong> - insufficient input sanitizing <br>
+<tt>[27 Mar 2008]</tt> <strong><a href="./dsa-1532">DSA-1532 xulrunner</a></strong> - several vulnerabilities <br>
+<tt>[27 Mar 2008]</tt> <strong><a href="./dsa-1531">DSA-1531 policyd-weight</a></strong> - insecure temporary files <br>
+<tt>[25 Mar 2008]</tt> <strong><a href="./dsa-1530">DSA-1530 cupsys</a></strong> - Several vulnerabilities <br>
+<tt>[24 Mar 2008]</tt> <strong><a href="./dsa-1529">DSA-1529 firebird</a></strong> - multiple vulnerabilities <br>
+<tt>[24 Mar 2008]</tt> <strong><a href="./dsa-1528">DSA-1528 serendipity</a></strong> - insufficient input sanitising <br>
+<tt>[24 Mar 2008]</tt> <strong><a href="./dsa-1527">DSA-1527 debian-goodies</a></strong> - insufficient input sanitising <br>
+<tt>[20 Mar 2008]</tt> <strong><a href="./dsa-1526">DSA-1526 xwine</a></strong> - several vulnerabilities <br>
+<tt>[20 Mar 2008]</tt> <strong><a href="./dsa-1525">DSA-1525 asterisk</a></strong> - several vulnerabilities <br>
+<tt>[18 Mar 2008]</tt> <strong><a href="./dsa-1524">DSA-1524 krb5</a></strong> - several vulnerabilities <br>
+<tt>[17 Mar 2008]</tt> <strong><a href="./dsa-1523">DSA-1523 ikiwiki</a></strong> - cross-site scripting <br>
+<tt>[17 Mar 2008]</tt> <strong><a href="./dsa-1522">DSA-1522 unzip</a></strong> - programming error <br>
+<tt>[16 Mar 2008]</tt> <strong><a href="./dsa-1521">DSA-1521 lighttpd</a></strong> - file disclosure <br>
+<tt>[16 Mar 2008]</tt> <strong><a href="./dsa-1520">DSA-1520 smarty</a></strong> - insufficient input sanitising <br>
+<tt>[15 Mar 2008]</tt> <strong><a href="./dsa-1519">DSA-1519 horde3</a></strong> - insufficient input sanitising <br>
+<tt>[15 Mar 2008]</tt> <strong><a href="./dsa-1518">DSA-1518 backup-manager</a></strong> - programming error <br>
+<tt>[15 Mar 2008]</tt> <strong><a href="./dsa-1517">DSA-1517 ldapscripts</a></strong> - programming error <br>
+<tt>[14 Mar 2008]</tt> <strong><a href="./dsa-1516">DSA-1516 dovecot</a></strong> - privilege escalation <br>
+<tt>[11 Mar 2008]</tt> <strong><a href="./dsa-1515">DSA-1515 libnet-dns-perl</a></strong> - several vulnerabilities <br>
+<tt>[09 Mar 2008]</tt> <strong><a href="./dsa-1514">DSA-1514 moin</a></strong> - several vulnerabilities <br>
+<tt>[06 Mar 2008]</tt> <strong><a href="./dsa-1513">DSA-1513 lighttpd</a></strong> - information disclosure <br>
+<tt>[05 Mar 2008]</tt> <strong><a href="./dsa-1512">DSA-1512 evolution</a></strong> - format string attack <br>
+<tt>[03 Mar 2008]</tt> <strong><a href="./dsa-1511">DSA-1511 libicu</a></strong> - various <br>
+<tt>[27 Feb 2008]</tt> <strong><a href="./dsa-1510">DSA-1510 ghostscript</a></strong> - buffer overflow <br>
+<tt>[25 Feb 2008]</tt> <strong><a href="./dsa-1509">DSA-1509 koffice</a></strong> - multiple vulnerabilities <br>
+<tt>[25 Feb 2008]</tt> <strong><a href="./dsa-1508">DSA-1508 diatheke</a></strong> - insufficient input sanitising <br>
+<tt>[24 Feb 2008]</tt> <strong><a href="./dsa-1507">DSA-1507 turba2</a></strong> - programming error <br>
+<tt>[24 Feb 2008]</tt> <strong><a href="./dsa-1506">DSA-1506 iceape</a></strong> - several vulnerabilities <br>
+<tt>[22 Feb 2008]</tt> <strong><a href="./dsa-1505">DSA-1505 alsa-driver</a></strong> - kernel memory leak <br>
+<tt>[22 Feb 2008]</tt> <strong><a href="./dsa-1504">DSA-1504 kernel-source-2.6.8</a></strong> - several vulnerabilities <br>
+<tt>[22 Feb 2008]</tt> <strong><a href="./dsa-1503">DSA-1503 kernel-source-2.4.27</a></strong> - several vulnerabilities <br>
+<tt>[22 Feb 2008]</tt> <strong><a href="./dsa-1502">DSA-1502 wordpress</a></strong> - several vulnerabilities <br>
+<tt>[21 Feb 2008]</tt> <strong><a href="./dsa-1501">DSA-1501 dspam</a></strong> - programming error <br>
+<tt>[21 Feb 2008]</tt> <strong><a href="./dsa-1500">DSA-1500 splitvt</a></strong> - privilege escalation <br>
+<tt>[19 Feb 2008]</tt> <strong><a href="./dsa-1499">DSA-1499 pcre3</a></strong> - buffer overflow <br>
+<tt>[19 Feb 2008]</tt> <strong><a href="./dsa-1498">DSA-1498 libimager-perl</a></strong> - buffer overflow <br>
+<tt>[16 Feb 2008]</tt> <strong><a href="./dsa-1497">DSA-1497 clamav</a></strong> - several vulnerabilities <br>
+<tt>[12 Feb 2008]</tt> <strong><a href="./dsa-1496">DSA-1496 mplayer</a></strong> - buffer overflows <br>
+<tt>[12 Feb 2008]</tt> <strong><a href="./dsa-1495">DSA-1495 nagios-plugins</a></strong> - buffer overflows <br>
+<tt>[11 Feb 2008]</tt> <strong><a href="./dsa-1494">DSA-1494 linux-2.6</a></strong> - missing access checks <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1493">DSA-1493 sdl-image1.2</a></strong> - buffer overflows <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1492">DSA-1492 wml</a></strong> - insecure temporary files <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1491">DSA-1491 tk8.4</a></strong> - buffer overflow <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1490">DSA-1490 tk8.3</a></strong> - buffer overflow <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1489">DSA-1489 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[09 Feb 2008]</tt> <strong><a href="./dsa-1488">DSA-1488 phpbb2</a></strong> - several vulnerabilities <br>
+<tt>[08 Feb 2008]</tt> <strong><a href="./dsa-1487">DSA-1487 libexif</a></strong> - several vulnerabilities <br>
+<tt>[04 Feb 2008]</tt> <strong><a href="./dsa-1486">DSA-1486 gnatsweb</a></strong> - cross-site scripting <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1485">DSA-1485 icedove</a></strong> - several vulnerabilities <br>
+<tt>[10 Feb 2008]</tt> <strong><a href="./dsa-1484">DSA-1484 xulrunner</a></strong> - several vulnerabilities <br>
+<tt>[06 Feb 2008]</tt> <strong><a href="./dsa-1483">DSA-1483 net-snmp</a></strong> - design error <br>
+<tt>[05 Feb 2008]</tt> <strong><a href="./dsa-1482">DSA-1482 squid</a></strong> - programming error <br>
+<tt>[05 Feb 2008]</tt> <strong><a href="./dsa-1481">DSA-1481 python-cherrypy</a></strong> - missing input sanitising <br>
+<tt>[05 Feb 2008]</tt> <strong><a href="./dsa-1480">DSA-1480 poppler</a></strong> - several vulnerabilities <br>
+<tt>[29 Jan 2008]</tt> <strong><a href="./dsa-1479">DSA-1479 linux-2.6</a></strong> - several vulnerabilities <br>
+<tt>[28 Jan 2008]</tt> <strong><a href="./dsa-1478">DSA-1478 mysql-dfsg-5.0</a></strong> - buffer overflows <br>
+<tt>[27 Jan 2008]</tt> <strong><a href="./dsa-1477">DSA-1477 yarssr</a></strong> - missing input sanitising <br>
+<tt>[27 Jan 2008]</tt> <strong><a href="./dsa-1476">DSA-1476 pulseaudio</a></strong> - programming error <br>
+<tt>[26 Jan 2008]</tt> <strong><a href="./dsa-1475">DSA-1475 gforge</a></strong> - missing input sanitising <br>
+<tt>[23 Jan 2008]</tt> <strong><a href="./dsa-1474">DSA-1474 exiv2</a></strong> - integer overflow <br>
+<tt>[21 Jan 2008]</tt> <strong><a href="./dsa-1473">DSA-1473 scponly</a></strong> - design flaw <br>
+<tt>[21 Jan 2008]</tt> <strong><a href="./dsa-1472">DSA-1472 xine-lib</a></strong> - buffer overflow <br>
+<tt>[21 Jan 2008]</tt> <strong><a href="./dsa-1471">DSA-1471 libvorbis</a></strong> - several vulnerabilities <br>
+<tt>[20 Jan 2008]</tt> <strong><a href="./dsa-1470">DSA-1470 horde3</a></strong> - missing input sanitising <br>
+<tt>[20 Jan 2008]</tt> <strong><a href="./dsa-1469">DSA-1469 flac</a></strong> - several vulnerabilities <br>
+<tt>[20 Jan 2008]</tt> <strong><a href="./dsa-1468">DSA-1468 tomcat5.5</a></strong> - several vulnerabilities <br>
+<tt>[19 Jan 2008]</tt> <strong><a href="./dsa-1467">DSA-1467 mantis</a></strong> - several vulnerabilities <br>
+<tt>[21 Jan 2008]</tt> <strong><a href="./dsa-1466">DSA-1466 xorg-server</a></strong> - several vulnerabilities <br>
+<tt>[17 Jan 2008]</tt> <strong><a href="./dsa-1465">DSA-1465 apt-listchanges</a></strong> - programming error <br>
+<tt>[15 Jan 2008]</tt> <strong><a href="./dsa-1464">DSA-1464 syslog-ng</a></strong> - null pointer dereference <br>
+<tt>[14 Jan 2008]</tt> <strong><a href="./dsa-1463">DSA-1463 postgresql-7.4</a></strong> - several vulnerabilities <br>
+<tt>[13 Jan 2008]</tt> <strong><a href="./dsa-1462">DSA-1462 hplip</a></strong> - missing input sanitising <br>
+<tt>[13 Jan 2008]</tt> <strong><a href="./dsa-1461">DSA-1461 libxml2</a></strong> - missing input validation <br>
+<tt>[13 Jan 2008]</tt> <strong><a href="./dsa-1460">DSA-1460 postgresql-8.1</a></strong> - several vulnerabilities <br>
+<tt>[13 Jan 2008]</tt> <strong><a href="./dsa-1459">DSA-1459 gforge</a></strong> - insufficient input validation <br>
+<tt>[10 Jan 2008]</tt> <strong><a href="./dsa-1458">DSA-1458 openafs</a></strong> - programming error <br>
+<tt>[09 Jan 2008]</tt> <strong><a href="./dsa-1457">DSA-1457 dovecot</a></strong> - programming error <br>
+<tt>[09 Jan 2008]</tt> <strong><a href="./dsa-1456">DSA-1456 fail2ban</a></strong> - programming error <br>
+<tt>[08 Jan 2008]</tt> <strong><a href="./dsa-1455">DSA-1455 libarchive</a></strong> - denial of service <br>
+<tt>[07 Jan 2008]</tt> <strong><a href="./dsa-1454">DSA-1454 freetype</a></strong> - integer overflow <br>
+<tt>[07 Jan 2008]</tt> <strong><a href="./dsa-1453">DSA-1453 tomcat5</a></strong> - several vulnerabilities <br>
+<tt>[06 Jan 2008]</tt> <strong><a href="./dsa-1452">DSA-1452 wzdftpd</a></strong> - denial of service <br>
+<tt>[06 Jan 2008]</tt> <strong><a href="./dsa-1451">DSA-1451 mysql-dfsg-5.0</a></strong> - several vulnerabilities <br>
+<tt>[05 Jan 2008]</tt> <strong><a href="./dsa-1450">DSA-1450 util-linux</a></strong> - programming error <br>
+<tt>[05 Jan 2008]</tt> <strong><a href="./dsa-1449">DSA-1449 loop-aes-utils</a></strong> - programming error <br>
+<tt>[05 Jan 2008]</tt> <strong><a href="./dsa-1448">DSA-1448 eggdrop</a></strong> - buffer overflow <br>
+<tt>[03 Jan 2008]</tt> <strong><a href="./dsa-1447">DSA-1447 tomcat5.5</a></strong> - several vulnerabilities <br>
+<tt>[03 Jan 2008]</tt> <strong><a href="./dsa-1446">DSA-1446 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[03 Jan 2008]</tt> <strong><a href="./dsa-1445">DSA-1445 maradns</a></strong> - programming error <br>
+<tt>[23 Jan 2008]</tt> <strong><a href="./dsa-1444">DSA-1444 php5</a></strong> - several vulnerabilities <br>
+<tt>[03 Jan 2008]</tt> <strong><a href="./dsa-1443">DSA-1443 tcpreen</a></strong> - buffer overflows <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2008/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.cs.html" title="Czech" hreflang="cs" lang="cs" rel="alternate">&#269;esky</a>
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pl.html" title="Polish" hreflang="pl" lang="pl" rel="alternate">polski</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.fi.html" title="Finnish" hreflang="fi" lang="fi" rel="alternate">suomi</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+ <a href="index.uk.html" title="Ukrainian" hreflang="uk" lang="uk" rel="alternate">&#1091;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;&nbsp;(ukrajins'ka)</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Fri, Jun 1 18:42:18 UTC 2018
+&emsp;
+Last Built: Sun, Dec 19 00:19:45 UTC 2021
+  <br>
+  Copyright &copy; 2008-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

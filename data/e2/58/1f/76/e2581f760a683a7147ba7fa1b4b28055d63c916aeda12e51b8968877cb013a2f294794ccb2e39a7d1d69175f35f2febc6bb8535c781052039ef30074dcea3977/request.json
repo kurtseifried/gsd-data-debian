@@ -1,0 +1,6 @@
+{
+    "TIMESTAMP": "2022-03-06T22:43:49.190551Z",
+    "URL_requested": "https://www.debian.org/security/2006/dsa-1069",
+    "gsd_script_name": "./mirror-url-requests.py",
+    "gsd_script_version": "0.0.4"
+}

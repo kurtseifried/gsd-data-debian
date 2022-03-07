@@ -1,0 +1,395 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2013 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:28:06">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2013</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2013</h1>
+<tt>[31 Dec 2013]</tt> <strong><a href="./dsa-2831">DSA-2831 puppet</a></strong> - insecure temporary files <br>
+<tt>[30 Dec 2013]</tt> <strong><a href="./dsa-2830">DSA-2830 ruby-i18n</a></strong> - cross-site scripting <br>
+<tt>[28 Dec 2013]</tt> <strong><a href="./dsa-2829">DSA-2829 hplip</a></strong> - several vulnerabilities <br>
+<tt>[28 Dec 2013]</tt> <strong><a href="./dsa-2828">DSA-2828 drupal6</a></strong> - several vulnerabilities <br>
+<tt>[24 Dec 2013]</tt> <strong><a href="./dsa-2827">DSA-2827 libcommons-fileupload-java</a></strong> - arbitrary file upload via deserialization <br>
+<tt>[22 Dec 2013]</tt> <strong><a href="./dsa-2826">DSA-2826 denyhosts</a></strong> - remote denial of ssh service <br>
+<tt>[20 Dec 2013]</tt> <strong><a href="./dsa-2825">DSA-2825 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[19 Dec 2013]</tt> <strong><a href="./dsa-2824">DSA-2824 curl</a></strong> - unchecked tls/ssl certificate host name <br>
+<tt>[18 Dec 2013]</tt> <strong><a href="./dsa-2823">DSA-2823 pixman</a></strong> - integer underflow <br>
+<tt>[18 Dec 2013]</tt> <strong><a href="./dsa-2822">DSA-2822 xorg-server</a></strong> - integer underflow <br>
+<tt>[18 Dec 2013]</tt> <strong><a href="./dsa-2821">DSA-2821 gnupg</a></strong> - side channel attack <br>
+<tt>[17 Dec 2013]</tt> <strong><a href="./dsa-2820">DSA-2820 nspr</a></strong> - integer overflow <br>
+<tt>[16 Dec 2013]</tt> <strong><a href="./dsa-2819">DSA-2819 iceape</a></strong> - end-of-life announcement for iceape <br>
+<tt>[16 Dec 2013]</tt> <strong><a href="./dsa-2818">DSA-2818 mysql-5.5</a></strong> - several vulnerabilities <br>
+<tt>[14 Dec 2013]</tt> <strong><a href="./dsa-2817">DSA-2817 libtar</a></strong> - Integer overflow <br>
+<tt>[12 Dec 2013]</tt> <strong><a href="./dsa-2816">DSA-2816 php5</a></strong> - several vulnerabilities <br>
+<tt>[09 Dec 2013]</tt> <strong><a href="./dsa-2815">DSA-2815 munin</a></strong> - denial of service <br>
+<tt>[09 Dec 2013]</tt> <strong><a href="./dsa-2814">DSA-2814 varnish</a></strong> - denial of service <br>
+<tt>[09 Dec 2013]</tt> <strong><a href="./dsa-2813">DSA-2813 gimp</a></strong> - several vulnerabilities <br>
+<tt>[09 Dec 2013]</tt> <strong><a href="./dsa-2812">DSA-2812 samba</a></strong> - several vulnerabilities <br>
+<tt>[07 Dec 2013]</tt> <strong><a href="./dsa-2811">DSA-2811 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[04 Dec 2013]</tt> <strong><a href="./dsa-2810">DSA-2810 ruby1.9.1</a></strong> - heap overflow <br>
+<tt>[04 Dec 2013]</tt> <strong><a href="./dsa-2809">DSA-2809 ruby1.8</a></strong> - several vulnerabilities <br>
+<tt>[03 Dec 2013]</tt> <strong><a href="./dsa-2808">DSA-2808 openjpeg</a></strong> - several vulnerabilities <br>
+<tt>[30 Nov 2013]</tt> <strong><a href="./dsa-2807">DSA-2807 links2</a></strong> - integer overflow <br>
+<tt>[29 Nov 2013]</tt> <strong><a href="./dsa-2806">DSA-2806 nbd</a></strong> - privilege escalation <br>
+<tt>[27 Nov 2013]</tt> <strong><a href="./dsa-2805">DSA-2805 sup-mail</a></strong> - command injection <br>
+<tt>[26 Nov 2013]</tt> <strong><a href="./dsa-2804">DSA-2804 drupal7</a></strong> - several vulnerabilities <br>
+<tt>[26 Nov 2013]</tt> <strong><a href="./dsa-2803">DSA-2803 quagga</a></strong> - several vulnerabilities <br>
+<tt>[21 Nov 2013]</tt> <strong><a href="./dsa-2802">DSA-2802 nginx</a></strong> - restriction bypass <br>
+<tt>[21 Nov 2013]</tt> <strong><a href="./dsa-2801">DSA-2801 libhttp-body-perl</a></strong> - design error <br>
+<tt>[25 Nov 2013]</tt> <strong><a href="./dsa-2800">DSA-2800 nss</a></strong> - buffer overflow <br>
+<tt>[16 Nov 2013]</tt> <strong><a href="./dsa-2799">DSA-2799 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[17 Nov 2013]</tt> <strong><a href="./dsa-2798">DSA-2798 curl</a></strong> - unchecked ssl certificate host name <br>
+<tt>[13 Nov 2013]</tt> <strong><a href="./dsa-2797">DSA-2797 icedove</a></strong> - several vulnerabilities <br>
+<tt>[13 Nov 2013]</tt> <strong><a href="./dsa-2796">DSA-2796 torque</a></strong> - arbitrary code execution <br>
+<tt>[17 Nov 2013]</tt> <strong><a href="./dsa-2795">DSA-2795 lighttpd</a></strong> - several vulnerabilities <br>
+<tt>[10 Nov 2013]</tt> <strong><a href="./dsa-2794">DSA-2794 spip</a></strong> - several vulnerabilities <br>
+<tt>[09 Nov 2013]</tt> <strong><a href="./dsa-2793">DSA-2793 libav</a></strong> - several vulnerabilities <br>
+<tt>[04 Nov 2013]</tt> <strong><a href="./dsa-2792">DSA-2792 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[04 Nov 2013]</tt> <strong><a href="./dsa-2791">DSA-2791 tryton-client</a></strong> - missing input sanitization <br>
+<tt>[02 Nov 2013]</tt> <strong><a href="./dsa-2790">DSA-2790 nss</a></strong> - uninitialized memory read <br>
+<tt>[01 Nov 2013]</tt> <strong><a href="./dsa-2789">DSA-2789 strongswan</a></strong> - Denial of service and authorization bypass <br>
+<tt>[31 Oct 2013]</tt> <strong><a href="./dsa-2788">DSA-2788 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[27 Oct 2013]</tt> <strong><a href="./dsa-2787">DSA-2787 roundcube</a></strong> - design error <br>
+<tt>[27 Oct 2013]</tt> <strong><a href="./dsa-2786">DSA-2786 icu</a></strong> - several vulnerabilities <br>
+<tt>[26 Oct 2013]</tt> <strong><a href="./dsa-2785">DSA-2785 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[22 Oct 2013]</tt> <strong><a href="./dsa-2784">DSA-2784 xorg-server</a></strong> - use-after-free <br>
+<tt>[21 Oct 2013]</tt> <strong><a href="./dsa-2783">DSA-2783 librack-ruby</a></strong> - several vulnerabilities <br>
+<tt>[20 Oct 2013]</tt> <strong><a href="./dsa-2782">DSA-2782 polarssl</a></strong> - several vulnerabilities <br>
+<tt>[18 Oct 2013]</tt> <strong><a href="./dsa-2781">DSA-2781 python-crypto</a></strong> - PRNG not correctly reseeded in some situations <br>
+<tt>[18 Oct 2013]</tt> <strong><a href="./dsa-2780">DSA-2780 mysql-5.1</a></strong> - several vulnerabilities <br>
+<tt>[13 Oct 2013]</tt> <strong><a href="./dsa-2779">DSA-2779 libxml2</a></strong> - denial of service <br>
+<tt>[12 Oct 2013]</tt> <strong><a href="./dsa-2778">DSA-2778 libapache2-mod-fcgid</a></strong> - heap-based buffer overflow <br>
+<tt>[11 Oct 2013]</tt> <strong><a href="./dsa-2777">DSA-2777 systemd</a></strong> - several vulnerabilities <br>
+<tt>[11 Oct 2013]</tt> <strong><a href="./dsa-2776">DSA-2776 drupal6</a></strong> - several vulnerabilities <br>
+<tt>[10 Oct 2013]</tt> <strong><a href="./dsa-2775">DSA-2775 ejabberd</a></strong> - insecure SSL usage <br>
+<tt>[10 Oct 2013]</tt> <strong><a href="./dsa-2774">DSA-2774 gnupg2</a></strong> - several vulnerabilities <br>
+<tt>[10 Oct 2013]</tt> <strong><a href="./dsa-2773">DSA-2773 gnupg</a></strong> - several vulnerabilities <br>
+<tt>[10 Oct 2013]</tt> <strong><a href="./dsa-2772">DSA-2772 typo3-src</a></strong> - cross-site scripting <br>
+<tt>[09 Oct 2013]</tt> <strong><a href="./dsa-2771">DSA-2771 nas</a></strong> - several vulnerabilities <br>
+<tt>[09 Oct 2013]</tt> <strong><a href="./dsa-2770">DSA-2770 torque</a></strong> - authentication bypass <br>
+<tt>[08 Oct 2013]</tt> <strong><a href="./dsa-2769">DSA-2769 kfreebsd-9</a></strong> - privilege escalation/denial of service <br>
+<tt>[04 Oct 2013]</tt> <strong><a href="./dsa-2768">DSA-2768 icedtea-web</a></strong> - heap-based buffer overflow <br>
+<tt>[29 Sep 2013]</tt> <strong><a href="./dsa-2767">DSA-2767 proftpd-dfsg</a></strong> - denial of service <br>
+<tt>[27 Sep 2013]</tt> <strong><a href="./dsa-2766">DSA-2766 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[26 Sep 2013]</tt> <strong><a href="./dsa-2765">DSA-2765 davfs2</a></strong> - privilege escalation <br>
+<tt>[25 Sep 2013]</tt> <strong><a href="./dsa-2764">DSA-2764 libvirt</a></strong> - programming error <br>
+<tt>[24 Sep 2013]</tt> <strong><a href="./dsa-2763">DSA-2763 pyopenssl</a></strong> - hostname check bypassing <br>
+<tt>[23 Sep 2013]</tt> <strong><a href="./dsa-2762">DSA-2762 icedove</a></strong> - several vulnerabilities <br>
+<tt>[19 Sep 2013]</tt> <strong><a href="./dsa-2761">DSA-2761 puppet</a></strong> - several vulnerabilities <br>
+<tt>[18 Sep 2013]</tt> <strong><a href="./dsa-2760">DSA-2760 chrony</a></strong> - several vulnerabilities <br>
+<tt>[18 Sep 2013]</tt> <strong><a href="./dsa-2759">DSA-2759 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[17 Sep 2013]</tt> <strong><a href="./dsa-2758">DSA-2758 python-django</a></strong> - denial of service <br>
+<tt>[14 Sep 2013]</tt> <strong><a href="./dsa-2757">DSA-2757 wordpress</a></strong> - several vulnerabilities <br>
+<tt>[13 Sep 2013]</tt> <strong><a href="./dsa-2756">DSA-2756 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[11 Sep 2013]</tt> <strong><a href="./dsa-2755">DSA-2755 python-django</a></strong> - directory traversal <br>
+<tt>[10 Sep 2013]</tt> <strong><a href="./dsa-2754">DSA-2754 exactimage</a></strong> - denial of service <br>
+<tt>[13 Sep 2013]</tt> <strong><a href="./dsa-2753">DSA-2753 mediawiki</a></strong> - information leak <br>
+<tt>[07 Sep 2013]</tt> <strong><a href="./dsa-2752">DSA-2752 phpbb3</a></strong> - permissions too wide <br>
+<tt>[04 Sep 2013]</tt> <strong><a href="./dsa-2751">DSA-2751 libmodplug</a></strong> - several vulnerabilities <br>
+<tt>[03 Sep 2013]</tt> <strong><a href="./dsa-2750">DSA-2750 imagemagick</a></strong> - buffer overflow <br>
+<tt>[02 Sep 2013]</tt> <strong><a href="./dsa-2749">DSA-2749 asterisk</a></strong> - several vulnerabilities <br>
+<tt>[01 Sep 2013]</tt> <strong><a href="./dsa-2748">DSA-2748 exactimage</a></strong> - denial of service <br>
+<tt>[31 Aug 2013]</tt> <strong><a href="./dsa-2747">DSA-2747 cacti</a></strong> - several vulnerabilities <br>
+<tt>[29 Aug 2013]</tt> <strong><a href="./dsa-2746">DSA-2746 icedove</a></strong> - several vulnerabilities <br>
+<tt>[28 Aug 2013]</tt> <strong><a href="./dsa-2745">DSA-2745 linux</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[27 Aug 2013]</tt> <strong><a href="./dsa-2744">DSA-2744 tiff</a></strong> - several vulnerabilities <br>
+<tt>[27 Aug 2013]</tt> <strong><a href="./dsa-2743">DSA-2743 kfreebsd-9</a></strong> - privilege escalation/information leak <br>
+<tt>[26 Aug 2013]</tt> <strong><a href="./dsa-2742">DSA-2742 php5</a></strong> - interpretation conflict <br>
+<tt>[25 Aug 2013]</tt> <strong><a href="./dsa-2741">DSA-2741 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[23 Aug 2013]</tt> <strong><a href="./dsa-2740">DSA-2740 python-django</a></strong> - cross-site scripting vulnerability <br>
+<tt>[21 Aug 2013]</tt> <strong><a href="./dsa-2739">DSA-2739 cacti</a></strong> - several vulnerabilities <br>
+<tt>[18 Aug 2013]</tt> <strong><a href="./dsa-2738">DSA-2738 ruby1.9.1</a></strong> - several vulnerabilities <br>
+<tt>[12 Aug 2013]</tt> <strong><a href="./dsa-2737">DSA-2737 swift</a></strong> - several vulnerabilities <br>
+<tt>[11 Aug 2013]</tt> <strong><a href="./dsa-2736">DSA-2736 putty</a></strong> - several vulnerabilities <br>
+<tt>[07 Aug 2013]</tt> <strong><a href="./dsa-2735">DSA-2735 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[05 Aug 2013]</tt> <strong><a href="./dsa-2734">DSA-2734 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[02 Aug 2013]</tt> <strong><a href="./dsa-2733">DSA-2733 otrs2</a></strong> - SQL injection <br>
+<tt>[31 Jul 2013]</tt> <strong><a href="./dsa-2732">DSA-2732 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[29 Jul 2013]</tt> <strong><a href="./dsa-2731">DSA-2731 libgcrypt11</a></strong> - information leak <br>
+<tt>[29 Jul 2013]</tt> <strong><a href="./dsa-2730">DSA-2730 gnupg</a></strong> - information leak <br>
+<tt>[28 Jul 2013]</tt> <strong><a href="./dsa-2729">DSA-2729 openafs</a></strong> - several vulnerabilities <br>
+<tt>[27 Jul 2013]</tt> <strong><a href="./dsa-2728">DSA-2728 bind9</a></strong> - denial of service <br>
+<tt>[25 Jul 2013]</tt> <strong><a href="./dsa-2727">DSA-2727 openjdk-6</a></strong> - several vulnerabilities <br>
+<tt>[25 Jul 2013]</tt> <strong><a href="./dsa-2726">DSA-2726 php-radius</a></strong> - buffer overflow <br>
+<tt>[18 Jul 2013]</tt> <strong><a href="./dsa-2725">DSA-2725 tomcat6</a></strong> - several vulnerabilities <br>
+<tt>[17 Jul 2013]</tt> <strong><a href="./dsa-2724">DSA-2724 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[17 Jul 2013]</tt> <strong><a href="./dsa-2723">DSA-2723 php5</a></strong> - heap corruption <br>
+<tt>[15 Jul 2013]</tt> <strong><a href="./dsa-2722">DSA-2722 openjdk-7</a></strong> - several vulnerabilities <br>
+<tt>[07 Jul 2013]</tt> <strong><a href="./dsa-2721">DSA-2721 nginx</a></strong> - buffer overflow <br>
+<tt>[06 Jul 2013]</tt> <strong><a href="./dsa-2720">DSA-2720 icedove</a></strong> - several vulnerabilities <br>
+<tt>[10 Jul 2013]</tt> <strong><a href="./dsa-2719">DSA-2719 poppler</a></strong> - several vulnerabilities <br>
+<tt>[01 Jul 2013]</tt> <strong><a href="./dsa-2718">DSA-2718 wordpress</a></strong> - several vulnerabilities <br>
+<tt>[28 Jun 2013]</tt> <strong><a href="./dsa-2717">DSA-2717 xml-security-c</a></strong> - heap overflow <br>
+<tt>[26 Jun 2013]</tt> <strong><a href="./dsa-2716">DSA-2716 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[26 Jun 2013]</tt> <strong><a href="./dsa-2715">DSA-2715 puppet</a></strong> - code execution <br>
+<tt>[25 Jun 2013]</tt> <strong><a href="./dsa-2714">DSA-2714 kfreebsd-9</a></strong> - programming error <br>
+<tt>[24 Jun 2013]</tt> <strong><a href="./dsa-2713">DSA-2713 curl</a></strong> - heap overflow <br>
+<tt>[19 Jun 2013]</tt> <strong><a href="./dsa-2712">DSA-2712 otrs2</a></strong> - privilege escalation <br>
+<tt>[19 Jun 2013]</tt> <strong><a href="./dsa-2711">DSA-2711 haproxy</a></strong> - several vulnerabilities <br>
+<tt>[18 Jun 2013]</tt> <strong><a href="./dsa-2710">DSA-2710 xml-security-c</a></strong> - several vulnerabilities <br>
+<tt>[17 Jun 2013]</tt> <strong><a href="./dsa-2709">DSA-2709 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[16 Jun 2013]</tt> <strong><a href="./dsa-2708">DSA-2708 fail2ban</a></strong> - denial of service <br>
+<tt>[13 Jun 2013]</tt> <strong><a href="./dsa-2707">DSA-2707 dbus</a></strong> - denial of service <br>
+<tt>[10 Jun 2013]</tt> <strong><a href="./dsa-2706">DSA-2706 chromium-browser</a></strong> - several vulnerabilities <br>
+<tt>[10 Jun 2013]</tt> <strong><a href="./dsa-2705">DSA-2705 pymongo</a></strong> - denial of service <br>
+<tt>[09 Jun 2013]</tt> <strong><a href="./dsa-2704">DSA-2704 mesa</a></strong> - out of bounds access <br>
+<tt>[09 Jun 2013]</tt> <strong><a href="./dsa-2703">DSA-2703 subversion</a></strong> - several vulnerabilities <br>
+<tt>[03 Jun 2013]</tt> <strong><a href="./dsa-2702">DSA-2702 telepathy-gabble</a></strong> - TLS verification bypass <br>
+<tt>[29 May 2013]</tt> <strong><a href="./dsa-2701">DSA-2701 krb5</a></strong> - denial of service <br>
+<tt>[02 Jun 2013]</tt> <strong><a href="./dsa-2700">DSA-2700 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[02 Jun 2013]</tt> <strong><a href="./dsa-2699">DSA-2699 iceweasel</a></strong> - several vulnerabilities <br>
+<tt>[18 Jun 2013]</tt> <strong><a href="./dsa-2698">DSA-2698 tiff</a></strong> - buffer overflow <br>
+<tt>[29 May 2013]</tt> <strong><a href="./dsa-2697">DSA-2697 gnutls26</a></strong> - out-of-bounds array read <br>
+<tt>[29 May 2013]</tt> <strong><a href="./dsa-2696">DSA-2696 otrs2</a></strong> - privilege escalation <br>
+<tt>[29 May 2013]</tt> <strong><a href="./dsa-2695">DSA-2695 chromium-browser</a></strong> - several issues <br>
+<tt>[26 May 2013]</tt> <strong><a href="./dsa-2694">DSA-2694 spip</a></strong> - privilege escalation <br>
+<tt>[24 May 2013]</tt> <strong><a href="./dsa-2693">DSA-2693 libx11</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2692">DSA-2692 libxxf86vm</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2691">DSA-2691 libxinerama</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2690">DSA-2690 libxxf86dga</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2689">DSA-2689 libxtst</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2688">DSA-2688 libxres</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2687">DSA-2687 libfs</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2686">DSA-2686 libxcb</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2685">DSA-2685 libxp</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2684">DSA-2684 libxrandr</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2683">DSA-2683 libxi</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2682">DSA-2682 libxext</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2681">DSA-2681 libxcursor</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2680">DSA-2680 libxt</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2679">DSA-2679 xserver-xorg-video-openchrome</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2678">DSA-2678 mesa</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2677">DSA-2677 libxrender</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2676">DSA-2676 libxfixes</a></strong> - several vulnerabilities <br>
+<tt>[24 May 2013]</tt> <strong><a href="./dsa-2675">DSA-2675 libxvmc</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2674">DSA-2674 libxv</a></strong> - several vulnerabilities <br>
+<tt>[23 May 2013]</tt> <strong><a href="./dsa-2673">DSA-2673 libdmx</a></strong> - several vulnerabilities <br>
+<tt>[22 May 2013]</tt> <strong><a href="./dsa-2672">DSA-2672 kfreebsd-9</a></strong> - interpretation conflict <br>
+<tt>[22 May 2013]</tt> <strong><a href="./dsa-2671">DSA-2671 request-tracker4</a></strong> - several vulnerabilities <br>
+<tt>[22 May 2013]</tt> <strong><a href="./dsa-2670">DSA-2670 request-tracker3.8</a></strong> - several vulnerabilities <br>
+<tt>[15 May 2013]</tt> <strong><a href="./dsa-2669">DSA-2669 linux</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[14 May 2013]</tt> <strong><a href="./dsa-2668">DSA-2668 linux-2.6</a></strong> - privilege escalation/denial of service/information leak <br>
+<tt>[12 May 2013]</tt> <strong><a href="./dsa-2667">DSA-2667 mysql-5.5</a></strong> - several vulnerabilities <br>
+<tt>[12 May 2013]</tt> <strong><a href="./dsa-2666">DSA-2666 xen</a></strong> - several vulnerabilities <br>
+<tt>[30 Apr 2013]</tt> <strong><a href="./dsa-2665">DSA-2665 strongswan</a></strong> - authentication bypass <br>
+<tt>[02 May 2013]</tt> <strong><a href="./dsa-2664">DSA-2664 stunnel4</a></strong> - buffer overflow <br>
+<tt>[22 Apr 2013]</tt> <strong><a href="./dsa-2663">DSA-2663 tinc</a></strong> - stack based buffer overflow <br>
+<tt>[18 Apr 2013]</tt> <strong><a href="./dsa-2662">DSA-2662 xen</a></strong> - several vulnerabilities <br>
+<tt>[17 Apr 2013]</tt> <strong><a href="./dsa-2661">DSA-2661 xorg-server</a></strong> - information disclosure <br>
+<tt>[20 Apr 2013]</tt> <strong><a href="./dsa-2660">DSA-2660 curl</a></strong> - exposure of sensitive information <br>
+<tt>[09 Apr 2013]</tt> <strong><a href="./dsa-2659">DSA-2659 libapache-mod-security</a></strong> - XML external entity processing vulnerability <br>
+<tt>[04 Apr 2013]</tt> <strong><a href="./dsa-2658">DSA-2658 postgresql-9.1</a></strong> - several vulnerabilities <br>
+<tt>[04 Apr 2013]</tt> <strong><a href="./dsa-2657">DSA-2657 postgresql-8.4</a></strong> - guessable random numbers <br>
+<tt>[30 Mar 2013]</tt> <strong><a href="./dsa-2656">DSA-2656 bind9</a></strong> - denial of service <br>
+<tt>[28 Mar 2013]</tt> <strong><a href="./dsa-2655">DSA-2655 rails</a></strong> - several vulnerabilities <br>
+<tt>[03 Apr 2013]</tt> <strong><a href="./dsa-2654">DSA-2654 libxslt</a></strong> - denial of service <br>
+<tt>[26 Mar 2013]</tt> <strong><a href="./dsa-2653">DSA-2653 icinga</a></strong> - buffer overflow <br>
+<tt>[24 Mar 2013]</tt> <strong><a href="./dsa-2652">DSA-2652 libxml2</a></strong> - external entity expansion <br>
+<tt>[20 Mar 2013]</tt> <strong><a href="./dsa-2651">DSA-2651 smokeping</a></strong> - cross-site scripting vulnerability <br>
+<tt>[17 Mar 2013]</tt> <strong><a href="./dsa-2650">DSA-2650 libvirt</a></strong> - files and device nodes ownership change to kvm group <br>
+<tt>[15 Mar 2013]</tt> <strong><a href="./dsa-2649">DSA-2649 lighttpd</a></strong> - fixed socket name in world-writable directory <br>
+<tt>[15 Mar 2013]</tt> <strong><a href="./dsa-2648">DSA-2648 firebird2.5</a></strong> - several vulnerabilities <br>
+<tt>[15 Mar 2013]</tt> <strong><a href="./dsa-2647">DSA-2647 firebird2.1</a></strong> - buffer overflow <br>
+<tt>[15 Mar 2013]</tt> <strong><a href="./dsa-2646">DSA-2646 typo3-src</a></strong> - several vulnerabilities <br>
+<tt>[14 Mar 2013]</tt> <strong><a href="./dsa-2645">DSA-2645 inetutils</a></strong> - denial of service <br>
+<tt>[14 Mar 2013]</tt> <strong><a href="./dsa-2644">DSA-2644 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[12 Mar 2013]</tt> <strong><a href="./dsa-2643">DSA-2643 puppet</a></strong> - several vulnerabilities <br>
+<tt>[09 Mar 2013]</tt> <strong><a href="./dsa-2642">DSA-2642 sudo</a></strong> - several issues <br>
+<tt>[20 Mar 2013]</tt> <strong><a href="./dsa-2641">DSA-2641 perl</a></strong> - rehashing flaw <br>
+<tt>[14 Mar 2013]</tt> <strong><a href="./dsa-2640">DSA-2640 zoneminder</a></strong> - several issues <br>
+<tt>[05 Mar 2013]</tt> <strong><a href="./dsa-2639">DSA-2639 php5</a></strong> - several vulnerabilities <br>
+<tt>[04 Mar 2013]</tt> <strong><a href="./dsa-2638">DSA-2638 openafs</a></strong> - buffer overflow <br>
+<tt>[04 Mar 2013]</tt> <strong><a href="./dsa-2637">DSA-2637 apache2</a></strong> - several issues <br>
+<tt>[03 Mar 2013]</tt> <strong><a href="./dsa-2636">DSA-2636 xen</a></strong> - several vulnerabilities <br>
+<tt>[01 Mar 2013]</tt> <strong><a href="./dsa-2635">DSA-2635 cfingerd</a></strong> - buffer overflow <br>
+<tt>[27 Feb 2013]</tt> <strong><a href="./dsa-2634">DSA-2634 python-django</a></strong> - several vulnerabilities <br>
+<tt>[26 Feb 2013]</tt> <strong><a href="./dsa-2633">DSA-2633 fusionforge</a></strong> - privilege escalation <br>
+<tt>[25 Feb 2013]</tt> <strong><a href="./dsa-2632">DSA-2632 linux-2.6</a></strong> - privilege escalation/denial of service <br>
+<tt>[24 Feb 2013]</tt> <strong><a href="./dsa-2631">DSA-2631 squid3</a></strong> - denial of service <br>
+<tt>[20 Feb 2013]</tt> <strong><a href="./dsa-2630">DSA-2630 postgresql-8.4</a></strong> - programming error <br>
+<tt>[25 Feb 2013]</tt> <strong><a href="./dsa-2629">DSA-2629 openjpeg</a></strong> - several issues <br>
+<tt>[18 Jun 2013]</tt> <strong><a href="./dsa-2628">DSA-2628 nss-pam-ldapd</a></strong> - buffer overflow <br>
+<tt>[17 Feb 2013]</tt> <strong><a href="./dsa-2627">DSA-2627 nginx</a></strong> - information leak <br>
+<tt>[17 Feb 2013]</tt> <strong><a href="./dsa-2626">DSA-2626 lighttpd</a></strong> - several issues <br>
+<tt>[17 Feb 2013]</tt> <strong><a href="./dsa-2625">DSA-2625 wireshark</a></strong> - several vulnerabilities <br>
+<tt>[16 Feb 2013]</tt> <strong><a href="./dsa-2624">DSA-2624 ffmpeg</a></strong> - several vulnerabilities <br>
+<tt>[14 Feb 2013]</tt> <strong><a href="./dsa-2623">DSA-2623 openconnect</a></strong> - buffer overflow <br>
+<tt>[13 Feb 2013]</tt> <strong><a href="./dsa-2622">DSA-2622 polarssl</a></strong> - several vulnerabilities <br>
+<tt>[13 Feb 2013]</tt> <strong><a href="./dsa-2621">DSA-2621 openssl</a></strong> - several vulnerabilities <br>
+<tt>[12 Feb 2013]</tt> <strong><a href="./dsa-2620">DSA-2620 rails</a></strong> - several vulnerabilities <br>
+<tt>[10 Feb 2013]</tt> <strong><a href="./dsa-2619">DSA-2619 xen-qemu-dm-4.0</a></strong> - buffer overflow <br>
+<tt>[07 Feb 2013]</tt> <strong><a href="./dsa-2618">DSA-2618 ircd-hybrid</a></strong> - denial of service <br>
+<tt>[02 Feb 2013]</tt> <strong><a href="./dsa-2617">DSA-2617 samba</a></strong> - several issues <br>
+<tt>[03 Feb 2013]</tt> <strong><a href="./dsa-2616">DSA-2616 nagios3</a></strong> - buffer overflow in CGI scripts <br>
+<tt>[01 Feb 2013]</tt> <strong><a href="./dsa-2615">DSA-2615 libupnp4</a></strong> - several vulnerabilities <br>
+<tt>[01 Feb 2013]</tt> <strong><a href="./dsa-2614">DSA-2614 libupnp</a></strong> - several vulnerabilities <br>
+<tt>[29 Jan 2013]</tt> <strong><a href="./dsa-2613">DSA-2613 rails</a></strong> - insufficient input validation <br>
+<tt>[10 Feb 2013]</tt> <strong><a href="./dsa-2612">DSA-2612 ircd-ratbox</a></strong> - programming error <br>
+<tt>[22 Jan 2013]</tt> <strong><a href="./dsa-2611">DSA-2611 movabletype-opensource</a></strong> - several vulnerabilities <br>
+<tt>[21 Jan 2013]</tt> <strong><a href="./dsa-2610">DSA-2610 ganglia</a></strong> - arbitrary script execution <br>
+<tt>[16 Jan 2013]</tt> <strong><a href="./dsa-2609">DSA-2609 rails</a></strong> - SQL query manipulation <br>
+<tt>[15 Jan 2013]</tt> <strong><a href="./dsa-2608">DSA-2608 qemu</a></strong> - buffer overflow <br>
+<tt>[15 Jan 2013]</tt> <strong><a href="./dsa-2607">DSA-2607 qemu-kvm</a></strong> - buffer overflow <br>
+<tt>[13 Jan 2013]</tt> <strong><a href="./dsa-2606">DSA-2606 proftpd-dfsg</a></strong> - symlink race <br>
+<tt>[19 Jan 2013]</tt> <strong><a href="./dsa-2605">DSA-2605 asterisk</a></strong> - several issues <br>
+<tt>[09 Jan 2013]</tt> <strong><a href="./dsa-2604">DSA-2604 rails</a></strong> - insufficient input validation <br>
+<tt>[09 Jan 2013]</tt> <strong><a href="./dsa-2603">DSA-2603 emacs23</a></strong> - programming error <br>
+<tt>[08 Jan 2013]</tt> <strong><a href="./dsa-2602">DSA-2602 zendframework</a></strong> - XML external entity inclusion <br>
+<tt>[06 Jan 2013]</tt> <strong><a href="./dsa-2601">DSA-2601 gnupg, gnupg2</a></strong> - missing input sanitation <br>
+<tt>[06 Jan 2013]</tt> <strong><a href="./dsa-2600">DSA-2600 cups</a></strong> - privilege escalation <br>
+<tt>[06 Jan 2013]</tt> <strong><a href="./dsa-2599">DSA-2599 nss</a></strong> - mis-issued intermediates <br>
+<tt>[05 Jan 2013]</tt> <strong><a href="./dsa-2598">DSA-2598 weechat</a></strong> - several vulnerabilities <br>
+<tt>[04 Jan 2013]</tt> <strong><a href="./dsa-2597">DSA-2597 rails</a></strong> - input validation error <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2013/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.de.html" title="German" hreflang="de" lang="de" rel="alternate">Deutsch</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.ja.html" title="Japanese" hreflang="ja" lang="ja" rel="alternate">&#26085;&#26412;&#35486;&nbsp;(Nihongo)</a>
+ <a href="index.pl.html" title="Polish" hreflang="pl" lang="pl" rel="alternate">polski</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Fri, May 24 20:56:03 UTC 2019
+&emsp;
+Last Built: Sun, Dec 19 00:28:06 UTC 2021
+  <br>
+  Copyright &copy; 2013-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

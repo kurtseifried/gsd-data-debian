@@ -1,0 +1,383 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Debian -- Security Advisories from 2020 </title>
+  <link rel="author" href="mailto:webmaster@debian.org">
+  <meta name="Generator" content="WML 2.12.2">
+  <meta name="Modified" content="2021-12-19 00:42:27">
+  <meta name="viewport" content="width=device-width">
+  <meta name="mobileoptimized" content="300">
+  <meta name="HandheldFriendly" content="true">
+<link href="../../debian.css" rel="stylesheet" type="text/css">
+  <link href="../../debian-en.css" rel="stylesheet" type="text/css" media="all">
+<link rel="search" type="application/opensearchdescription+xml" title="Debian website search" href="../../search.en.xml">
+</head>
+<body>
+<div id="header">
+  <div id="upperheader">
+    <div id="logo">
+    <a href="../../" title="Debian Home"><img src="../../Pics/openlogo-50.png" alt="Debian" width="50" height="61"></a>
+    </div> <!-- end logo -->
+    <div id="searchbox">
+      <form name="p" method="get" action="https://search.debian.org/cgi-bin/omega">
+      <p>
+<input type="hidden" name="DB" value="en">
+        <input name="P" value="" size="14">
+        <input type="submit" value="Search">
+      </p>
+      </form>
+    </div>   <!-- end sitetools -->
+  </div> <!-- end upperheader -->
+  <!--UdmComment-->
+  <div id="navbar">
+    <p class="hidecss"><a href="#content">Skip Quicknav</a></p>
+    <ul>
+      <!-- Link to Debian's own Social Media resources -->
+      <li><a href="https://bits.debian.org/" title="Bits from Debian">Blog</a></li>
+      <li><a href="https://micronews.debian.org" title="Micronews from Debian">Micronews</a></li>
+      <li><a href="https://planet.debian.org/" title="The Planet of Debian">Planet</a></li>
+    </ul>
+  </div> <!-- end navbar -->
+<p id="breadcrumbs"><a href="../">Security Information</a>
+ &#x2F;
+Security Advisories from 2020</p>
+</div> <!-- end header -->
+<!--/UdmComment-->
+<div id="content">
+<h1>Security Advisories from 2020</h1>
+<tt>[28 Dec 2020]</tt> <strong><a href="./dsa-4821">DSA-4821 roundcube</a></strong> - security update <br>
+<tt>[27 Dec 2020]</tt> <strong><a href="./dsa-4820">DSA-4820 horizon</a></strong> - security update <br>
+<tt>[26 Dec 2020]</tt> <strong><a href="./dsa-4819">DSA-4819 kitty</a></strong> - security update <br>
+<tt>[23 Dec 2020]</tt> <strong><a href="./dsa-4818">DSA-4818 sympa</a></strong> - security update <br>
+<tt>[19 Dec 2020]</tt> <strong><a href="./dsa-4817">DSA-4817 php-pear</a></strong> - security update <br>
+<tt>[18 Dec 2020]</tt> <strong><a href="./dsa-4816">DSA-4816 mediawiki</a></strong> - security update <br>
+<tt>[17 Dec 2020]</tt> <strong><a href="./dsa-4815">DSA-4815 thunderbird</a></strong> - security update <br>
+<tt>[17 Dec 2020]</tt> <strong><a href="./dsa-4814">DSA-4814 xerces-c</a></strong> - security update <br>
+<tt>[16 Dec 2020]</tt> <strong><a href="./dsa-4813">DSA-4813 firefox-esr</a></strong> - security update <br>
+<tt>[15 Dec 2020]</tt> <strong><a href="./dsa-4812">DSA-4812 xen</a></strong> - security update <br>
+<tt>[15 Dec 2020]</tt> <strong><a href="./dsa-4811">DSA-4811 libxstream-java</a></strong> - security update <br>
+<tt>[13 Dec 2020]</tt> <strong><a href="./dsa-4810">DSA-4810 lxml</a></strong> - security update <br>
+<tt>[09 Dec 2020]</tt> <strong><a href="./dsa-4809">DSA-4809 python-apt</a></strong> - security update <br>
+<tt>[09 Dec 2020]</tt> <strong><a href="./dsa-4808">DSA-4808 apt</a></strong> - security update <br>
+<tt>[08 Dec 2020]</tt> <strong><a href="./dsa-4807">DSA-4807 openssl</a></strong> - security update <br>
+<tt>[07 Dec 2020]</tt> <strong><a href="./dsa-4806">DSA-4806 minidlna</a></strong> - security update <br>
+<tt>[07 Dec 2020]</tt> <strong><a href="./dsa-4805">DSA-4805 trafficserver</a></strong> - security update <br>
+<tt>[04 Dec 2020]</tt> <strong><a href="./dsa-4804">DSA-4804 xen</a></strong> - security update <br>
+<tt>[04 Dec 2020]</tt> <strong><a href="./dsa-4803">DSA-4803 xorg-server</a></strong> - security update <br>
+<tt>[03 Dec 2020]</tt> <strong><a href="./dsa-4802">DSA-4802 thunderbird</a></strong> - security update <br>
+<tt>[01 Dec 2020]</tt> <strong><a href="./dsa-4801">DSA-4801 brotli</a></strong> - security update <br>
+<tt>[28 Nov 2020]</tt> <strong><a href="./dsa-4800">DSA-4800 libproxy</a></strong> - security update <br>
+<tt>[28 Nov 2020]</tt> <strong><a href="./dsa-4799">DSA-4799 x11vnc</a></strong> - security update <br>
+<tt>[25 Nov 2020]</tt> <strong><a href="./dsa-4798">DSA-4798 spip</a></strong> - security update <br>
+<tt>[23 Nov 2020]</tt> <strong><a href="./dsa-4797">DSA-4797 webkit2gtk</a></strong> - security update <br>
+<tt>[21 Nov 2020]</tt> <strong><a href="./dsa-4796">DSA-4796 thunderbird</a></strong> - security update <br>
+<tt>[21 Nov 2020]</tt> <strong><a href="./dsa-4795">DSA-4795 krb5</a></strong> - security update <br>
+<tt>[21 Nov 2020]</tt> <strong><a href="./dsa-4794">DSA-4794 mupdf</a></strong> - security update <br>
+<tt>[18 Nov 2020]</tt> <strong><a href="./dsa-4793">DSA-4793 firefox-esr</a></strong> - security update <br>
+<tt>[17 Nov 2020]</tt> <strong><a href="./dsa-4792">DSA-4792 openldap</a></strong> - security update <br>
+<tt>[13 Nov 2020]</tt> <strong><a href="./dsa-4791">DSA-4791 pacemaker</a></strong> - security update <br>
+<tt>[12 Nov 2020]</tt> <strong><a href="./dsa-4790">DSA-4790 thunderbird</a></strong> - security update <br>
+<tt>[12 Nov 2020]</tt> <strong><a href="./dsa-4789">DSA-4789 codemirror-js</a></strong> - security update <br>
+<tt>[10 Nov 2020]</tt> <strong><a href="./dsa-4788">DSA-4788 firefox-esr</a></strong> - security update <br>
+<tt>[09 Nov 2020]</tt> <strong><a href="./dsa-4787">DSA-4787 moin</a></strong> - security update <br>
+<tt>[08 Nov 2020]</tt> <strong><a href="./dsa-4786">DSA-4786 libexif</a></strong> - security update <br>
+<tt>[07 Nov 2020]</tt> <strong><a href="./dsa-4785">DSA-4785 raptor2</a></strong> - security update <br>
+<tt>[06 Nov 2020]</tt> <strong><a href="./dsa-4784">DSA-4784 wordpress</a></strong> - security update <br>
+<tt>[05 Nov 2020]</tt> <strong><a href="./dsa-4783">DSA-4783 sddm</a></strong> - security update <br>
+<tt>[30 Oct 2020]</tt> <strong><a href="./dsa-4782">DSA-4782 openldap</a></strong> - security update <br>
+<tt>[27 Oct 2020]</tt> <strong><a href="./dsa-4781">DSA-4781 blueman</a></strong> - security update <br>
+<tt>[25 Oct 2020]</tt> <strong><a href="./dsa-4780">DSA-4780 thunderbird</a></strong> - security update <br>
+<tt>[25 Oct 2020]</tt> <strong><a href="./dsa-4779">DSA-4779 openjdk-11</a></strong> - security update <br>
+<tt>[21 Oct 2020]</tt> <strong><a href="./dsa-4778">DSA-4778 firefox-esr</a></strong> - security update <br>
+<tt>[21 Oct 2020]</tt> <strong><a href="./dsa-4777">DSA-4777 freetype</a></strong> - security update <br>
+<tt>[20 Oct 2020]</tt> <strong><a href="./dsa-4776">DSA-4776 mariadb-10.3</a></strong> - security update <br>
+<tt>[19 Oct 2020]</tt> <strong><a href="./dsa-4775">DSA-4775 python-flask-cors</a></strong> - security update <br>
+<tt>[19 Oct 2020]</tt> <strong><a href="./dsa-4774">DSA-4774 linux</a></strong> - security update <br>
+<tt>[16 Oct 2020]</tt> <strong><a href="./dsa-4773">DSA-4773 yaws</a></strong> - security update <br>
+<tt>[14 Oct 2020]</tt> <strong><a href="./dsa-4772">DSA-4772 httpcomponents-client</a></strong> - security update <br>
+<tt>[11 Oct 2020]</tt> <strong><a href="./dsa-4771">DSA-4771 spice</a></strong> - security update <br>
+<tt>[06 Oct 2020]</tt> <strong><a href="./dsa-4770">DSA-4770 thunderbird</a></strong> - security update <br>
+<tt>[02 Oct 2020]</tt> <strong><a href="./dsa-4769">DSA-4769 xen</a></strong> - security update <br>
+<tt>[28 Sep 2020]</tt> <strong><a href="./dsa-4768">DSA-4768 firefox-esr</a></strong> - security update <br>
+<tt>[25 Sep 2020]</tt> <strong><a href="./dsa-4767">DSA-4767 mediawiki</a></strong> - security update <br>
+<tt>[24 Sep 2020]</tt> <strong><a href="./dsa-4766">DSA-4766 rails</a></strong> - security update <br>
+<tt>[18 Sep 2020]</tt> <strong><a href="./dsa-4765">DSA-4765 modsecurity</a></strong> - security update <br>
+<tt>[18 Sep 2020]</tt> <strong><a href="./dsa-4764">DSA-4764 inspircd</a></strong> - security update <br>
+<tt>[14 Sep 2020]</tt> <strong><a href="./dsa-4763">DSA-4763 teeworlds</a></strong> - security update <br>
+<tt>[07 Sep 2020]</tt> <strong><a href="./dsa-4762">DSA-4762 lemonldap-ng</a></strong> - security update <br>
+<tt>[07 Sep 2020]</tt> <strong><a href="./dsa-4761">DSA-4761 zeromq3</a></strong> - security update <br>
+<tt>[06 Sep 2020]</tt> <strong><a href="./dsa-4760">DSA-4760 qemu</a></strong> - security update <br>
+<tt>[04 Sep 2020]</tt> <strong><a href="./dsa-4759">DSA-4759 ark</a></strong> - security update <br>
+<tt>[04 Sep 2020]</tt> <strong><a href="./dsa-4758">DSA-4758 xorg-server</a></strong> - security update <br>
+<tt>[31 Aug 2020]</tt> <strong><a href="./dsa-4757">DSA-4757 apache2</a></strong> - security update <br>
+<tt>[29 Aug 2020]</tt> <strong><a href="./dsa-4756">DSA-4756 lilypond</a></strong> - security update <br>
+<tt>[29 Aug 2020]</tt> <strong><a href="./dsa-4755">DSA-4755 openexr</a></strong> - security update <br>
+<tt>[29 Aug 2020]</tt> <strong><a href="./dsa-4754">DSA-4754 thunderbird</a></strong> - security update <br>
+<tt>[29 Aug 2020]</tt> <strong><a href="./dsa-4753">DSA-4753 mupdf</a></strong> - security update <br>
+<tt>[27 Aug 2020]</tt> <strong><a href="./dsa-4752">DSA-4752 bind9</a></strong> - security update <br>
+<tt>[27 Aug 2020]</tt> <strong><a href="./dsa-4751">DSA-4751 squid</a></strong> - security update <br>
+<tt>[26 Aug 2020]</tt> <strong><a href="./dsa-4750">DSA-4750 nginx</a></strong> - security update <br>
+<tt>[26 Aug 2020]</tt> <strong><a href="./dsa-4749">DSA-4749 firefox-esr</a></strong> - security update <br>
+<tt>[25 Aug 2020]</tt> <strong><a href="./dsa-4748">DSA-4748 ghostscript</a></strong> - security update <br>
+<tt>[23 Aug 2020]</tt> <strong><a href="./dsa-4747">DSA-4747 icingaweb2</a></strong> - security update <br>
+<tt>[15 Aug 2020]</tt> <strong><a href="./dsa-4746">DSA-4746 net-snmp</a></strong> - security update <br>
+<tt>[12 Aug 2020]</tt> <strong><a href="./dsa-4745">DSA-4745 dovecot</a></strong> - security update <br>
+<tt>[12 Aug 2020]</tt> <strong><a href="./dsa-4744">DSA-4744 roundcube</a></strong> - security update <br>
+<tt>[10 Aug 2020]</tt> <strong><a href="./dsa-4743">DSA-4743 ruby-kramdown</a></strong> - security update <br>
+<tt>[06 Aug 2020]</tt> <strong><a href="./dsa-4742">DSA-4742 firejail</a></strong> - security update <br>
+<tt>[05 Aug 2020]</tt> <strong><a href="./dsa-4741">DSA-4741 json-c</a></strong> - security update <br>
+<tt>[02 Aug 2020]</tt> <strong><a href="./dsa-4740">DSA-4740 thunderbird</a></strong> - security update <br>
+<tt>[03 Aug 2020]</tt> <strong><a href="./dsa-4739">DSA-4739 webkit2gtk</a></strong> - security update <br>
+<tt>[31 Jul 2020]</tt> <strong><a href="./dsa-4738">DSA-4738 ark</a></strong> - security update <br>
+<tt>[29 Jul 2020]</tt> <strong><a href="./dsa-4737">DSA-4737 xrdp</a></strong> - security update <br>
+<tt>[29 Jul 2020]</tt> <strong><a href="./dsa-4736">DSA-4736 firefox-esr</a></strong> - security update <br>
+<tt>[29 Jul 2020]</tt> <strong><a href="./dsa-4735">DSA-4735 grub2</a></strong> - security update <br>
+<tt>[26 Jul 2020]</tt> <strong><a href="./dsa-4734">DSA-4734 openjdk-11</a></strong> - security update <br>
+<tt>[24 Jul 2020]</tt> <strong><a href="./dsa-4733">DSA-4733 qemu</a></strong> - security update <br>
+<tt>[21 Jul 2020]</tt> <strong><a href="./dsa-4732">DSA-4732 squid</a></strong> - security update <br>
+<tt>[19 Jul 2020]</tt> <strong><a href="./dsa-4731">DSA-4731 redis</a></strong> - security update <br>
+<tt>[19 Jul 2020]</tt> <strong><a href="./dsa-4730">DSA-4730 ruby-sanitize</a></strong> - security update <br>
+<tt>[19 Jul 2020]</tt> <strong><a href="./dsa-4729">DSA-4729 libopenmpt</a></strong> - security update <br>
+<tt>[19 Jul 2020]</tt> <strong><a href="./dsa-4728">DSA-4728 qemu</a></strong> - security update <br>
+<tt>[17 Jul 2020]</tt> <strong><a href="./dsa-4727">DSA-4727 tomcat9</a></strong> - security update <br>
+<tt>[17 Jul 2020]</tt> <strong><a href="./dsa-4726">DSA-4726 nss</a></strong> - security update <br>
+<tt>[15 Jul 2020]</tt> <strong><a href="./dsa-4725">DSA-4725 evolution-data-server</a></strong> - security update <br>
+<tt>[15 Jul 2020]</tt> <strong><a href="./dsa-4724">DSA-4724 webkit2gtk</a></strong> - security update <br>
+<tt>[12 Jul 2020]</tt> <strong><a href="./dsa-4723">DSA-4723 xen</a></strong> - security update <br>
+<tt>[08 Jul 2020]</tt> <strong><a href="./dsa-4722">DSA-4722 ffmpeg</a></strong> - security update <br>
+<tt>[08 Jul 2020]</tt> <strong><a href="./dsa-4721">DSA-4721 ruby2.5</a></strong> - security update <br>
+<tt>[08 Jul 2020]</tt> <strong><a href="./dsa-4720">DSA-4720 roundcube</a></strong> - security update <br>
+<tt>[06 Jul 2020]</tt> <strong><a href="./dsa-4719">DSA-4719 php7.3</a></strong> - security update <br>
+<tt>[05 Jul 2020]</tt> <strong><a href="./dsa-4718">DSA-4718 thunderbird</a></strong> - security update <br>
+<tt>[05 Jul 2020]</tt> <strong><a href="./dsa-4717">DSA-4717 php7.0</a></strong> - security update <br>
+<tt>[02 Jul 2020]</tt> <strong><a href="./dsa-4716">DSA-4716 docker.io</a></strong> - security update <br>
+<tt>[02 Jul 2020]</tt> <strong><a href="./dsa-4715">DSA-4715 imagemagick</a></strong> - security update <br>
+<tt>[01 Jul 2020]</tt> <strong><a href="./dsa-4714">DSA-4714 chromium</a></strong> - security update <br>
+<tt>[01 Jul 2020]</tt> <strong><a href="./dsa-4713">DSA-4713 firefox-esr</a></strong> - security update <br>
+<tt>[30 Jun 2020]</tt> <strong><a href="./dsa-4712">DSA-4712 imagemagick</a></strong> - security update <br>
+<tt>[29 Jun 2020]</tt> <strong><a href="./dsa-4711">DSA-4711 coturn</a></strong> - security update <br>
+<tt>[27 Jun 2020]</tt> <strong><a href="./dsa-4710">DSA-4710 trafficserver</a></strong> - security update <br>
+<tt>[23 Jun 2020]</tt> <strong><a href="./dsa-4709">DSA-4709 wordpress</a></strong> - security update <br>
+<tt>[21 Jun 2020]</tt> <strong><a href="./dsa-4708">DSA-4708 neomutt</a></strong> - security update <br>
+<tt>[19 Jun 2020]</tt> <strong><a href="./dsa-4707">DSA-4707 mutt</a></strong> - security update <br>
+<tt>[18 Jun 2020]</tt> <strong><a href="./dsa-4706">DSA-4706 drupal7</a></strong> - security update <br>
+<tt>[18 Jun 2020]</tt> <strong><a href="./dsa-4705">DSA-4705 python-django</a></strong> - security update <br>
+<tt>[16 Jun 2020]</tt> <strong><a href="./dsa-4704">DSA-4704 vlc</a></strong> - security update <br>
+<tt>[11 Jun 2020]</tt> <strong><a href="./dsa-4703">DSA-4703 mysql-connector-java</a></strong> - security update <br>
+<tt>[11 Jun 2020]</tt> <strong><a href="./dsa-4702">DSA-4702 thunderbird</a></strong> - security update <br>
+<tt>[11 Jun 2020]</tt> <strong><a href="./dsa-4701">DSA-4701 intel-microcode</a></strong> - security update <br>
+<tt>[11 Jun 2020]</tt> <strong><a href="./dsa-4700">DSA-4700 roundcube</a></strong> - security update <br>
+<tt>[09 Jun 2020]</tt> <strong><a href="./dsa-4699">DSA-4699 linux</a></strong> - security update <br>
+<tt>[09 Jun 2020]</tt> <strong><a href="./dsa-4698">DSA-4698 linux</a></strong> - security update <br>
+<tt>[06 Jun 2020]</tt> <strong><a href="./dsa-4697">DSA-4697 gnutls28</a></strong> - security update <br>
+<tt>[06 Jun 2020]</tt> <strong><a href="./dsa-4696">DSA-4696 nodejs</a></strong> - security update <br>
+<tt>[03 Jun 2020]</tt> <strong><a href="./dsa-4695">DSA-4695 firefox-esr</a></strong> - security update <br>
+<tt>[26 May 2020]</tt> <strong><a href="./dsa-4694">DSA-4694 unbound</a></strong> - security update <br>
+<tt>[26 May 2020]</tt> <strong><a href="./dsa-4693">DSA-4693 drupal7</a></strong> - security update <br>
+<tt>[24 May 2020]</tt> <strong><a href="./dsa-4692">DSA-4692 netqmail</a></strong> - security update <br>
+<tt>[21 May 2020]</tt> <strong><a href="./dsa-4691">DSA-4691 pdns-recursor</a></strong> - security update <br>
+<tt>[20 May 2020]</tt> <strong><a href="./dsa-4690">DSA-4690 dovecot</a></strong> - security update <br>
+<tt>[19 May 2020]</tt> <strong><a href="./dsa-4689">DSA-4689 bind9</a></strong> - security update <br>
+<tt>[18 May 2020]</tt> <strong><a href="./dsa-4688">DSA-4688 dpdk</a></strong> - security update <br>
+<tt>[16 May 2020]</tt> <strong><a href="./dsa-4687">DSA-4687 exim4</a></strong> - security update <br>
+<tt>[16 May 2020]</tt> <strong><a href="./dsa-4686">DSA-4686 apache-log4j1.2</a></strong> - security update <br>
+<tt>[14 May 2020]</tt> <strong><a href="./dsa-4685">DSA-4685 apt</a></strong> - security update <br>
+<tt>[13 May 2020]</tt> <strong><a href="./dsa-4684">DSA-4684 libreswan</a></strong> - security update <br>
+<tt>[08 May 2020]</tt> <strong><a href="./dsa-4683">DSA-4683 thunderbird</a></strong> - security update <br>
+<tt>[08 May 2020]</tt> <strong><a href="./dsa-4682">DSA-4682 squid</a></strong> - security update <br>
+<tt>[07 May 2020]</tt> <strong><a href="./dsa-4681">DSA-4681 webkit2gtk</a></strong> - security update <br>
+<tt>[06 May 2020]</tt> <strong><a href="./dsa-4680">DSA-4680 tomcat9</a></strong> - security update <br>
+<tt>[06 May 2020]</tt> <strong><a href="./dsa-4679">DSA-4679 keystone</a></strong> - security update <br>
+<tt>[06 May 2020]</tt> <strong><a href="./dsa-4678">DSA-4678 firefox-esr</a></strong> - security update <br>
+<tt>[06 May 2020]</tt> <strong><a href="./dsa-4677">DSA-4677 wordpress</a></strong> - security update <br>
+<tt>[06 May 2020]</tt> <strong><a href="./dsa-4676">DSA-4676 salt</a></strong> - security update <br>
+<tt>[05 May 2020]</tt> <strong><a href="./dsa-4675">DSA-4675 graphicsmagick</a></strong> - security update <br>
+<tt>[05 May 2020]</tt> <strong><a href="./dsa-4674">DSA-4674 roundcube</a></strong> - security update <br>
+<tt>[03 May 2020]</tt> <strong><a href="./dsa-4673">DSA-4673 tomcat8</a></strong> - security update <br>
+<tt>[01 May 2020]</tt> <strong><a href="./dsa-4672">DSA-4672 trafficserver</a></strong> - security update <br>
+<tt>[30 Apr 2020]</tt> <strong><a href="./dsa-4671">DSA-4671 vlc</a></strong> - security update <br>
+<tt>[29 Apr 2020]</tt> <strong><a href="./dsa-4670">DSA-4670 tiff</a></strong> - security update <br>
+<tt>[29 Apr 2020]</tt> <strong><a href="./dsa-4669">DSA-4669 nodejs</a></strong> - security update <br>
+<tt>[28 Apr 2020]</tt> <strong><a href="./dsa-4668">DSA-4668 openjdk-8</a></strong> - security update <br>
+<tt>[28 Apr 2020]</tt> <strong><a href="./dsa-4667">DSA-4667 linux</a></strong> - security update <br>
+<tt>[28 Apr 2020]</tt> <strong><a href="./dsa-4666">DSA-4666 openldap</a></strong> - security update <br>
+<tt>[27 Apr 2020]</tt> <strong><a href="./dsa-4665">DSA-4665 qemu</a></strong> - security update <br>
+<tt>[26 Apr 2020]</tt> <strong><a href="./dsa-4664">DSA-4664 mailman</a></strong> - security update <br>
+<tt>[25 Apr 2020]</tt> <strong><a href="./dsa-4663">DSA-4663 python-reportlab</a></strong> - security update <br>
+<tt>[24 Apr 2020]</tt> <strong><a href="./dsa-4662">DSA-4662 openjdk-11</a></strong> - security update <br>
+<tt>[21 Apr 2020]</tt> <strong><a href="./dsa-4661">DSA-4661 openssl</a></strong> - security update <br>
+<tt>[21 Apr 2020]</tt> <strong><a href="./dsa-4660">DSA-4660 awl</a></strong> - security update <br>
+<tt>[20 Apr 2020]</tt> <strong><a href="./dsa-4659">DSA-4659 git</a></strong> - security update <br>
+<tt>[16 Apr 2020]</tt> <strong><a href="./dsa-4658">DSA-4658 webkit2gtk</a></strong> - security update <br>
+<tt>[14 Apr 2020]</tt> <strong><a href="./dsa-4657">DSA-4657 git</a></strong> - security update <br>
+<tt>[13 Apr 2020]</tt> <strong><a href="./dsa-4656">DSA-4656 thunderbird</a></strong> - security update <br>
+<tt>[08 Apr 2020]</tt> <strong><a href="./dsa-4655">DSA-4655 firefox-esr</a></strong> - security update <br>
+<tt>[07 Apr 2020]</tt> <strong><a href="./dsa-4654">DSA-4654 chromium</a></strong> - security update <br>
+<tt>[04 Apr 2020]</tt> <strong><a href="./dsa-4653">DSA-4653 firefox-esr</a></strong> - security update <br>
+<tt>[04 Apr 2020]</tt> <strong><a href="./dsa-4652">DSA-4652 gnutls28</a></strong> - security update <br>
+<tt>[02 Apr 2020]</tt> <strong><a href="./dsa-4651">DSA-4651 mediawiki</a></strong> - security update <br>
+<tt>[02 Apr 2020]</tt> <strong><a href="./dsa-4650">DSA-4650 qbittorrent</a></strong> - security update <br>
+<tt>[02 Apr 2020]</tt> <strong><a href="./dsa-4649">DSA-4649 haproxy</a></strong> - security update <br>
+<tt>[31 Mar 2020]</tt> <strong><a href="./dsa-4648">DSA-4648 libpam-krb5</a></strong> - security update <br>
+<tt>[26 Mar 2020]</tt> <strong><a href="./dsa-4647">DSA-4647 bluez</a></strong> - security update <br>
+<tt>[25 Mar 2020]</tt> <strong><a href="./dsa-4646">DSA-4646 icu</a></strong> - security update <br>
+<tt>[22 Mar 2020]</tt> <strong><a href="./dsa-4645">DSA-4645 chromium</a></strong> - security update <br>
+<tt>[20 Mar 2020]</tt> <strong><a href="./dsa-4644">DSA-4644 tor</a></strong> - security update <br>
+<tt>[20 Mar 2020]</tt> <strong><a href="./dsa-4643">DSA-4643 python-bleach</a></strong> - security update <br>
+<tt>[19 Mar 2020]</tt> <strong><a href="./dsa-4642">DSA-4642 thunderbird</a></strong> - security update <br>
+<tt>[16 Mar 2020]</tt> <strong><a href="./dsa-4641">DSA-4641 webkit2gtk</a></strong> - security update <br>
+<tt>[15 Mar 2020]</tt> <strong><a href="./dsa-4640">DSA-4640 graphicsmagick</a></strong> - security update <br>
+<tt>[11 Mar 2020]</tt> <strong><a href="./dsa-4639">DSA-4639 firefox-esr</a></strong> - security update <br>
+<tt>[10 Mar 2020]</tt> <strong><a href="./dsa-4638">DSA-4638 chromium</a></strong> - security update <br>
+<tt>[09 Mar 2020]</tt> <strong><a href="./dsa-4637">DSA-4637 network-manager-ssh</a></strong> - security update <br>
+<tt>[28 Feb 2020]</tt> <strong><a href="./dsa-4636">DSA-4636 python-bleach</a></strong> - security update <br>
+<tt>[26 Feb 2020]</tt> <strong><a href="./dsa-4635">DSA-4635 proftpd-dfsg</a></strong> - security update <br>
+<tt>[26 Feb 2020]</tt> <strong><a href="./dsa-4634">DSA-4634 opensmtpd</a></strong> - security update <br>
+<tt>[22 Feb 2020]</tt> <strong><a href="./dsa-4633">DSA-4633 curl</a></strong> - security update <br>
+<tt>[22 Feb 2020]</tt> <strong><a href="./dsa-4632">DSA-4632 ppp</a></strong> - security update <br>
+<tt>[21 Feb 2020]</tt> <strong><a href="./dsa-4631">DSA-4631 pillow</a></strong> - security update <br>
+<tt>[21 Feb 2020]</tt> <strong><a href="./dsa-4630">DSA-4630 python-pysaml2</a></strong> - security update <br>
+<tt>[19 Feb 2020]</tt> <strong><a href="./dsa-4629">DSA-4629 python-django</a></strong> - security update <br>
+<tt>[18 Feb 2020]</tt> <strong><a href="./dsa-4628">DSA-4628 php7.0</a></strong> - security update <br>
+<tt>[17 Feb 2020]</tt> <strong><a href="./dsa-4627">DSA-4627 webkit2gtk</a></strong> - security update <br>
+<tt>[17 Feb 2020]</tt> <strong><a href="./dsa-4626">DSA-4626 php7.3</a></strong> - security update <br>
+<tt>[15 Feb 2020]</tt> <strong><a href="./dsa-4625">DSA-4625 thunderbird</a></strong> - security update <br>
+<tt>[14 Feb 2020]</tt> <strong><a href="./dsa-4624">DSA-4624 evince</a></strong> - security update <br>
+<tt>[13 Feb 2020]</tt> <strong><a href="./dsa-4623">DSA-4623 postgresql-11</a></strong> - security update <br>
+<tt>[13 Feb 2020]</tt> <strong><a href="./dsa-4622">DSA-4622 postgresql-9.6</a></strong> - security update <br>
+<tt>[12 Feb 2020]</tt> <strong><a href="./dsa-4621">DSA-4621 openjdk-8</a></strong> - security update <br>
+<tt>[12 Feb 2020]</tt> <strong><a href="./dsa-4620">DSA-4620 firefox-esr</a></strong> - security update <br>
+<tt>[06 Feb 2020]</tt> <strong><a href="./dsa-4619">DSA-4619 libxmlrpc3-java</a></strong> - security update <br>
+<tt>[06 Feb 2020]</tt> <strong><a href="./dsa-4618">DSA-4618 libexif</a></strong> - security update <br>
+<tt>[03 Feb 2020]</tt> <strong><a href="./dsa-4617">DSA-4617 qtbase-opensource-src</a></strong> - security update <br>
+<tt>[02 Feb 2020]</tt> <strong><a href="./dsa-4616">DSA-4616 qemu</a></strong> - security update <br>
+<tt>[01 Feb 2020]</tt> <strong><a href="./dsa-4615">DSA-4615 spamassassin</a></strong> - security update <br>
+<tt>[01 Feb 2020]</tt> <strong><a href="./dsa-4614">DSA-4614 sudo</a></strong> - security update <br>
+<tt>[01 Feb 2020]</tt> <strong><a href="./dsa-4613">DSA-4613 libidn2</a></strong> - security update <br>
+<tt>[31 Jan 2020]</tt> <strong><a href="./dsa-4612">DSA-4612 prosody-modules</a></strong> - security update <br>
+<tt>[29 Jan 2020]</tt> <strong><a href="./dsa-4611">DSA-4611 opensmtpd</a></strong> - security update <br>
+<tt>[29 Jan 2020]</tt> <strong><a href="./dsa-4610">DSA-4610 webkit2gtk</a></strong> - security update <br>
+<tt>[23 Jan 2020]</tt> <strong><a href="./dsa-4609">DSA-4609 python-apt</a></strong> - security update <br>
+<tt>[21 Jan 2020]</tt> <strong><a href="./dsa-4608">DSA-4608 tiff</a></strong> - security update <br>
+<tt>[20 Jan 2020]</tt> <strong><a href="./dsa-4607">DSA-4607 openconnect</a></strong> - security update <br>
+<tt>[20 Jan 2020]</tt> <strong><a href="./dsa-4606">DSA-4606 chromium</a></strong> - security update <br>
+<tt>[19 Jan 2020]</tt> <strong><a href="./dsa-4605">DSA-4605 openjdk-11</a></strong> - security update <br>
+<tt>[19 Jan 2020]</tt> <strong><a href="./dsa-4604">DSA-4604 cacti</a></strong> - security update <br>
+<tt>[17 Jan 2020]</tt> <strong><a href="./dsa-4603">DSA-4603 thunderbird</a></strong> - security update <br>
+<tt>[13 Jan 2020]</tt> <strong><a href="./dsa-4602">DSA-4602 xen</a></strong> - security update <br>
+<tt>[09 Jan 2020]</tt> <strong><a href="./dsa-4601">DSA-4601 ldm</a></strong> - security update <br>
+<tt>[09 Jan 2020]</tt> <strong><a href="./dsa-4600">DSA-4600 firefox-esr</a></strong> - security update <br>
+<tt>[08 Jan 2020]</tt> <strong><a href="./dsa-4599">DSA-4599 wordpress</a></strong> - security update <br>
+<tt>[07 Jan 2020]</tt> <strong><a href="./dsa-4598">DSA-4598 python-django</a></strong> - security update <br>
+<tt>[03 Jan 2020]</tt> <strong><a href="./dsa-4597">DSA-4597 netty</a></strong> - security update <br>
+<p>You can get the latest Debian security advisories by subscribing to our
+<a href="https://lists.debian.org/debian-security-announce/"><strong>debian-security-announce</strong></a> mailing list.
+You can also <a href="https://lists.debian.org/debian-security-announce/debian-security-announce-2020/">browse the archives</a> for the list.</p>
+<div class="clr"></div>
+</div> <!-- end content -->
+<div id="footer">
+<hr class="hidecss">
+<p>Back to the <a href="../../">Debian Project homepage</a>.</p>
+<hr>
+<!--UdmComment-->
+<div id="pageLang">
+<div id="langSelector">
+This page is also available in the following languages:
+<div id="langContainer">
+ <a href="index.da.html" title="Danish" hreflang="da" lang="da" rel="alternate">dansk</a>
+ <a href="index.es.html" title="Spanish" hreflang="es" lang="es" rel="alternate">espa&ntilde;ol</a>
+ <a href="index.fr.html" title="French" hreflang="fr" lang="fr" rel="alternate">fran&ccedil;ais</a>
+ <a href="index.it.html" title="Italian" hreflang="it" lang="it" rel="alternate">Italiano</a>
+ <a href="index.ko.html" title="Korean" hreflang="ko" lang="ko" rel="alternate">&#54620;&#44397;&#50612;&nbsp;(Korean)</a>
+ <a href="index.nl.html" title="Dutch" hreflang="nl" lang="nl" rel="alternate">Nederlands</a>
+ <a href="index.pt.html" title="Portuguese" hreflang="pt" lang="pt" rel="alternate">Portugu&ecirc;s</a>
+ <a href="index.ru.html" title="Russian" hreflang="ru" lang="ru" rel="alternate">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&nbsp;(Russkij)</a>
+ <a href="index.sv.html" title="Swedish" hreflang="sv" lang="sv" rel="alternate">svenska</a>
+</div>
+How to set <a href="../../intro/cn">the default document language</a>
+</div></div><!--/UdmComment-->
+<hr>
+<div id="footermap">
+<!--UdmComment-->
+<p><strong><a href="/">Home</a></strong></p>
+    <ul id="footermap-cola">
+		<li><a href="../../intro/about">About</a>
+		  <ul>
+		  <li><a href="../../social_contract">Social Contract</a></li>
+		  <li><a href="../../code_of_conduct">Code of Conduct</a></li>
+		  <li><a href="../../intro/free">Free Software</a></li>
+		  <li><a href="../../partners/">Partners</a></li>
+		  <li><a href="../../donations">Donations</a></li>
+          <li><a href="../../legal">Legal Info</a></li>
+          <li><a href="../../legal/privacy">Data Privacy</a></li>
+		  <li><a href="../../contact">Contact Us</a></li>
+		  </ul>
+		</li>
+        <li><a href="../../intro/help">Help Debian</a></li>
+    </ul>
+	<ul id="footermap-colb">
+			<li><a href="../../distrib/">Getting Debian</a>
+			  <ul>
+			  <li><a href="../../distrib/netinst">Network install</a></li>
+			  <li><a href="../../CD/">CD/USB ISO images</a></li>
+			  <li><a href="../../CD/vendors/">CD vendors</a></li>
+			  <li><a href="../../distrib/pre-installed">Pre-installed</a></li>
+			  </ul>
+			</li>
+            <li><a href="../../blends/">Pure Blends</a></li>
+			<li><a href="../../distrib/packages">Debian Packages</a></li>
+			<li><a href="../../devel/">Developers' Corner</a></li>
+	</ul>
+	<ul id="footermap-colc">
+		<li><a href="../../News/">News</a>
+		  <ul>
+		  <li><a href="../../News/weekly/">Project News</a></li>
+		  <li><a href="../../events/">Events</a></li>
+		  </ul>
+		</li>
+    <li><a href="../../doc/">Documentation</a>
+      <ul>
+      <li><a href="../../releases/">Release Info</a></li>
+      <li><a href="../../releases/stable/installmanual">Installation manual</a></li>
+      <li><a href="../../doc/books">Debian Books</a></li>
+      <li><a href="https://wiki.debian.org/">Debian Wiki</a></li>
+      </ul>
+    </li>
+   </ul>
+   <ul id="footermap-cold">
+    <li><a href="../../support">Support</a>
+	  <ul>
+			  <li><a href="../../international/">Debian International</a></li>
+			  <li><a href="../../security/">Security Information</a></li>
+			  <li><a href="../../Bugs/">Bug reports</a></li>
+			  <li><a href="../../MailingLists/">Mailing Lists</a></li>
+			  <li><a href="https://lists.debian.org/">Mailing List Archives</a></li>
+			  <li><a href="../../ports/">Ports/Architectures</a></li>
+      </ul>
+    </li>
+</ul>
+<ul id="footermap-cole">
+  <li><a href="../../sitemap">Site map</a></li>
+  <li><a href="https://search.debian.org/">Search</a></li>
+  <li><a href="https://bits.debian.org">The Debian Blog</a></li>
+  <li><a href="https://micronews.debian.org">Debian Micronews</a></li>
+  <li><a href="https://planet.debian.org">Debian Planet</a></li>
+</ul>
+<!--/UdmComment-->
+</div> <!-- end footermap -->
+<div id="fineprint">
+  <p>To report a problem with the web site, please e-mail our publicly archived mailing list <a href="mailto:debian-www@lists.debian.org">debian-www@lists.debian.org</a> in English. For other contact information, see the Debian <a href="../../contact">contact page</a>. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml">available</a>.</p>
+<p>
+Last Modified: Thu, Jan 2 01:34:05 UTC 2020
+&emsp;
+Last Built: Sun, Dec 19 00:42:27 UTC 2021
+  <br>
+  Copyright &copy; 2020-2021
+ <a href="https://www.spi-inc.org/">SPI</a> and others; See <a href="../../license" rel="copyright">license terms</a><br>
+  Debian is a registered <a href="../../trademark">trademark</a> of Software in the Public Interest, Inc.
+</p>
+</div>
+</div> <!-- end footer -->
+</body>
+</html>

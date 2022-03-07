@@ -15,8 +15,8 @@
 #
 import sys
 
-uvi_script_version = "0.1.2"
-uvi_script_name = sys.argv[0]
+gsd_script_version = "0.1.3"
+gsd_script_name = sys.argv[0]
 
 import hashlib
 # Requires Python 3.5 or later
@@ -29,9 +29,9 @@ import scrapy
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-with open(uvi_script_name,"rb") as f:
+with open(gsd_script_name,"rb") as f:
     bytes = f.read() # read entire file as bytes
-    uvi_script_hash = hashlib.sha512(bytes).hexdigest();
+    gsd_script_hash = hashlib.sha512(bytes).hexdigest();
 
 # Kurt knows about Beautifulsoup and scrappy but Kurt also likes regex and state machines and DSA's are shockingly well formatted/regular.
 
@@ -41,14 +41,14 @@ with open(uvi_script_name,"rb") as f:
 global_url_list = sys.argv[1]
 
 #
-# Get the ~/.uvi/config.json and read it into uvi_config
+# Get the ~/.gsd/config.json and read it into gsd_config
 #
 from pathlib import Path
 home = str(Path.home())
-config_file = home + '/.uvi/config.json'
+config_file = home + '/.gsd/config.json'
 with open(config_file) as config_data:
-  uvi_config = json.load(config_data)
-global_uvi_url_downloads = uvi_config["global"]["uvi_url_downloads_repo"]
+  gsd_config = json.load(config_data)
+global_gsd_url_downloads = gsd_config["global"]["gsd_url_downloads_repo"]
 
 #
 # Take a URL, SHA512, find the path to the mirrored data
@@ -69,7 +69,7 @@ with open(global_url_list) as file:
         url_hash_3 = url_hash[4:6]
         url_hash_4 = url_hash[6:8]
 
-        url_directory = global_uvi_url_downloads + "/data/" + url_hash_1 + "/" + url_hash_2 + "/" + url_hash_3 + "/" + url_hash_4 + "/" + url_hash
+        url_directory = global_gsd_url_downloads + "/data/" + url_hash_1 + "/" + url_hash_2 + "/" + url_hash_3 + "/" + url_hash_4 + "/" + url_hash
         url_directory_raw_data = url_directory + "/raw-data"
         url_raw_data = url_directory_raw_data + "/server_response.data"
         url_extracted_data_file = url_directory + "/extracted_data.json"
@@ -147,7 +147,7 @@ with open(global_url_list) as file:
             oldstable_flag = False
             unstable_flag = False
             for data_line in data_file:
-                uvi_advisory_formatting_issues = "no"
+                gsd_advisory_formatting_issues = "no"
                 data_line = data_line.rstrip()
                 # Get the DSA if exists and the Debian package name
                 if re.match("^  <title>Debian -- Security Information -- .*", data_line):
@@ -172,7 +172,7 @@ with open(global_url_list) as file:
                     #
                     if not re.match("^(DSA|https)", debian_dsa_id):
                         debian_dsa_id = url
-                        uvi_advisory_formatting_issues = "yes"
+                        gsd_advisory_formatting_issues = "yes"
 
                 # Get any CVE ID's in the file
                 tmp_data_cve = re.findall(r'CVE-[0-9]+-[0-9]+', data_line)
@@ -219,12 +219,12 @@ with open(global_url_list) as file:
             # url - string
             # info_vuln - Yes or False
             # info_date_string - YYYY-M-D
-            # uvi_processed_timestamp - YYYY-MM-DD-HH-MM-SS
-            # uvi_script_version - string
-            # uvi_script_name - string
+            # gsd_processed_timestamp - YYYY-MM-DD-HH-MM-SS
+            # gsd_script_version - string
+            # gsd_script_name - string
 
             extracted_data={
-                "uvi": [
+                "gsd": [
                     {
                         "extracted_data" :
                             {
@@ -248,18 +248,18 @@ with open(global_url_list) as file:
                                 "info_date_string": info_date_string
                             },
                         "meta_data": {
-                            "uvi_advisory_formatting_issues" : uvi_advisory_formatting_issues,
-                            "uvi_processed_timestamp": processed_timestamp,
-                            "uvi_script_hash": uvi_script_hash,
-                            "uvi_script_name": uvi_script_name,
-                            "uvi_script_version": uvi_script_version,
-                            "uvi_url_processed": url
+                            "gsd_advisory_formatting_issues" : gsd_advisory_formatting_issues,
+                            "gsd_processed_timestamp": processed_timestamp,
+                            "gsd_script_hash": gsd_script_hash,
+                            "gsd_script_name": gsd_script_name,
+                            "gsd_script_version": gsd_script_version,
+                            "gsd_url_processed": url
                         }
                     }
                 ]
             }
 
-            uvi_data_vuln_description = "" # TODO MORE INFORMATION:
+            gsd_data_vuln_description = "" # TODO MORE INFORMATION:
 
 #            f = open(url_extracted_data_file, "w")
 #            f.write(json.dumps(extracted_data, indent=4, sort_keys=True))
